@@ -1,0 +1,14 @@
+[
+    {
+        "0": "mechanism",
+        "1": "effect",
+        "2": "int",
+        "3": "advise"
+    },
+    {
+        "mechanism": 0,
+        "effect": 1,
+        "int": 2,
+        "advise": 3
+    }
+]

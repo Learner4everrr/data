@@ -1,0 +1,2362 @@
+[
+    {
+        "text": "Taken together, these results make it clear that ATP-bound forms of ORC and Cdc6p are likely to be required for productive interactions and pre-RC formation.",
+        "triple_list": [
+            [
+                "Cdc6p",
+                "positive",
+                "ATP"
+            ],
+            [
+                "ORC",
+                "positive",
+                "ATP"
+            ]
+        ]
+    },
+    {
+        "text": "Additional experiments were therefore performed to clarify whether the  Vps10p cd could in fact bind to  human GGA1 and  GGA2.",
+        "triple_list": [
+            [
+                "Vps10p",
+                "neutral",
+                "GGA1"
+            ],
+            [
+                "Vps10p",
+                "neutral",
+                "GGA2"
+            ]
+        ]
+    },
+    {
+        "text": "EH domains from Eps15 and Eps15R bind to NPF-containing peptides",
+        "triple_list": [
+            [
+                "Eps15",
+                "positive",
+                "NPF-containing peptide"
+            ],
+            [
+                "Eps15R",
+                "positive",
+                "NPF-containing peptide"
+            ]
+        ]
+    },
+    {
+        "text": "We conclude that the Arp1 subunit of dynactin binds directly to betaIII spectrin.",
+        "triple_list": [
+            [
+                "betaIII spectrin",
+                "positive",
+                "dynactin"
+            ],
+            [
+                "Arp1",
+                "positive",
+                "betaIII spectrin"
+            ]
+        ]
+    },
+    {
+        "text": "We thus used recombinant NFATp and Sp1 and a human TNF-\u03b1 promoter fragment spanning from positions \u2212200 to +87 relative to the TNF-\u03b1 transcription start site and performed quantitative DNase I footprinting to determine the precise patterns of binding of NFATp and Sp1 to the TNF-\u03b1 promoter in vitro. ",
+        "triple_list": [
+            [
+                "NFATp",
+                "positive",
+                "TNF-\u03b1 promoter"
+            ],
+            [
+                "Sp1",
+                "positive",
+                "TNF-\u03b1 promoter"
+            ]
+        ]
+    },
+    {
+        "text": "(A) Precursor lacking the first 82 amino acid residues of BCS1 can bind to OMV in a receptor-dependent manner.",
+        "triple_list": [
+            [
+                "BCS1",
+                "positive",
+                "OMV"
+            ]
+        ]
+    },
+    {
+        "text": "A 1-kb fragment of PAC clone 8856 was isolated by PCR using the oligonucleotides LF-35 (binding antisense in the PPAR\u03b32 5\u2032-UTR) and the oligonucleotide LF-58 (binding sense at position -1000 of the PPAR\u03b32), was sequenced, and was inserted into EcoRV site of pBluescript (Stratagene, La Jolla, CA).",
+        "triple_list": [
+            [
+                "LF-35",
+                "positive",
+                "PPAR\u03b32 5\u2032-UTR"
+            ],
+            [
+                "LF-58",
+                "positive",
+                "PPAR\u03b32 5\u2032-UTR"
+            ]
+        ]
+    },
+    {
+        "text": "We show that  BMP7 and  activin bind to the same  type II receptors,  ActRII and  IIB, but recruit distinct  type I receptors into heteromeric receptor complexes.",
+        "triple_list": [
+            [
+                "BMP7",
+                "positive",
+                "IIB"
+            ],
+            [
+                "IIB",
+                "positive",
+                "activin"
+            ],
+            [
+                "ActRII",
+                "positive",
+                "activin"
+            ],
+            [
+                "BMP7",
+                "positive",
+                "ActRII"
+            ]
+        ]
+    },
+    {
+        "text": "This is in agreement with the binding affinity of native  apoE isoforms for  Abeta (apoE2 > apoE3 > apoE4) ( 15,  41) and reduced  LRP-dependent uptake of apoE4/Abeta complexes in  CHO cells ( 38).",
+        "triple_list": [
+            [
+                "apoE",
+                "positive",
+                "Abeta"
+            ]
+        ]
+    },
+    {
+        "text": "The results suggest unanticipated roles for this region in actin binding to myosin, tropomyosin, and possibly troponin.",
+        "triple_list": [
+            [
+                "tropomyosin",
+                "positive",
+                "actin"
+            ],
+            [
+                "actin",
+                "neutral",
+                "troponin"
+            ],
+            [
+                "actin",
+                "positive",
+                "myosin"
+            ]
+        ]
+    },
+    {
+        "text": "C, disruption of Ca -dependent phospholipid binding does not inhibit Ca -dependent syntaxin 1 binding to synaptotagmin.",
+        "triple_list": [
+            [
+                "phospholipid",
+                "positive",
+                "syntaxin 1"
+            ],
+            [
+                "synaptotagmin",
+                "positive",
+                "syntaxin 1"
+            ]
+        ]
+    },
+    {
+        "text": "However, since we previously showed that SRF binding to each of the CArG boxes is mutually exclusive ( 53), it is likely that a single intact CArG box is also sufficient to support bFGF-mediated activation.",
+        "triple_list": [
+            [
+                "CArG box",
+                "positive",
+                "SRF"
+            ]
+        ]
+    },
+    {
+        "text": "Binding of 4E-BPs to eIF4E is regulated by ordered phosphorylation of critical proline-directed Ser/ Thr residues on 4E-BP1 [15, 16] .",
+        "triple_list": [
+            [
+                "eIF4E",
+                "positive",
+                "4E-BPs"
+            ]
+        ]
+    },
+    {
+        "text": "It is interesting to note that deletion of coding exon 3 or 4 did not significantly affect PR binding to RIZ proteins, even though both exons encode conserved sequences.",
+        "triple_list": [
+            [
+                "PR",
+                "positive",
+                "RIZ"
+            ]
+        ]
+    },
+    {
+        "text": "Since paralog members exhibit relatively conserved amino acid sequences, these data make it likely that all 39 HOX proteins bind CBP.",
+        "triple_list": [
+            [
+                "CBP",
+                "neutral",
+                "HOX"
+            ]
+        ]
+    },
+    {
+        "text": "H2A-H2B stabilizes binding of NAP-1 to p300.",
+        "triple_list": [
+            [
+                "NAP-1",
+                "positive",
+                "p300"
+            ]
+        ]
+    },
+    {
+        "text": "A cadherin mutant unable to bind PS1 is not cleaved by the PS1/gamma-secretase activity To examine whether PS1 binding to E-cadherin is necessary for the PS1/gamma-secretase cleavage, we used E-cadherin mutant GGG759-761AAA ( Thoreson et al., 2000).",
+        "triple_list": [
+            [
+                "E-cadherin",
+                "neutral",
+                "PS1/gamma-secretase"
+            ],
+            [
+                "cadherin mutant",
+                "negative",
+                "PS1"
+            ]
+        ]
+    },
+    {
+        "text": "Binding of armadillo to dTCF has been shown to reduce the ability of CBP to catalyze this reaction, perhaps by steric interference [ 97].",
+        "triple_list": [
+            [
+                "dTCF",
+                "positive",
+                "armadillo"
+            ]
+        ]
+    },
+    {
+        "text": "Clearly, the demonstration that PS predominantly binds mature Nct additionally questions the existence of the spatial paradox.",
+        "triple_list": [
+            [
+                "PS",
+                "positive",
+                "Nct"
+            ]
+        ]
+    },
+    {
+        "text": "Within the nucleus, phosphorylation at Ser133 might affect the ability of CREB to dimerize with different bZIP partners, or phosphorylation at Ser133 might promote CREB binding to the CRE.",
+        "triple_list": [
+            [
+                "CREB",
+                "positive",
+                "CRE"
+            ]
+        ]
+    },
+    {
+        "text": "In Vitro Interaction and Binding Affinity between the EPRS and IRS Repeats",
+        "triple_list": [
+            [
+                "EPRS",
+                "positive",
+                "IRS Repeats"
+            ]
+        ]
+    },
+    {
+        "text": "Interaction between the repeated motifs of EPRS and IRS was previously shown by genetic analysis (18).",
+        "triple_list": [
+            [
+                "IRS",
+                "positive",
+                "repeated motifs of EPRS"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, we examined the binding of Raf-1 to Ras in the Spry cell lines ( 28).",
+        "triple_list": [
+            [
+                "Raf-1",
+                "neutral",
+                "Ras"
+            ]
+        ]
+    },
+    {
+        "text": "Interestingly, we have found that TDP-43 can efficiently bind a number of ( UG) repeats equal to or greater than six and that there is a relationship between the number of ( UG) repeats and the efficiency of binding.",
+        "triple_list": [
+            [
+                "( UG) repeats",
+                "positive",
+                "TDP-43"
+            ]
+        ]
+    },
+    {
+        "text": "Both Gal11p and TFIIE can bind to TFIIH, pointing to a direct effect of these proteins on TFIIH CTD kinase activity [ 24].",
+        "triple_list": [
+            [
+                "Gal11p",
+                "positive",
+                "TFIIH"
+            ],
+            [
+                "TFIIH",
+                "positive",
+                "TFIIE"
+            ]
+        ]
+    },
+    {
+        "text": "A similar C-tail release is induced by arrestin binding to P-Rh* ( 16, 27), i.e. by the normal process of wild type arrestin's transition into its active state.",
+        "triple_list": [
+            [
+                "arrestin",
+                "positive",
+                "Rh"
+            ],
+            [
+                "arrestin",
+                "positive",
+                "P-Rh*"
+            ]
+        ]
+    },
+    {
+        "text": "SMAD-induced transcriptional stimulation is inhibited by an E1A protein that binds p300/CBP but not by an E1A protein unable to bind p300/CBP in two different cell lines treated with TGF-beta.",
+        "triple_list": [
+            [
+                "E1A",
+                "negative",
+                "p300/CBP"
+            ],
+            [
+                "E1A",
+                "positive",
+                "p300/CBP"
+            ]
+        ]
+    },
+    {
+        "text": " As expected,  HP1 specifically bound to the  H3 tail peptide methylated at  K9 (Fig.  5B).  ",
+        "triple_list": [
+            [
+                "H3",
+                "positive",
+                "HP1"
+            ]
+        ]
+    },
+    {
+        "text": "A and B show that tropomyosin was bound to the actin in both the undiluted (100 nM actin + 100 nM tropomyosin) and the 10-fold diluted samples, respectively.",
+        "triple_list": [
+            [
+                "actin",
+                "positive",
+                "tropomyosin"
+            ]
+        ]
+    },
+    {
+        "text": "The results demonstrated that DmORC1 bound to HP1 with the highest recovery ( Figure 6A).",
+        "triple_list": [
+            [
+                "HP1",
+                "positive",
+                "DmORC1"
+            ]
+        ]
+    },
+    {
+        "text": "The effect was specific to rapamycin, as FK506, an immunosuppressant that also binds FKBP12 but does not target mTOR, had no effect on the interaction, nor did ethanol, the vehicle used for both drugs.",
+        "triple_list": [
+            [
+                "FKBP12",
+                "positive",
+                "FK506"
+            ],
+            [
+                "mTOR",
+                "positive",
+                "rapamycin"
+            ]
+        ]
+    },
+    {
+        "text": "C, double-reciprocal plot for the adducin-dependent binding of spectrin to actin data shown in panels A and B.",
+        "triple_list": [
+            [
+                "spectrin",
+                "positive",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "HTH binds EXD directly via the MH domain",
+        "triple_list": [
+            [
+                "EXD",
+                "positive",
+                "HTH"
+            ]
+        ]
+    },
+    {
+        "text": "( CT)n regions are known to bind GAGA factor, a dominant enhancer of PEV thought to play a role in generating an accessible chromatin structure.",
+        "triple_list": [
+            [
+                "GAGA",
+                "positive",
+                "( CT)n regions"
+            ]
+        ]
+    },
+    {
+        "text": "To further define the interaction domain for RhoA binding to Kv1.2, we constructed a deletion mutant of Kv1.2 (Kv1.2-deltaN125) in which the distal 125 amino acids of the amino terminus were removed.",
+        "triple_list": [
+            [
+                "Kv1.2",
+                "positive",
+                "RhoA"
+            ]
+        ]
+    },
+    {
+        "text": "The intracellular concentration of Ubc2 is consistently within the micromolar range, which is saturating with respect to the Km of 102 \u00b1 13 nM for uncharged HsUbc2b binding to E1 and theKm of 54 \u00b1 18 nM for HsUbc2b-ubiquitin thiolester binding to E3\u03b1.",
+        "triple_list": [
+            [
+                "E1",
+                "positive",
+                "HsUbc2b"
+            ],
+            [
+                "E3\u03b1",
+                "positive",
+                "HsUbc2b-ubiquitin thiolester"
+            ]
+        ]
+    },
+    {
+        "text": "(D) Binding of  Tsg101 to  Hrs deletion mutants.",
+        "triple_list": [
+            [
+                "Tsg101",
+                "positive",
+                "Hrs"
+            ]
+        ]
+    },
+    {
+        "text": " In contrast,  CC2,  p115 CT (COOH-terminal 75 aa of  p115, which binds to  Giantin and  GM130) and  GM130 NT (NH2-terminal 73 aa of  GM130, which binds  p115) had no effect ( Fig. 2, E and F).  ",
+        "triple_list": [
+            [
+                "p115",
+                "positive",
+                "GM130"
+            ],
+            [
+                "p115",
+                "positive",
+                "Giantin"
+            ]
+        ]
+    },
+    {
+        "text": "Radiolabeled in vitro - translated  GSK3 and  CK1epsilon bind  Tcf3 beads.",
+        "triple_list": [
+            [
+                "Tcf3 beads",
+                "positive",
+                "CK1epsilon"
+            ],
+            [
+                "Tcf3 beads",
+                "positive",
+                "GSK3"
+            ]
+        ]
+    },
+    {
+        "text": " TFIIA binding to  TBP can prevent the inhibitory effects of  transcriptional repressors,  Dr1/DRAP1,  HMG1,  DSP1,  MOT1, and  TAFII250 ( 8-14).  ",
+        "triple_list": [
+            [
+                "Dr1",
+                "positive",
+                "DRAP1"
+            ],
+            [
+                "TBP",
+                "positive",
+                "TFIIA"
+            ]
+        ]
+    },
+    {
+        "text": " A  phosphoprotein of 62-64 kDa was clearly seen in association with  RasGAP upon  ephrin-B1 stimulation, demonstrating that  RasGAP not only binds to  EphB2, but also interacts with other proteins in  ephrin-B1-stimulated cells.  ",
+        "triple_list": [
+            [
+                "EphB2",
+                "positive",
+                "RasGAP"
+            ]
+        ]
+    },
+    {
+        "text": "Cdc6p increases the sequence-specific binding of  ORC to  origin DNA.",
+        "triple_list": [
+            [
+                "DNA",
+                "positive",
+                "ORC"
+            ]
+        ]
+    },
+    {
+        "text": "ICAM-3 bead binding to  THP-1 cells was uniformly less than 5% in repeat experiments.",
+        "triple_list": [
+            [
+                "ICAM-3 bead",
+                "neutral",
+                "THP-1"
+            ]
+        ]
+    },
+    {
+        "text": " Specifically, we have determined that  CD44s binds to  c-Src kinase both  in vivo (Figs.  1,  6,  8, and  9) and  in vitro (Fig.  2).  ",
+        "triple_list": [
+            [
+                "CD44s",
+                "positive",
+                "c-Src"
+            ]
+        ]
+    },
+    {
+        "text": "Displayed are the  consensus DNA sequences for the  EGR-1 and  Sp1 binding sites and the 13  bp overlapping  EGR-1 and  Sp1 binding sites of  GC-box 2.",
+        "triple_list": [
+            [
+                "GC-box 2",
+                "positive",
+                "EGR-1"
+            ],
+            [
+                "GC-box 2",
+                "positive",
+                "Sp1"
+            ]
+        ]
+    },
+    {
+        "text": " The mutation in the APPKPPR sequence (mPR) abolished the binding of  CIZ to  Cas SH3 (Fig.  3B, lanes 1, 2), strongly suggesting that this sequence was the binding site for  Cas SH3.  ",
+        "triple_list": [
+            [
+                "Cas",
+                "positive",
+                "CIZ"
+            ]
+        ]
+    },
+    {
+        "text": "As expected, the affinity of [3H]LY341495 in rat brain shown here is much higher than that observed for group II binding with [3H]glutamate (Kd= 187 nM).",
+        "triple_list": [
+            [
+                "group II",
+                "positive",
+                "[3H]LY341495"
+            ],
+            [
+                "[3H]glutamate",
+                "positive",
+                "group II"
+            ]
+        ]
+    },
+    {
+        "text": " Moreover, concentrations of tamoxifen as low as 0.25  muM substantially increased the binding of  calmodulin to the  estrogen receptor.  ",
+        "triple_list": [
+            [
+                "calmodulin",
+                "positive",
+                "estrogen receptor"
+            ]
+        ]
+    },
+    {
+        "text": " Moreover, we showed that the  binding regions of  ponsin and  vinculin were the region  containing the first and second  SH3 domains and the  proline-rich region, respectively.  ",
+        "triple_list": [
+            [
+                "vinculin",
+                "positive",
+                "ponsin"
+            ]
+        ]
+    },
+    {
+        "text": " ( Table  II), suggesting that the inhibitory role of intracellular  Na+ is not mediated by directly affecting the binding of  Nedd4 to   ENaC.  ",
+        "triple_list": [
+            [
+                "Nedd4",
+                "positive",
+                "ENaC"
+            ]
+        ]
+    },
+    {
+        "text": "( B) The  Gal4 AD binds  Sug1/Rpt6 and  Sug2/Rpt4 directly.",
+        "triple_list": [
+            [
+                "Gal4",
+                "positive",
+                "Sug2/Rpt4"
+            ],
+            [
+                "Gal4",
+                "positive",
+                "Sug1/Rpt6"
+            ]
+        ]
+    },
+    {
+        "text": "Our results suggest a mechanism by which  DM binding to  MHC class II molecules translates into  peptide release via disturbance of key interactions between the peptide and  MHC class II molecule near the  P1 pocket.",
+        "triple_list": [
+            [
+                "DM",
+                "positive",
+                "MHC class II"
+            ]
+        ]
+    },
+    {
+        "text": "Functional consequences of phosphorylation reported here include modulation of  adducin interactions with  spectrin and  actin by  PKA and inhibition of  calmodulin binding by  PKA and  PKC.",
+        "triple_list": [
+            [
+                "calmodulin",
+                "positive",
+                "PKA"
+            ],
+            [
+                "calmodulin",
+                "positive",
+                "PKC"
+            ]
+        ]
+    },
+    {
+        "text": " It has been suggested that  GSK-3beta binding to  Axin affects the  Axin conformation, resulting in a block in  MEKK binding ( 36).  ",
+        "triple_list": [
+            [
+                "MEKK",
+                "positive",
+                "Axin"
+            ],
+            [
+                "GSK-3beta",
+                "positive",
+                "Axin"
+            ]
+        ]
+    },
+    {
+        "text": " To overcome this, we developed a novel approach for the labeling and detection of  GST fusion proteins on membranes based on the specific and rapid binding of  glutathione to  GST.  ",
+        "triple_list": [
+            [
+                "glutathione",
+                "positive",
+                "GST"
+            ]
+        ]
+    },
+    {
+        "text": "The data provided here suggest that  EBNA1 binding to the  DS element might be required to direct hsORC to the EBV genome.",
+        "triple_list": [
+            [
+                "DS element",
+                "positive",
+                "EBNA1"
+            ]
+        ]
+    },
+    {
+        "text": " Although the  calmodulin binding domain of the  estrogen receptor has not been identified, these apparently discrepant data can be interpreted in the context of recently solved crystal structures ( 38).  ",
+        "triple_list": [
+            [
+                "calmodulin",
+                "positive",
+                "estrogen receptor"
+            ]
+        ]
+    },
+    {
+        "text": "This effect was  dose-dependent in that increasing concentrations of Slit  led to more binding of  srGAP1 with   Robo1     (Figure 4D).",
+        "triple_list": [
+            [
+                "Robo1",
+                "positive",
+                "srGAP1"
+            ]
+        ]
+    },
+    {
+        "text": " Interestingly, it has been described that  GSK-3  can bind  E-cadherin to phosphorylate it, which would result in a tighter interaction with  - catenin [  20].  ",
+        "triple_list": [
+            [
+                "E-cadherin",
+                "positive",
+                "GSK-3"
+            ],
+            [
+                "E-cadherin",
+                "positive",
+                "catenin"
+            ]
+        ]
+    },
+    {
+        "text": "It has been found that KSR is bound directly to MEK in the cytoplasm of quiescent cells; upon activation of the MAPK pathway by growth factors or activated RAS, KSR is relocalized to the plasma membrane in a complex containing RAF, MEK, and MAPK (Michaudet al. 1997; Denouel-Galyet al. 1998; Yuet al. 1998; Stewartet al. 1999).",
+        "triple_list": [
+            [
+                "KSR",
+                "positive",
+                "MEK"
+            ]
+        ]
+    },
+    {
+        "text": " In sum, the binding of  talin to integrin beta cytoplasmic domains is crucial for integrin function and is involved in the regulation of integrin activation and clustering.  ",
+        "triple_list": [
+            [
+                "integrin",
+                "positive",
+                "talin"
+            ]
+        ]
+    },
+    {
+        "text": "Sema3A binding to  NP-1/Plex 1 - expressing COS-7 cells is indistinguishable from   NP-1-expressing COS-7 cells at saturating concentrations of ligand (3 nM).",
+        "triple_list": [
+            [
+                "Plex 1",
+                "positive",
+                "NP-1"
+            ],
+            [
+                "Sema3A",
+                "positive",
+                "NP-1/Plex 1"
+            ]
+        ]
+    },
+    {
+        "text": "K d for TNP-ATP binding to MBP_6.2C\u039436 at pH 7.5 and 6.5 calculated using Equation 1 for the F obsdata in Fig. 10 A were, at pH 7.5, K d = 6.8 \u00b1 0.6 \u03bcM, N o = 0.51 \u00b1 0.02 mol of TNP-ATP/mol of protein and, at pH 6.5,K d = 1.4 \u00b1 0.1 \u03bcM. ",
+        "triple_list": [
+            [
+                "MBP",
+                "neutral",
+                "TNP-ATP"
+            ]
+        ]
+    },
+    {
+        "text": "A shows the amino acid comparison of the three  FK506 binding domains of  dFKBP59 with  human FKBP12 and  FKBP12.6.",
+        "triple_list": [
+            [
+                "FKBP12.6",
+                "positive",
+                "FK506"
+            ],
+            [
+                "FKBP12",
+                "positive",
+                "FK506"
+            ],
+            [
+                "FK506",
+                "positive",
+                "dFKBP59"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibition of  Actin Binding by PhosphorylationWe  examined the effects of phosphorylation on  fascin-actin binding and  found that phosphorylation by  PKC inhibits  actin binding of  fascin.",
+        "triple_list": [
+            [
+                "fascin",
+                "positive",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "This experiment showed that  Bcr increased the binding of  AF-6 to activated  Ras in a reaction that requires binding of its C terminus to the  PDZ domain of  AF-6.",
+        "triple_list": [
+            [
+                "AF-6",
+                "positive",
+                "Ras"
+            ]
+        ]
+    },
+    {
+        "text": " Thus, a straightforward interpretation of our results might be that overexpression of the  GTP-bound form of  Rab3a inhibits Ca2+-induced exocytosis by sequestering Ca2+/CaM.  ",
+        "triple_list": [
+            [
+                "GTP",
+                "positive",
+                "Rab3a"
+            ],
+            [
+                "CaM",
+                "positive",
+                "Ca2+"
+            ]
+        ]
+    },
+    {
+        "text": " Therefore, it is possible that the amino-terminal and  SH3 domains of  Abi-1 can bind simultaneously to  Sos or  Grb2 and  Abl, respectively.  ",
+        "triple_list": [
+            [
+                "Grb2",
+                "positive",
+                "Abi-1"
+            ],
+            [
+                "Sos",
+                "positive",
+                "Abi-1"
+            ],
+            [
+                "Abl",
+                "positive",
+                "Abi-1"
+            ]
+        ]
+    },
+    {
+        "text": "We studied the fMLP-induced activation of p38 and p44/p42 in differentiated HL-60 cells using phosphospecific antibodies that bind only the activated form of p38 or p44/p42.",
+        "triple_list": [
+            [
+                "phosphospecific antibodies",
+                "positive",
+                "p38"
+            ],
+            [
+                "phosphospecific antibodies",
+                "positive",
+                "p44/p42"
+            ]
+        ]
+    },
+    {
+        "text": "It is intriguing that our observation that  APP directly binds to the  TPR domain of  KLC and that  APP binding to  KLC is inhibited by the  KLC-All antibody, which binds specifically to the  TPR domain of  KLC ( Stenoien and Brady 1997  ), is similar to recent work on the  SYD protein.",
+        "triple_list": [
+            [
+                "APP",
+                "positive",
+                "KLC"
+            ],
+            [
+                "KLC-All antibody",
+                "positive",
+                "KLC"
+            ]
+        ]
+    },
+    {
+        "text": " Based on these observations, we speculated that the C-term might function as an autoinhibitory domain, and that binding of  tRNA to the  HisRS region would overcome this inhibition.  ",
+        "triple_list": [
+            [
+                "HisRS",
+                "positive",
+                "tRNA"
+            ]
+        ]
+    },
+    {
+        "text": " These  Tcf-binding proteins appear to suppress the complex formation of beta-catenin, Tcf, and DNA. Pontin52 is a  nuclear protein that binds to  beta-catenin, but the physiological significance is not known ( 33).  ",
+        "triple_list": [
+            [
+                "Pontin52",
+                "positive",
+                "beta-catenin"
+            ]
+        ]
+    },
+    {
+        "text": " The general  transcription factors TFIIA and  TFIIB bind directly to  TBP, stabilize its association with the promoter, and form the core of the  RNA polymerase II preinitiation complex ( 18,  36,  48).  ",
+        "triple_list": [
+            [
+                "TBP",
+                "positive",
+                "promoter"
+            ],
+            [
+                "TBP",
+                "positive",
+                "TFIIB"
+            ],
+            [
+                "TBP",
+                "positive",
+                "TFIIA"
+            ]
+        ]
+    },
+    {
+        "text": " However, the molecular mechanism by which  PPARs interfere with  NF-kappaB binding to the  TNF-alpha promoter is unknown.  ",
+        "triple_list": [
+            [
+                "TNF-alpha promoter",
+                "positive",
+                "NF-kappaB"
+            ]
+        ]
+    },
+    {
+        "text": " (vii) Overexpression of a  Grb10 mutant lacking the  SH2 domain impairs  IGF-I-mediated ubiquitination of the  IGF-IR in both  p6 and  p6/Grb10 cells, suggesting that binding between  Grb10 and  Nedd4 is critical for ubiquitination of the receptor.  ",
+        "triple_list": [
+            [
+                "Grb10",
+                "positive",
+                "Nedd4"
+            ]
+        ]
+    },
+    {
+        "text": " B, the  COOH terminus of  p65 is  required for binding of  TBP and  TFIIB.  ",
+        "triple_list": [
+            [
+                "TBP",
+                "positive",
+                "TFIIB"
+            ]
+        ]
+    },
+    {
+        "text": " Phosphorylation of  CREB at Ser142 has been shown in vitro to disrupt the binding of  CREB to the  KIX domain of  CBP   (Parker et al., 1998  ; Kornhauser et al., 2002  ).  ",
+        "triple_list": [
+            [
+                "CREB",
+                "positive",
+                "CBP"
+            ]
+        ]
+    },
+    {
+        "text": " 2 This raised the possibility that, as is the case with the other well characterized  class B scavenger receptor SR-BI,  HDL might bind directly to  CD36.  ",
+        "triple_list": [
+            [
+                "HDL",
+                "neutral",
+                "CD36"
+            ]
+        ]
+    },
+    {
+        "text": "Likewise, we found no change in the distance between  Cys   and  Cys   of  RLC when the  myosin was bound to  actin.",
+        "triple_list": [
+            [
+                "actin",
+                "positive",
+                "myosin"
+            ]
+        ]
+    },
+    {
+        "text": "Efficient binding of  DDP1 to the  dodeca-satellite C strand depends strongly on the length and lack of secondary structure of the DNA fragments.",
+        "triple_list": [
+            [
+                "DNA",
+                "positive",
+                "DDP1"
+            ]
+        ]
+    },
+    {
+        "text": "Instead, we find that  nNOS binds to the second  PDZ  repeat of  PSD-95, and a related  protein PSD-93.",
+        "triple_list": [
+            [
+                "PSD-93",
+                "positive",
+                "nNOS"
+            ],
+            [
+                "PDZ  repeat",
+                "positive",
+                "nNOS"
+            ],
+            [
+                "PSD-95",
+                "positive",
+                "nNOS"
+            ]
+        ]
+    },
+    {
+        "text": "Various quantities of  GST-syntaxin-1a were incubated with  tomosyn (10 pmol) on nitrocellulose membranes for 2  hr. Syntaxin-1a bound to  tomosyn was detected.",
+        "triple_list": [
+            [
+                "syntaxin-1a",
+                "positive",
+                "tomosyn"
+            ]
+        ]
+    },
+    {
+        "text": "These findings are consistent with the results in  CAT assay ( Fig 5, a - f) and support the idea that the nuclear translocation of  QM/Jif-1 is promoted by normal  PS1 thereby inhibiting the binding of  c-Jun homodimer to  TRE.",
+        "triple_list": [
+            [
+                "c-Jun",
+                "positive",
+                "c-Jun"
+            ],
+            [
+                "TRE",
+                "positive",
+                "c-Jun"
+            ]
+        ]
+    },
+    {
+        "text": "For example, Ubc9 binds the basic region of the bipartite NLS of the androgen receptor (38).",
+        "triple_list": [
+            [
+                "Ubc9",
+                "positive",
+                "androgen receptor"
+            ],
+            [
+                "Ubc9",
+                "positive",
+                "NLS"
+            ]
+        ]
+    },
+    {
+        "text": "NC2 binds to  TBP and inhibits its function (Goppelt and Meisterernst, 1996  ; Goppelt  et al., 1996  ).",
+        "triple_list": [
+            [
+                "TBP",
+                "positive",
+                "NC2"
+            ]
+        ]
+    },
+    {
+        "text": "Next we investigated the nucleotide specificity and effect of Mg2+ on  ATP binding to  synapsins.",
+        "triple_list": [
+            [
+                "synapsins",
+                "neutral",
+                "ATP"
+            ]
+        ]
+    },
+    {
+        "text": "The activity of PLCdelta1 is negatively regulated by interaction with  TG, but PLCdelta1 is released from this inhibitory association when  GTP binds to  TG.",
+        "triple_list": [
+            [
+                "PLCdelta1",
+                "positive",
+                "TG"
+            ],
+            [
+                "GTP",
+                "positive",
+                "TG"
+            ]
+        ]
+    },
+    {
+        "text": "These investigators propose that  HTH binding to  EXD may induce a conformational change in  EXD that alters the nuclear export/import balance by inactivating the  NES, thus favoring nuclear import.",
+        "triple_list": [
+            [
+                "EXD",
+                "positive",
+                "HTH"
+            ]
+        ]
+    },
+    {
+        "text": "To further explore the role of the C-terminal domain in the  heparin binding of  apoE, we used  apoE (1-260), a C-terminal  truncated variant that is monomeric rather than tetrameric in aqueous solution ( 21).",
+        "triple_list": [
+            [
+                "heparin",
+                "positive",
+                "apoE"
+            ]
+        ]
+    },
+    {
+        "text": "Direct SH2-mediated binding of  Shc to  FAK occurs after  FN stimulation (Schlaepfer and Hunter, 1997  ) and  FAK can directly phosphorylate  Shc at Tyr317 to promote  Grb2 binding and signaling to  ERK2 (Schlaepfer  et al., 1998  ).",
+        "triple_list": [
+            [
+                "ERK2",
+                "positive",
+                "Grb2"
+            ],
+            [
+                "FAK",
+                "positive",
+                "Shc"
+            ]
+        ]
+    },
+    {
+        "text": "To investigate this, we isolated the F-actin binding part of human plasma gelsolin comprising segment 2 and 3 (S2\u20133) and performed competition experiments under conditions (pH 6.8) where cofilin is known to efficiently bind to F-actin and only causes limited depolymerization (14).",
+        "triple_list": [
+            [
+                "gelsolin",
+                "positive",
+                "actin"
+            ],
+            [
+                "gelsolin",
+                "positive",
+                "F-actin"
+            ],
+            [
+                "cofilin",
+                "positive",
+                "F-actin"
+            ],
+            [
+                "cofilin",
+                "positive",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "The results, shown in Fig.  2, clearly demonstrate that  Gal4 binds to the  GC-rich region of the   GAL1-10 locus to a similar level in both the wild-type and the   htz1delta strains.",
+        "triple_list": [
+            [
+                "Gal4",
+                "positive",
+                "GC-rich region"
+            ],
+            [
+                "Gal4",
+                "positive",
+                "GAL1-10 locus"
+            ]
+        ]
+    },
+    {
+        "text": "Hsc70 Binding to Clathrin Cages",
+        "triple_list": [
+            [
+                "Clathrin Cages",
+                "neutral",
+                "Hsc70"
+            ]
+        ]
+    },
+    {
+        "text": "In the absence of  Wnt signals,  LEF1 binds to transcriptional  co-repressors TLE,  CtBP, and  HDACs to inhibit gene expression ( 22).",
+        "triple_list": [
+            [
+                "TLE",
+                "positive",
+                "Wnt"
+            ],
+            [
+                "HDACs",
+                "positive",
+                "Wnt"
+            ],
+            [
+                "CtBP",
+                "positive",
+                "Wnt"
+            ]
+        ]
+    },
+    {
+        "text": "dTCF/Pangolin is the cofactor necessary for Armadillo-dependent transcriptional activitation, and a dominant-negative form of dTCF that no longer binds Armadillo inhibits the ability of Armadillo to activate transcription 36, 37. ",
+        "triple_list": [
+            [
+                "dTCF",
+                "positive",
+                "Armadillo"
+            ],
+            [
+                "dominant-negative form of dTCF",
+                "negative",
+                "Armadillo"
+            ]
+        ]
+    },
+    {
+        "text": "This sequence shows marked homology to the amino-terminal sequence determined here for  processed Smac/ DIABLO bound to  XIAP, AVPIAQ;  Smac/ DIABLO has been processed here to remove the first 55 amino acids.",
+        "triple_list": [
+            [
+                "Smac/ DIABLO",
+                "positive",
+                "XIAP"
+            ]
+        ]
+    },
+    {
+        "text": "As shown in Figure 6A, addition of poly-l-proline, even in large excess, had no significant effect on the binding of profilin to gephyrin, although in corresponding ELISAs we could demonstrate the successful masking of the polyproline binding site on profilin by poly-l-proline incubation (data not shown). ",
+        "triple_list": [
+            [
+                "polyproline",
+                "positive",
+                "profilin"
+            ],
+            [
+                "gephyrin",
+                "positive",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "At early time points after activation, newly synthesized cyclin A is also quantitatively bound to cdk2 (see 8 and 12 h after activation of Myc); taken together, both observations suggest that there is not enough p130 in these cells to inhibit quantitatively newly formed cyclin A-cdk2 complexes.",
+        "triple_list": [
+            [
+                "cdk2",
+                "positive",
+                "cyclin A"
+            ]
+        ]
+    },
+    {
+        "text": "Because  CtBP binds to the  MLL repression domain, we wished to determine  whether  HPC2 also binds to the  MLL repression domain.",
+        "triple_list": [
+            [
+                "MLL repression domain",
+                "positive",
+                "CtBP"
+            ],
+            [
+                "MLL repression domain",
+                "neutral",
+                "HPC2"
+            ],
+            [
+                "MLL",
+                "neutral",
+                "HPC2"
+            ],
+            [
+                "CtBP",
+                "positive",
+                "MLL"
+            ]
+        ]
+    },
+    {
+        "text": "In this study, we found that binding of  pp90RSK to   CBP did not preclude binding of  phospho-CREB to  CBP, indicating that  pp90RSK may  interfere instead with recruitment of a general  transcription factor to  CBP.",
+        "triple_list": [
+            [
+                "CREB",
+                "positive",
+                "CBP"
+            ],
+            [
+                "phospho-CREB",
+                "positive",
+                "CBP"
+            ],
+            [
+                "pp90RSK",
+                "positive",
+                "CBP"
+            ]
+        ]
+    },
+    {
+        "text": "A similar mechanism involving heparin sulfate facilitation of fibroblast growth factor binding to FGFR2 has been postulated (31), but a more complex role in inducing conformational changes in the FGFR2 complex has become apparent with crystallographic analysis (32).",
+        "triple_list": [
+            [
+                "fibroblast growth factor",
+                "positive",
+                "FGFR2"
+            ]
+        ]
+    },
+    {
+        "text": "Chromatin immunoprecipitation experiments confirm that  NFAT5 binds to the  TNF  promoter in vivo.",
+        "triple_list": [
+            [
+                "NFAT5",
+                "positive",
+                "TNF  promoter"
+            ]
+        ]
+    },
+    {
+        "text": "We determined the binding affinities of  emerin for  GCL,  BAF, and  lamin A and analyzed their oligomeric interactions.",
+        "triple_list": [
+            [
+                "emerin",
+                "positive",
+                "GCL"
+            ],
+            [
+                "emerin",
+                "positive",
+                "lamin A"
+            ],
+            [
+                "emerin",
+                "positive",
+                "BAF"
+            ]
+        ]
+    },
+    {
+        "text": "The  anti-FGF Ab showed that  FGF-2 was bound to a similar extent to CD44v3-v10 and  CD44vRA, whereas  CD44s did not bind  FGF-2.",
+        "triple_list": [
+            [
+                "FGF-2",
+                "positive",
+                "CD44vRA"
+            ],
+            [
+                "FGF-2",
+                "positive",
+                "CD44v3-v10"
+            ],
+            [
+                "FGF-2",
+                "negative",
+                "CD44s"
+            ]
+        ]
+    },
+    {
+        "text": "Such  ATP-dependent binding of  Hsc70 to  auxilin is consistent with previously published work utilizing other assay systems   (Holstein et al., 1996  ; Jiang et al., 1997  ).",
+        "triple_list": [
+            [
+                "Hsc70",
+                "positive",
+                "auxilin"
+            ]
+        ]
+    },
+    {
+        "text": "The binding of  GSK3 to  Axin is essential for the ability of  Axin to ventralize   Xenopus embryos ( 23).",
+        "triple_list": [
+            [
+                "Axin",
+                "positive",
+                "GSK3"
+            ]
+        ]
+    },
+    {
+        "text": "Because the   Kd value for  E1 binding with  ubiquitin is in the submicromolar range,  E1-mediated ubiquitination reactions would be expected to be nearly saturated by 10  muM ubiquitin (Haas and Siepmann, 1997  ).",
+        "triple_list": [
+            [
+                "E1",
+                "positive",
+                "ubiquitin"
+            ]
+        ]
+    },
+    {
+        "text": "For example, a high-affinity form of  eIF4E (bound to  eIF4G) may promote initial 40S interactions with capped mRNA but subsequently convert to the low-affinity form after a rearrangement of the preinitiation complex (Fig.  8) ( 449).",
+        "triple_list": [
+            [
+                "40S",
+                "positive",
+                "mRNA"
+            ],
+            [
+                "eIF4E",
+                "positive",
+                "eIF4G"
+            ]
+        ]
+    },
+    {
+        "text": "Previous biochemical studies on the binding of  PC and PI to PI-TP  provided evidence for the presence of separate binding sites for the phosphorylinositol and  phosphorylcholine head group [ 3.",
+        "triple_list": [
+            [
+                "PC",
+                "positive",
+                "PI-TP"
+            ],
+            [
+                "PI",
+                "positive",
+                "PI-TP"
+            ]
+        ]
+    },
+    {
+        "text": "The binding of 4.1G-CTD to FKBP13 but not to FKBP12 underscores the selective nature of immunophilin interactions in vivo. ",
+        "triple_list": [
+            [
+                "FKBP12",
+                "negative",
+                "4.1G"
+            ],
+            [
+                "FKBP13",
+                "positive",
+                "4.1G"
+            ]
+        ]
+    },
+    {
+        "text": "These results suggest that the binding of  PBX and  HOX to  PPE is crucial for  mouse renin gene expression.",
+        "triple_list": [
+            [
+                "PBX",
+                "positive",
+                "PPE"
+            ],
+            [
+                "HOX",
+                "positive",
+                "PPE"
+            ]
+        ]
+    },
+    {
+        "text": "Previous studies have demonstrated that both antibodies and peptides directed at this site interfere with  nidogen binding to  laminin (Mayer et al., 1993a  ).",
+        "triple_list": [
+            [
+                "nidogen",
+                "positive",
+                "laminin"
+            ]
+        ]
+    },
+    {
+        "text": "In addition,  Sp4 also prefers binding to a  GC-box, which is similar to both  Sp1 and  Sp3, but not  Sp2 ( 29).",
+        "triple_list": [
+            [
+                "GC-box",
+                "positive",
+                "Sp3"
+            ],
+            [
+                "GC-box",
+                "positive",
+                "Sp2"
+            ],
+            [
+                "GC-box",
+                "positive",
+                "Sp4"
+            ],
+            [
+                "GC-box",
+                "positive",
+                "Sp1"
+            ]
+        ]
+    },
+    {
+        "text": "We found that amino- and carboxyl-terminal  truncated forms of  TTP, as well as a 77 amino acid fragment that contained both zinc fingers, could bind to the  TNFalpha ARE in cell-free cross-linking and gel shift assays.",
+        "triple_list": [
+            [
+                "truncated forms of  TTP",
+                "positive",
+                "TNFalpha ARE"
+            ]
+        ]
+    },
+    {
+        "text": "However, it has recently been reported that the tumor suppressor APC (adenomatous polyposis coli protein) is able to bind to the RGS domain of axin (1, 11, 25), suggesting that the binding of APC to this region may be important for normal axis formation.",
+        "triple_list": [
+            [
+                "adenomatous polyposis coli protein",
+                "positive",
+                "RGS domain"
+            ],
+            [
+                "adenomatous polyposis coli protein",
+                "positive",
+                "axin"
+            ]
+        ]
+    },
+    {
+        "text": "Deletion of the  UIM sharply reduced the efficiency with which  Hrs bound  ubiquitin ( Fig. 1 E).",
+        "triple_list": [
+            [
+                "Hrs",
+                "positive",
+                "ubiquitin"
+            ]
+        ]
+    },
+    {
+        "text": "Specific binding of  calmodulin to  NE-dlg/ SAP102.",
+        "triple_list": [
+            [
+                "calmodulin",
+                "positive",
+                "NE-dlg/ SAP102"
+            ]
+        ]
+    },
+    {
+        "text": "Nir2 was also shown to preferentially bind the inactive  GDP-bound form of  RhoA (Fig.  6A).",
+        "triple_list": [
+            [
+                "GDP-bound form of  RhoA",
+                "positive",
+                "GDP"
+            ],
+            [
+                "GDP-bound form of  RhoA",
+                "positive",
+                "Nir2"
+            ]
+        ]
+    },
+    {
+        "text": "If the binding of  GBP to  endogenous  Xgsk-3 inhibits the function of  Xgsk-3, leading to the formation of an   ectopic axis, it should be possible to overcome the effects of  GBP by  ectopically expressing additional  Xgsk-3.",
+        "triple_list": [
+            [
+                "GBP",
+                "positive",
+                "Xgsk-3"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibition of cell adhesion induced by soluble  galectin-8 is further complicated in view of the fact that  galectin-8 can also bind soluble  fibronectin present in the serum.",
+        "triple_list": [
+            [
+                "fibronectin",
+                "positive",
+                "galectin-8"
+            ]
+        ]
+    },
+    {
+        "text": "The hyperphosphorylation of  Cla4 can be induced experimentally by expression of  Clb2 and the  GTP-bound form of  Cdc42 ( 44).",
+        "triple_list": [
+            [
+                "GTP",
+                "positive",
+                "Cdc42"
+            ]
+        ]
+    },
+    {
+        "text": "We also present evidence that  TIM alone cannot repress  dCLK-CYC-mediated  transcription of an E-box reporter in  S2 cells, despite a report that  TIM  disrupts the DNA-binding ability of  dCLK and  CYC  in vitro  (Lee et al., 1999  ).",
+        "triple_list": [
+            [
+                "dCLK",
+                "positive",
+                "CYC"
+            ],
+            [
+                "DNA",
+                "positive",
+                "dCLK"
+            ],
+            [
+                "DNA",
+                "positive",
+                "CYC"
+            ]
+        ]
+    },
+    {
+        "text": "However, the increased  p53 binding to  sds-DNA may occur, but apoptosis as its consequence may be blocked by the  repair protein defect.",
+        "triple_list": [
+            [
+                "sds-DNA",
+                "positive",
+                "p53"
+            ]
+        ]
+    },
+    {
+        "text": "It has been shown that AKAP220 binds to PP1 in addition to PKA (29).",
+        "triple_list": [
+            [
+                "PKA",
+                "positive",
+                "AKAP220"
+            ],
+            [
+                "PP1",
+                "positive",
+                "AKAP220"
+            ]
+        ]
+    },
+    {
+        "text": "ACK2  binds to   SH3PX1  in cells.",
+        "triple_list": [
+            [
+                "SH3PX1",
+                "positive",
+                "ACK2"
+            ]
+        ]
+    },
+    {
+        "text": "A structural superposition of  PP1 onto the  adenine moeity of  ATP bound to  PKA suggests why  PP1 does not inhibit  PKA (  Figure 6B).",
+        "triple_list": [
+            [
+                "PKA",
+                "positive",
+                "ATP"
+            ]
+        ]
+    },
+    {
+        "text": "Once  Ras is bound to  GTP, it binds and activates these  RalGEFs, which in turn activate  Ral proteins.",
+        "triple_list": [
+            [
+                "RalGEFs",
+                "positive",
+                "Ras"
+            ],
+            [
+                "GTP",
+                "positive",
+                "Ras"
+            ]
+        ]
+    },
+    {
+        "text": "The areas of   proteolytic cleavage sites that become accessible in  mu2 when  AP-2 binds    clathrin and forms coats are indicated (red).",
+        "triple_list": [
+            [
+                "clathrin",
+                "positive",
+                "AP-2"
+            ]
+        ]
+    },
+    {
+        "text": "The phosphorylated forms of \u03b2-catenin bind the F box protein \u03b2-TrCP, a subunit of the SCF-type E3 ubiquitin ligase complex, resulting in ubiquitination of \u03b2-catenin and its destruction by the proteasome Jiang and Struhl 1998, Winston et al. 1999, Hart et al. 1999, Kitagawa et al. 1999, Polakis 2001.",
+        "triple_list": [
+            [
+                "\u03b2-catenin",
+                "positive",
+                "\u03b2-TrCP"
+            ],
+            [
+                "\u03b2-TrCP",
+                "positive",
+                "phosphorylated forms of \u03b2-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "Thus, binding of  BAD and  PKC to alpha-synuclein are inversely correlated.",
+        "triple_list": [
+            [
+                "PKC",
+                "positive",
+                "alpha-synuclein"
+            ],
+            [
+                "BAD",
+                "positive",
+                "alpha-synuclein"
+            ]
+        ]
+    },
+    {
+        "text": "This protein family is characterized by a  J domain, a highly conserved tetrahelical domain that binds to  Hsp70 chaperones and activates their ATPase activity.",
+        "triple_list": [
+            [
+                "Hsp70",
+                "positive",
+                "J domain"
+            ]
+        ]
+    },
+    {
+        "text": "Binding of soluble  DSL proteins to  Notch2 on the cell surface.",
+        "triple_list": [
+            [
+                "DSL",
+                "positive",
+                "Notch2"
+            ]
+        ]
+    },
+    {
+        "text": "However, we have been unable to demonstrate direct binding of purified  hsp90 to purified  hsp70 ( 25), and when the hydroxylapatite pool of brain cytosol is incubated with purified  hsp90, we do not recover an hsp90.hsp70 complex (Fig.  4).",
+        "triple_list": [
+            [
+                "hsp70",
+                "negative",
+                "hsp90"
+            ]
+        ]
+    },
+    {
+        "text": "Daam1 binds  to both  Dsh and  RhoA, and mediates  Wnt-induced   Dsh-RhoA complex formation.",
+        "triple_list": [
+            [
+                "Daam1",
+                "positive",
+                "Dsh"
+            ],
+            [
+                "Daam1",
+                "positive",
+                "RhoA"
+            ],
+            [
+                "RhoA",
+                "positive",
+                "Dsh"
+            ]
+        ]
+    },
+    {
+        "text": "Using  P19 cells, we show that  BMP7 and  activin bind to the common  type II receptors,  ActRII and  IIB, but recruit different  type I receptors into the  ligand-receptor complex and activate distinct Smad signaling pathways.",
+        "triple_list": [
+            [
+                "BMP7",
+                "positive",
+                "IIB"
+            ],
+            [
+                "IIB",
+                "positive",
+                "activin"
+            ],
+            [
+                "ActRII",
+                "positive",
+                "activin"
+            ],
+            [
+                "BMP7",
+                "positive",
+                "ActRII"
+            ]
+        ]
+    },
+    {
+        "text": "The key observation that stimulated the current investigation was that although SREBPs bind to both types of sites, sterol regulation in all promoters analyzed carefully to date is mediated through SREBP binding to SRE elements and not the classic E-box palindrome. ",
+        "triple_list": [
+            [
+                "E-box palindrome",
+                "negative",
+                "SREBP"
+            ],
+            [
+                "E-box palindrome",
+                "positive",
+                "SREBP"
+            ],
+            [
+                "SRE elements",
+                "positive",
+                "SREBP"
+            ]
+        ]
+    },
+    {
+        "text": "The cytoplasmic domain of  cadherin binds to  beta-catenin, and this complex is linked to the  actin cytoskeleton by  alpha-catenin.",
+        "triple_list": [
+            [
+                "alpha-catenin",
+                "positive",
+                "actin cytoskeleton"
+            ],
+            [
+                "cadherin",
+                "positive",
+                "beta-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "We have also determined that the carboxyl-terminal domain of  Fu is necessary and sufficient for the direct binding of  Fu to  Cos2.",
+        "triple_list": [
+            [
+                "Fu",
+                "positive",
+                "Cos2"
+            ]
+        ]
+    },
+    {
+        "text": "We found that the  GST-SET domain fusion protein selectively retained histones  H3 and  H4, whereas binding to  H2A and  H2B was significantly weaker.",
+        "triple_list": [
+            [
+                "GST-SET domain fusion protein",
+                "positive",
+                "H2B"
+            ],
+            [
+                "GST-SET domain fusion protein",
+                "positive",
+                "H2A"
+            ],
+            [
+                "GST-SET domain fusion protein",
+                "positive",
+                "H4"
+            ],
+            [
+                "histones  H3",
+                "positive",
+                "GST-SET domain fusion protein"
+            ]
+        ]
+    },
+    {
+        "text": "Measurement of the Binding of Annexin II to \u03b22GPI by Surface Plasmon Resonance",
+        "triple_list": [
+            [
+                "Annexin II",
+                "positive",
+                "\u03b22GPI"
+            ]
+        ]
+    },
+    {
+        "text": "These studies support a model in which  Sfl1 binds to the  ERS, perhaps in conjunction with other DNA -binding proteins, and functions to repress   SUC2 transcription.",
+        "triple_list": [
+            [
+                "Sfl1",
+                "positive",
+                "ERS"
+            ]
+        ]
+    },
+    {
+        "text": "In particular, pairwise binding of  CytR and  CRP to either site appears to be essentially noncooperative when evaluated from  CRP titrations.",
+        "triple_list": [
+            [
+                "CytR",
+                "positive",
+                "CRP"
+            ]
+        ]
+    },
+    {
+        "text": "This most likely occurs through the interaction between  SLBP bound to the  pre-mRNA and a protein of the  U7 snRNP or another factor that would bridge  SLBP and  U7snRNP.",
+        "triple_list": [
+            [
+                "SLBP",
+                "positive",
+                "pre-mRNA"
+            ],
+            [
+                "U7snRNP",
+                "positive",
+                "SLBP"
+            ]
+        ]
+    },
+    {
+        "text": "In   Aplysia, as in  mammals, the  regulation of gene transcription by cAMP is mediated by  cAMP  Responsive  Element  ( CRE) binding  protein CREB.",
+        "triple_list": [
+            [
+                "CREB",
+                "positive",
+                "CRE"
+            ]
+        ]
+    },
+    {
+        "text": "CYFIP1 (or  p140Sra-1, specifically  Rac1-associated protein) or  CYFIP2 (or  PIR121 or pop), which presents 94.5% of sequence similarities with  CYFIP1, have been shown to be specific targets of  Rac1, binding only to the  GTP-bound form of Rac1.",
+        "triple_list": [
+            [
+                "Rac1",
+                "positive",
+                "GTP"
+            ],
+            [
+                "CYFIP2",
+                "positive",
+                "GTP-bound form of Rac1"
+            ],
+            [
+                "CYFIP2",
+                "negative",
+                "Rac1"
+            ],
+            [
+                "CYFIP1",
+                "positive",
+                "GTP-bound form of Rac1"
+            ],
+            [
+                "CYFIP1",
+                "negative",
+                "Rac1"
+            ]
+        ]
+    },
+    {
+        "text": "The activity of  RalA on  Sec5 may also regulate the  actin cytoskeleton, as prevention of  Sec5 binding to  RalA inhibited  RalA from inducing filopodia formation, where inhibition of secretion with BFA had no effect (Sugihara et al., 2002   ).",
+        "triple_list": [
+            [
+                "Sec5",
+                "positive",
+                "RalA"
+            ]
+        ]
+    },
+    {
+        "text": "While we do not discount the possibility that the first two explanations may be valid for some of the confusion in the literature, in this report we show evidence that Src can phosphorylate the EGF-R on novel sites in vitro, that Src and P85\u03b1 preferentially associate with the EGF-R after it has been phosphorylated by Src, that these Src-phosphorylated sites (including consensus binding sites for Src and P85\u03b1) are phosphorylated in cells in response to EGF, that P85\u03b1 and Src bind to the EGF-R in these cells in an EGF-dependent manner, and that Csk-inactivated Src is reactivated upon binding to the Src phosphorylated EGF-R.",
+        "triple_list": [
+            [
+                "Src",
+                "positive",
+                "EGF-R"
+            ],
+            [
+                "EGF-R",
+                "positive",
+                "P85\u03b1"
+            ]
+        ]
+    },
+    {
+        "text": "Phosphorylation of  Y1176 prevents  L1 binding to  AP-2, an adaptor required for  clathrin-mediated internalization of  L1.",
+        "triple_list": [
+            [
+                "AP-2",
+                "positive",
+                "L1"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, the cytosol was used for testing the effects of  GST-Mnbk/ Dyrk1A supplementation on the binding of  dynamin to  GST-Amp(SH3).",
+        "triple_list": [
+            [
+                "dynamin",
+                "positive",
+                "GST-Amp(SH3)"
+            ]
+        ]
+    },
+    {
+        "text": "In contrast, while binding of  NCS-1 to  calcineurin was increased at 10  muM Ca2+ it was also detectable at 0 Ca2+.",
+        "triple_list": [
+            [
+                "NCS-1",
+                "positive",
+                "calcineurin"
+            ]
+        ]
+    },
+    {
+        "text": "Perhaps it is another region of  CBP, not the  KIX domain, which is bound to the  CREB complexes after depolarization, or perhaps  CBP binds to another nearby factor, though a stimulatory role for such  CBP binding remains unproven.",
+        "triple_list": [
+            [
+                "CREB complexes",
+                "negative",
+                "KIX domain"
+            ],
+            [
+                "CBP",
+                "positive",
+                "CREB complexes"
+            ]
+        ]
+    },
+    {
+        "text": "( D) Once licensing is complete  Cdc6 is removed, whilst  ORC binds less tightly (unshaded  ORC denotes weak binding to DNA).",
+        "triple_list": [
+            [
+                "DNA",
+                "positive",
+                "ORC"
+            ]
+        ]
+    },
+    {
+        "text": "The experiments of Fig.  5 were performed to determine if  p50 cdc37 also binds directly to  Raf.",
+        "triple_list": [
+            [
+                "p50 cdc37",
+                "neutral",
+                "Raf"
+            ]
+        ]
+    },
+    {
+        "text": "The first is that the strength of the tubulin-motor interaction partly overrides the coiled-coil interaction within the kinesin dimer, forcing the heads to come apart so that the individual kinesin molecules can bind to different tubulin heterodimers, relieving the constraints imposed by the coiled-coil necks (Thorm\u00e4hlen et al., 1998b).",
+        "triple_list": [
+            [
+                "kinesin",
+                "positive",
+                "tubulin heterodimers"
+            ],
+            [
+                "tubulin",
+                "positive",
+                "tubulin"
+            ],
+            [
+                "tubulin",
+                "positive",
+                "motor"
+            ],
+            [
+                "tubulin",
+                "positive",
+                "kinesin"
+            ]
+        ]
+    },
+    {
+        "text": "The 3\u2032 UTR of msl-2 contributes a function in addition to SXL binding (Figure 2E).",
+        "triple_list": [
+            [
+                "msl-2",
+                "positive",
+                "SXL"
+            ]
+        ]
+    },
+    {
+        "text": "The FN region of MSL1 that binds to MSL2 was chosen originally for expression in flies because we predicted, using the method of Woolfson and Alber (1995), that almost half of FN (amino acids 96-172) would form a two\u2010stranded, \u03b1\u2010helical, coiled\u2010coil structure (Figure 11). ",
+        "triple_list": [
+            [
+                "MSL1",
+                "positive",
+                "MSL2"
+            ]
+        ]
+    },
+    {
+        "text": "To rule out the possibility that the IVT-Hairy is homodimerizing in this assay through Hairy's basic helix-loop-helix domain with one of the Hairy subunits binding to GST-dCtBP and the other binding to IVT-Gro, we repeated the assay with a truncated form of IVT-Hairy. ",
+        "triple_list": [
+            [
+                "GST",
+                "positive",
+                "dCtBP"
+            ],
+            [
+                "IVT-Hairy",
+                "neutral",
+                "Gro"
+            ],
+            [
+                "IVT-Hairy",
+                "neutral",
+                "GST-dCtBP"
+            ]
+        ]
+    },
+    {
+        "text": "GU, W. and R. G. ROEDER, 1997  Activation of  p53 sequence-specific DNA binding by acetylation of the  P53 C-terminal domain.",
+        "triple_list": [
+            [
+                "DNA",
+                "positive",
+                "p53"
+            ]
+        ]
+    },
+    {
+        "text": "We have shown that  Axin directly binds to the  armadillo repeats of  beta-catenin ( 45,  51).",
+        "triple_list": [
+            [
+                "beta-catenin",
+                "positive",
+                "Axin"
+            ],
+            [
+                "armadillo repeats",
+                "positive",
+                "Axin"
+            ]
+        ]
+    },
+    {
+        "text": " E and F, Mg2+ dependence of the 22C11 action on the turnover number of GTPase activity (E) or GTP\u03b3S binding activity (F) of APP695/Go vesicles.",
+        "triple_list": [
+            [
+                "APP695/Go",
+                "positive",
+                "GTP\u03b3S"
+            ]
+        ]
+    },
+    {
+        "text": "A point mutation or a small deletion in the basic region of  c-Jun renders it unable to bind to the  AP-1 site, and consequently inactivates the transcriptional activity of  c-Jun and its ability to synergize with  Smad3.",
+        "triple_list": [
+            [
+                "AP-1",
+                "positive",
+                "c-Jun"
+            ]
+        ]
+    },
+    {
+        "text": "These results suggest that  l-afadin and  vinculin bind to  ponsin in a competitive manner, and that  l-afadin,  ponsin, and vinculin hardly  form a ternary complex.",
+        "triple_list": [
+            [
+                "afadin",
+                "positive",
+                "ponsin"
+            ],
+            [
+                "vinculin",
+                "positive",
+                "ponsin"
+            ],
+            [
+                "l-afadin",
+                "positive",
+                "ponsin"
+            ]
+        ]
+    },
+    {
+        "text": "Since removal of these two residues destroys the ability of the C-ERMAD to bind the N-ERMAD ( 18), the most likely interpretation is that the C-ERMAD inhibits the binding of  EBP50 to  Ez-(1-296).",
+        "triple_list": [
+            [
+                "EBP50",
+                "positive",
+                "Ez-(1-296)"
+            ],
+            [
+                "C-ERMAD",
+                "positive",
+                "N-ERMAD"
+            ]
+        ]
+    },
+    {
+        "text": "4-Hydroxytamoxifen rapidly decreased  mTAb1 binding to  mTOR in the  MER-Akt cells, but not in the parental NIH 3T3 cells (Fig.  5 A).",
+        "triple_list": [
+            [
+                "mTAb1",
+                "positive",
+                "mTOR"
+            ]
+        ]
+    },
+    {
+        "text": "Another CBF of 114 kDa, different from CBF/NF-Y, was also reported to recognize the CCAAT sequence around -90 (13), and E1A and p53 competitively bind to the CBF of 114 kDa to stimulate or repress the hsp70 promoter activity, respectively (22, 23).",
+        "triple_list": [
+            [
+                "CBF of 114 kDa",
+                "positive",
+                "p53"
+            ],
+            [
+                "CBF of 114 kDa",
+                "positive",
+                "E1A"
+            ]
+        ]
+    },
+    {
+        "text": "The binding of  dASF1 to  dCAF-1 is mediated through the  p105 subunit of  dCAF-1.",
+        "triple_list": [
+            [
+                "p105",
+                "positive",
+                "dASF1"
+            ],
+            [
+                "dASF1",
+                "positive",
+                "dCAF-1"
+            ]
+        ]
+    },
+    {
+        "text": "To evaluate whether both  CREB and  Nfe2l2 occupy  CRE2 and the overlapping  NF-E2 binding sites,  DNase I footprinting was performed with  CREB and  Nfe2l2/p18 synthesized by  in vitro transcription and translation.",
+        "triple_list": [
+            [
+                "NF-E2 binding sites",
+                "neutral",
+                "CREB"
+            ],
+            [
+                "NF-E2 binding sites",
+                "neutral",
+                "Nfe2l2"
+            ],
+            [
+                "Nfe2l2",
+                "neutral",
+                "CRE2"
+            ],
+            [
+                "CRE2",
+                "neutral",
+                "CREB"
+            ],
+            [
+                "Nfe2l2",
+                "positive",
+                "p18"
+            ]
+        ]
+    },
+    {
+        "text": "Differential binding of talin and filamin to \u03b2 cytoplasmic domains.",
+        "triple_list": [
+            [
+                "\u03b2 cytoplasmic domains",
+                "positive",
+                "filamin"
+            ],
+            [
+                "\u03b2 cytoplasmic domains",
+                "positive",
+                "talin"
+            ]
+        ]
+    },
+    {
+        "text": "Furthermore,  beta-catenin binding to the  tumor suppressor gene product APC (adenomatous polyposis coli gene ( 45,  46)) and  GSK3beta binding to the  APC.",
+        "triple_list": [
+            [
+                "beta-catenin",
+                "positive",
+                "APC"
+            ],
+            [
+                "APC",
+                "positive",
+                "GSK3beta"
+            ]
+        ]
+    },
+    {
+        "text": "Differential binding of  apoE isoforms to the amyloid  Abeta peptide has been suggested as a mechanism.",
+        "triple_list": [
+            [
+                "apoE",
+                "positive",
+                "Abeta"
+            ]
+        ]
+    },
+    {
+        "text": "On the basis of the previous findings that  p300 binds to  SRC-1 through this region, we speculate that this activation occurred through the interaction of  SRC-1 with  p300.",
+        "triple_list": [
+            [
+                "SRC-1",
+                "positive",
+                "p300"
+            ]
+        ]
+    },
+    {
+        "text": "This suggests that binding of  APC and  GSK3beta  to  Axin promotes the phosphorylation of  APC in vivo,  presumably by  GSK3beta (Rubinfeld et al., 1996  ).",
+        "triple_list": [
+            [
+                "APC",
+                "positive",
+                "Axin"
+            ],
+            [
+                "Axin",
+                "positive",
+                "GSK3beta"
+            ]
+        ]
+    },
+    {
+        "text": "Combination of EMSA studies, Sp1/Sp3 overexpression experiments in Drosophila SL-2 cells, and systematic promoter mutagenesis identified enhanced Sp1 and Sp3 binding to two GC-boxes at -73/-66 and -58/-52 as the core mechanism of oxidative stress-triggered VEGF-A transactivation.",
+        "triple_list": [
+            [
+                "GC-boxes",
+                "positive",
+                "Sp1"
+            ],
+            [
+                "GC-boxes",
+                "positive",
+                "Sp3"
+            ]
+        ]
+    },
+    {
+        "text": "Collagen peptides I and II effectively inhibited the binding of both  alpha1I and  alpha2I to  collagen in a dose-dependent manner (Fig.  9).",
+        "triple_list": [
+            [
+                "alpha1I",
+                "positive",
+                "collagen"
+            ],
+            [
+                "collagen",
+                "positive",
+                "alpha2I"
+            ]
+        ]
+    },
+    {
+        "text": "EB1 binds Pin2/TRF1 in vitro and in vivo.",
+        "triple_list": [
+            [
+                "TRF1",
+                "positive",
+                "EB1"
+            ]
+        ]
+    },
+    {
+        "text": "Binding of  GTP to  eIF5B may be required for it to adopt an active conformation.",
+        "triple_list": [
+            [
+                "GTP",
+                "neutral",
+                "eIF5B"
+            ]
+        ]
+    },
+    {
+        "text": "These results suggest that a  CREB has already bound to  CRE existing in the  cyclin D1 promoter in prereplicating priming of hepatocytes.",
+        "triple_list": [
+            [
+                "CREB",
+                "positive",
+                "CRE"
+            ],
+            [
+                "CREB",
+                "positive",
+                "cyclin D1 promoter"
+            ]
+        ]
+    },
+    {
+        "text": " Also, like  E-cadherin and  APC,  MUC1 binds directly to  beta-catenin ( 61).  ",
+        "triple_list": [
+            [
+                "E-cadherin",
+                "positive",
+                "beta-catenin"
+            ],
+            [
+                "MUC1",
+                "positive",
+                "beta-catenin"
+            ],
+            [
+                "APC",
+                "positive",
+                "beta-catenin"
+            ]
+        ]
+    }
+]

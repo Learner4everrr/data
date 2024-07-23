@@ -1,0 +1,1227 @@
+[
+    {
+        "text": "alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin*T-cell factor*DNA complex.",
+        "triple_list": [
+            [
+                "T-cell factor",
+                "PPI",
+                "beta-catenin"
+            ],
+            [
+                "T-cell factor",
+                "PPI",
+                "alpha-catenin"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "beta-catenin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "beta-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "A binary complex of birch profilin and skeletal muscle actin could be isolated by gel chromatography.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "skeletal muscle actin"
+            ]
+        ]
+    },
+    {
+        "text": "Birch profilin increased the critical concentration required for muscle and brain actin polymerization in a concentration-dependent manner, supporting the notion of the formation of a heterologous complex between the plant protein and animal actin.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "brain actin",
+                "PPI",
+                "profilin"
+            ],
+            [
+                "profilin",
+                "PPI",
+                "muscle"
+            ]
+        ]
+    },
+    {
+        "text": "Interaction of plant profilin with mammalian actin.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "In viscometric assays, the birch protein was seen to modulate actin filament formation analogous to animal profilin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "These data indicate that the actin-binding domains in plant and animal profilins are functionally highly conserved, although the overall sequence similarity is less than 25%.",
+        "triple_list": [
+            [
+                "profilins",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "Absence of alpha-syntrophin leads to structurally aberrant neuromuscular synapses deficient in utrophin.",
+        "triple_list": [
+            [
+                "utrophin",
+                "PPI",
+                "alpha-syntrophin"
+            ]
+        ]
+    },
+    {
+        "text": "Thus, alpha-syntrophin has an important role in synapse formation and in the organization of utrophin, acetylcholine receptor, and acetylcholinesterase at the neuromuscular synapse.",
+        "triple_list": [
+            [
+                "acetylcholinesterase",
+                "PPI",
+                "alpha-syntrophin"
+            ],
+            [
+                "acetylcholine receptor",
+                "PPI",
+                "alpha-syntrophin"
+            ],
+            [
+                "utrophin",
+                "PPI",
+                "alpha-syntrophin"
+            ]
+        ]
+    },
+    {
+        "text": "Abundance of actin, talin, alpha 5 and beta 1 integrins, pp125 focal adhesion kinase, and alpha-catenin is not affected by the differential calreticulin expression.",
+        "triple_list": [
+            [
+                "calreticulin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "calreticulin"
+            ],
+            [
+                "calreticulin",
+                "PPI",
+                "alpha 5"
+            ],
+            [
+                "calreticulin",
+                "PPI",
+                "beta 1 integrins"
+            ],
+            [
+                "pp125",
+                "PPI",
+                "focal adhesion kinase"
+            ],
+            [
+                "calreticulin",
+                "PPI",
+                "pp125"
+            ],
+            [
+                "calreticulin",
+                "PPI",
+                "talin"
+            ]
+        ]
+    },
+    {
+        "text": "Acanthamoeba actin and profilin can be cross-linked between glutamic acid 364 of actin and lysine 115 of profilin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Acanthamoeba profilin was cross-linked to actin via a zero-length isopeptide bond using carbodiimide.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "Acanthamoeba profilin affects the mechanical properties of nonfilamentous actin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "In contrast, profilin had little effect on the rigidity and viscosity of actin filaments.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "Acanthamoeba profilin has similar but weaker effects on muscle actin, requiring 5 to 10 times more profilin than with amoeba actin.",
+        "triple_list": [
+            [
+                "muscle actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Acanthamoeba profilin strongly inhibits in a concentration-dependent fashion the rate and extent of Acanthamoeba actin polymerization in 50 mM KCl.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Addition of profilin to polymerized actin causes it to depolymerize until a new steady-state, dependent on profilin concentration, is achieved.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "MgCl2 strongly inhibits these effects of profilin, most likely by binding to the high-affinity divalent cation site on the actin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "In addition to its presence in cell-cell adhesion sites, we have found beta-catenin, but not alpha-catenin, in the Z-discs of heart and skeletal striated muscles.",
+        "triple_list": [
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "A chimera consisting of the alpha-catenin-binding region of beta-catenin linked to the amino terminus of alpha-catenin 57-264 behaves as a monomer in solution, as expected, since beta-catenin binding disrupts the alpha-catenin dimer.",
+        "triple_list": [
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin 57-264"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "Acidic domain of the phosphoprotein (P) of vesicular stomatitis virus differentially interacts with homologous and heterologous nucleocapsid protein (N).",
+        "triple_list": [
+            [
+                "phosphoprotein",
+                "PPI",
+                "N"
+            ],
+            [
+                "nucleocapsid protein",
+                "PPI",
+                "P"
+            ],
+            [
+                "P",
+                "PPI",
+                "N"
+            ],
+            [
+                "nucleocapsid protein",
+                "PPI",
+                "phosphoprotein"
+            ]
+        ]
+    },
+    {
+        "text": "A core activity associated with the N terminus of the yeast RAD52 protein is revealed by RAD51 overexpression suppression of C-terminal rad52 truncation alleles.",
+        "triple_list": [
+            [
+                "rad52",
+                "PPI",
+                "RAD51"
+            ]
+        ]
+    },
+    {
+        "text": "Actin-binding proteins such as profilin and gelsolin bind to phosphatidylinositol (PI) 4,5-bisphosphate (PI 4,5-P2) and regulate the concentration of monomeric actin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "Actin-binding proteins"
+            ],
+            [
+                "gelsolin",
+                "PPI",
+                "Actin-binding proteins"
+            ],
+            [
+                "Actin-binding proteins",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "This effect is specific to profilin and gelsolin because other cytoskeletal proteins such as tau or actin do not affect PI 3-kinase activity.",
+        "triple_list": [
+            [
+                "PI 3-kinase",
+                "PPI",
+                "actin"
+            ],
+            [
+                "PI 3-kinase",
+                "PPI",
+                "tau"
+            ]
+        ]
+    },
+    {
+        "text": "Actin-depolymerizing factor (ADF) and cofilin define a family of actin-binding proteins essential for the rapid turnover of filamentous actin in vivo.",
+        "triple_list": [
+            [
+                "ADF",
+                "PPI",
+                "actin-binding proteins"
+            ],
+            [
+                "cofilin",
+                "PPI",
+                "actin-binding proteins"
+            ],
+            [
+                "Actin-depolymerizing factor",
+                "PPI",
+                "actin-binding proteins"
+            ],
+            [
+                "actin",
+                "PPI",
+                "actin-binding proteins"
+            ]
+        ]
+    },
+    {
+        "text": "Actin isoforms from different species were also compared, and the effect of profilin on the thermal stability of actin was studied.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Active, Ser133-phosphorylated CREB effects transcription of CRE-dependent genes via interaction with the 265-kDa co-activator protein CREB-binding-protein, CBP, which bridges the CRE/CREB complex to components of the basal transcriptional apparatus.",
+        "triple_list": [
+            [
+                "CREB-binding-protein",
+                "PPI",
+                "CREB"
+            ],
+            [
+                "CREB",
+                "PPI",
+                "CBP"
+            ]
+        ]
+    },
+    {
+        "text": "A distinct modulating domain in glucocorticoid receptor monomers in the repression of activity of the transcription factor AP-1.",
+        "triple_list": [
+            [
+                "AP-1",
+                "PPI",
+                "glucocorticoid receptor"
+            ]
+        ]
+    },
+    {
+        "text": "ADP-ribosylation of actin at Arg 177 by Clostridium perfringens iota toxin increased the nucleotide dissociation rate from 2.2 x 10(-3) s-1 to 4.5 x 10(-3) s-1 without affecting the profilin-induced stimulation of nucleotide exchange.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "iota toxin"
+            ],
+            [
+                "iota toxin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "In contrast, ADP-ribosylation of actin at Arg95/Arg372 induced by turkey erythrocyte transferase decreased the nucleotide dissociation rate to 1.5 x 10(3) s-1 and inhibited the profilin-induced stimulation of nucleotide exchange.",
+        "triple_list": [
+            [
+                "erythrocyte transferase",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "After digestion of the 60 kDa fragment with cyanogen bromide, the N-terminal 21-amino acid sequence of one of the resulting peptides was found to show sequence similarity to a region near the actin-binding site (amino acid residues 260-281) of yeast fimbrin.",
+        "triple_list": [
+            [
+                "fimbrin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "After in vitro labelling of isolated rat liver nuclei, the following ADP-ribosylated and unmodified histones were identified by HPLC and gel electrophoresis: histone H1(0), four histone H1 subfractions, histone H2A.1, histone H2A.2, oxidized histone H2A.2, histone H2A.X, histone H2A.Z, histone H2B, three histone H3 variants and histone H4.",
+        "triple_list": [
+            [
+                "histone",
+                "PPI",
+                "H1"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H4"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H1(0)"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H2A.1"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H2A.X"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H2A.2"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H2B"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H2A.Z"
+            ],
+            [
+                "histone",
+                "PPI",
+                "H3"
+            ]
+        ]
+    },
+    {
+        "text": "A highly significant correlation was observed between the loss of expression of E-cadherin, alpha-catenin and gamma-catenin, but not beta-catenin, with increased TNM stage (p <0.05).",
+        "triple_list": [
+            [
+                "E-cadherin",
+                "PPI",
+                "gamma-catenin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "E-cadherin"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "gamma-catenin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "gamma-catenin"
+            ],
+            [
+                "E-cadherin",
+                "PPI",
+                "beta-catenin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "beta-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "Aip1p interacts with cofilin to disassemble actin filaments.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ],
+            [
+                "Aip1p",
+                "PPI",
+                "actin"
+            ],
+            [
+                "Aip1p",
+                "PPI",
+                "cofilin"
+            ]
+        ]
+    },
+    {
+        "text": "Aip1p localizes to cortical actin patches in yeast cells, and this localization is disrupted by specific actin and cofilin mutations.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "Aip1p"
+            ]
+        ]
+    },
+    {
+        "text": "A two-hybrid-based approach using cofilin and actin mutants identified residues necessary for the interaction of actin, cofilin, and Aip1p in an apparent ternary complex.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "Aip1p"
+            ],
+            [
+                "cofilin",
+                "PPI",
+                "Aip1p"
+            ]
+        ]
+    },
+    {
+        "text": "Here, we report that Aip1p also interacts with the ubiquitous actin depolymerizing factor cofilin.",
+        "triple_list": [
+            [
+                "cofilin",
+                "PPI",
+                "Aip1p"
+            ],
+            [
+                "actin depolymerizing factor",
+                "PPI",
+                "cofilin"
+            ]
+        ]
+    },
+    {
+        "text": "We conclude that Aip1p is a cofilin-associated protein that enhances the filament disassembly activity of cofilin and restricts cofilin localization to cortical actin patches.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "Aip1p"
+            ],
+            [
+                "cofilin",
+                "PPI",
+                "Aip1p"
+            ],
+            [
+                "Aip1p",
+                "PPI",
+                "cofilin"
+            ]
+        ]
+    },
+    {
+        "text": "A LIMK2 mutant with replacement of threonine 505 by valine abolished LIMK2 activities for cofilin phosphorylation and actin cytoskeletal changes, whereas replacement by glutamate enhanced the protein kinase activity and stress fiber formation by LIMK2.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "LIMK2"
+            ],
+            [
+                "protein kinase",
+                "PPI",
+                "LIMK2"
+            ],
+            [
+                "LIMK2",
+                "PPI",
+                "actin"
+            ],
+            [
+                "cofilin",
+                "PPI",
+                "LIMK2"
+            ]
+        ]
+    },
+    {
+        "text": "All of the experimental data were quantitatively accounted for on the basis of a 1:1 complex between profilin and monomeric actin with a Kr between 4 and 9 microM, the same value obtained previously in the absence of MgCl2.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "The interaction of Acanthamoeba actin and Acanthamoeba profilin was evaluated as a function of ionic conditions.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Although binding patterns of different sera were not identical, almost all sera caused IgG binding to platelet components of 87-90 kD, 140 kD (identified as vinculin) and 220-240 kD (tentatively identified as talin and actin-binding protein).",
+        "triple_list": [
+            [
+                "IgG",
+                "PPI",
+                "talin"
+            ],
+            [
+                "IgG",
+                "PPI",
+                "actin-binding protein"
+            ],
+            [
+                "IgG",
+                "PPI",
+                "vinculin"
+            ]
+        ]
+    },
+    {
+        "text": "Although profilin released actin at the appropriate time to stimulate actin assembly during exposure to chemoattractants, the concentration of profilin in PMN was insufficient to explain the high unpolymerized actin content in unstimulated PMN and the quantity of actin released from profilin too small to account for the large shifts from unpolymerized to polymerized actin associated with maximal chemoattractant stimulation.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "We examined the role of the actin monomer sequestering protein, profilin, in the regulation of PMN actin filament assembly during chemoattractant stimulation using a Triton extraction method.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "profilin",
+                "PPI",
+                "PMN actin"
+            ]
+        ]
+    },
+    {
+        "text": "Although co-localization of glucokinase with actin filaments was not clearly demonstrated in the pancreatic beta-cell line MIN6, islet glucokinase was found to be present in both the nucleus and the cytoplasm, though predominantly in the nucleus.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "glucokinase"
+            ]
+        ]
+    },
+    {
+        "text": "A portion of glucokinase appeared to be co-localized with actin filaments in the cytoplasm of cultured rat hepatocytes incubated with 25 mM glucose.",
+        "triple_list": [
+            [
+                "glucokinase",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "Co-localization of glucokinase with actin filaments.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "glucokinase"
+            ]
+        ]
+    },
+    {
+        "text": "When liver- or islet-type glucokinase was transiently expressed in COS-7 cells, the expressed glucokinase was also co-localized with actin filaments in the cytoplasm of these transfected cells.",
+        "triple_list": [
+            [
+                "glucokinase",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "Although neither activation of BCK1 (MEKK) by the dominant BCK1-20 mutation nor increased dosage of MKK1 (MEK) or MPK1 (MAP kinase) mimicked PKC1 as a glc7-10 dosage suppressor, extra copies of genes encoding upstream components of the Pkc1p pathway such as ROM2, RHO2, HCS77/WSC1/SLG1 and MID2 also suppressed glc7-10 effectively.",
+        "triple_list": [
+            [
+                "ROM2",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "glc7-10",
+                "PPI",
+                "SLG1"
+            ],
+            [
+                "RHO2",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "MPK1",
+                "PPI",
+                "MAP kinase"
+            ],
+            [
+                "BCK1",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "glc7-10",
+                "PPI",
+                "PKC1"
+            ],
+            [
+                "MKK1",
+                "PPI",
+                "MEK"
+            ],
+            [
+                "BCK1",
+                "PPI",
+                "BCK1-20"
+            ],
+            [
+                "BCK1",
+                "PPI",
+                "MEKK"
+            ],
+            [
+                "MPK1",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "MKK1",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "MID2",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "BCK1-20",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "HCS77",
+                "PPI",
+                "glc7-10"
+            ],
+            [
+                "WSC1",
+                "PPI",
+                "glc7-10"
+            ]
+        ]
+    },
+    {
+        "text": "A major point of interest was to clarify whether rheological, high precision measurements can yield quantitative information about the influence of talin and vinculin on the structure, chain dynamics, elasticity and viscoelasticity of actin filaments with time.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "talin"
+            ],
+            [
+                "vinculin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "The viscoelasticity of entangled actin networks: the influence of defects and modulation by talin and vinculin.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "talin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "vinculin"
+            ]
+        ]
+    },
+    {
+        "text": "A model is proposed for the function of profilin in actin-based motility.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "As a consequence, in the presence of thymosin beta 4 (T beta 4), low amounts of profilin promote extensive actin assembly off of the pool of actin-T beta 4 complex.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "T beta 4"
+            ]
+        ]
+    },
+    {
+        "text": "How profilin promotes actin filament assembly in the presence of thymosin beta 4.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "The role of profilin in the regulation of actin assembly has been reexamined.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "When barbed ends are capped, profilin simply sequesters globular actin.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ]
+        ]
+    },
+    {
+        "text": "mDia binds profilin likely to promote actin polymerization.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "actin"
+            ],
+            [
+                "mDia",
+                "PPI",
+                "actin"
+            ],
+            [
+                "mDia",
+                "PPI",
+                "profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Munc18-2 is a Sec1 homologue enriched in epithelial cells and forms a complex with syntaxin 3, a t-SNARE localized to the apical plasma membrane.",
+        "triple_list": [
+            [
+                "Munc18-2",
+                "PPI",
+                "Sec1"
+            ],
+            [
+                "t-SNARE",
+                "PPI",
+                "syntaxin 3"
+            ],
+            [
+                "Munc18-2",
+                "PPI",
+                "syntaxin 3"
+            ]
+        ]
+    },
+    {
+        "text": "Even the Munc18-2 mutants that do not detectably bind syntaxin 3 were membrane associated in Caco-2 cells, suggesting that the syntaxin interaction is not the sole determinant of Sec1 protein membrane attachment.",
+        "triple_list": [
+            [
+                "syntaxin",
+                "PPI",
+                "Sec1"
+            ],
+            [
+                "syntaxin 3",
+                "PPI",
+                "Munc18-2"
+            ]
+        ]
+    },
+    {
+        "text": "The in vitro and in vivo binding patterns were highly similar, and the association of the Munc18-2 variants with syntaxin 3 correlated well with their ability to displace SNAP-23 from syntaxin 3 complexes when overexpressed in Caco-2 cells.",
+        "triple_list": [
+            [
+                "SNAP-23",
+                "PPI",
+                "syntaxin 3"
+            ],
+            [
+                "Munc18-2",
+                "PPI",
+                "SNAP-23"
+            ],
+            [
+                "Munc18-2",
+                "PPI",
+                "syntaxin 3"
+            ],
+            [
+                "syntaxin 3",
+                "PPI",
+                "syntaxin 3"
+            ],
+            [
+                "syntaxin 3",
+                "PPI",
+                "SNAP-23"
+            ]
+        ]
+    },
+    {
+        "text": "Analyses of beta-catenin or E-cadherin immunoprecipitates from BMMC lysate revealed that alpha-catenin, beta-catenin, and E-cadherin were co-precipitated, suggesting that E-cadherin and catenins form a complex in mast cells.",
+        "triple_list": [
+            [
+                "alpha-catenin",
+                "PPI",
+                "E-cadherin"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "E-cadherin"
+            ],
+            [
+                "catenins",
+                "PPI",
+                "E-cadherin"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "Analysis of the formation of the calf spleen complex in the presence of varying concentrations of divalent cations gave evidence for the presence of a high-affinity divalent-cation-binding site on the spleen actin (beta, gamma) which appears to regulate the interaction with profilin.",
+        "triple_list": [
+            [
+                "profilin",
+                "PPI",
+                "spleen actin"
+            ]
+        ]
+    },
+    {
+        "text": "The interaction between calf spleen profilin and actin depends critically on the status of the C-terminus of the actin, and in the case of profilin, the C-terminus is of great importance for the physiochemical behaviour of the protein.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "spleen"
+            ],
+            [
+                "spleen",
+                "PPI",
+                "spleen profilin"
+            ],
+            [
+                "actin",
+                "PPI",
+                "spleen profilin"
+            ]
+        ]
+    },
+    {
+        "text": "Analysis of this product by peptide mapping (Sutoh (1982) Biochemistry 21, 3654-3661) showed that cofilin was cross-linked with the N-terminal segment of actin containing residues 1-12.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ]
+        ]
+    },
+    {
+        "text": "Purification of cofilin, a 21,000 molecular weight actin-binding protein, from porcine kidney and identification of the cofilin-binding site in the actin sequence.",
+        "triple_list": [
+            [
+                "actin",
+                "PPI",
+                "cofilin"
+            ],
+            [
+                "actin-binding protein",
+                "PPI",
+                "cofilin"
+            ]
+        ]
+    },
+    {
+        "text": "Analysis of V3, a hamster equivalent of SCID, indicates that the protein level increases of RAD51 and RAD52 from G0 to G1/S/G2 do not require DNA-PK.",
+        "triple_list": [
+            [
+                "DNA-PK",
+                "PPI",
+                "RAD51"
+            ],
+            [
+                "DNA-PK",
+                "PPI",
+                "RAD52"
+            ]
+        ]
+    },
+    {
+        "text": "Analysis of various truncated alpha-catenin molecules revealed that amino-terminal residues 48-163 are able to bind to beta-catenin and plakoglobin.",
+        "triple_list": [
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin"
+            ],
+            [
+                "plakoglobin",
+                "PPI",
+                "alpha-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "Consistent with the observation that beta-catenin and plakoglobin bind to the same region of alpha-catenin, beta-catenin competed with the binding of plakoglobin to alpha-catenin and vice versa.",
+        "triple_list": [
+            [
+                "alpha-catenin",
+                "PPI",
+                "beta-catenin"
+            ],
+            [
+                "alpha-catenin",
+                "PPI",
+                "plakoglobin"
+            ]
+        ]
+    },
+    {
+        "text": "Using an in vitro assay system involving bacterially expressed proteins, we localized a region in alpha-catenin required for molecular interaction with beta-catenin and plakoglobin.",
+        "triple_list": [
+            [
+                "plakoglobin",
+                "PPI",
+                "alpha-catenin"
+            ],
+            [
+                "beta-catenin",
+                "PPI",
+                "alpha-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "When transfected into L cells expressing E-cadherin, the amino-terminal region of alpha-catenin (from residue 1 to 226) formed complexes with beta-catenin supporting the in vitro binding experiment results.",
+        "triple_list": [
+            [
+                "alpha-catenin",
+                "PPI",
+                "beta-catenin"
+            ]
+        ]
+    },
+    {
+        "text": "An assembly of the UL5 and UL52 subunits retains both enzymic activities, and the UL8 protein has been implicated in modulating these functions, facilitating efficient nuclear uptake of the complex and interacting with other viral DNA replication proteins.",
+        "triple_list": [
+            [
+                "UL52",
+                "PPI",
+                "UL8"
+            ],
+            [
+                "UL5",
+                "PPI",
+                "UL8"
+            ],
+            [
+                "UL52",
+                "PPI",
+                "UL5"
+            ]
+        ]
+    },
+    {
+        "text": "Deletion mutants of the herpes simplex virus type 1 UL8 protein: effect on DNA synthesis and ability to interact with and influence the intracellular localization of the UL5 and UL52 proteins.",
+        "triple_list": [
+            [
+                "UL5",
+                "PPI",
+                "UL8"
+            ],
+            [
+                "UL52",
+                "PPI",
+                "UL8"
+            ]
+        ]
+    },
+    {
+        "text": "The herpes simplex virus type 1 (HSV-1) helicase-primase, an essential component of the viral DNA replication machinery, is a trimeric complex of the virus-coded UL5, UL8, and UL52 proteins.",
+        "triple_list": [
+            [
+                "UL5",
+                "PPI",
+                "UL8"
+            ],
+            [
+                "helicase-primase",
+                "PPI",
+                "UL52"
+            ],
+            [
+                "helicase-primase",
+                "PPI",
+                "UL5"
+            ],
+            [
+                "UL5",
+                "PPI",
+                "UL52"
+            ],
+            [
+                "helicase-primase",
+                "PPI",
+                "UL8"
+            ],
+            [
+                "UL8",
+                "PPI",
+                "UL52"
+            ]
+        ]
+    }
+]

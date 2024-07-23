@@ -1,0 +1,14 @@
+[
+    {
+        "0": "Non-Specific_miRNAs-Genes/Proteins",
+        "1": "Specific_miRNAs-Diseases",
+        "2": "Non-Specific_miRNAs-Diseases",
+        "3": "Specific_miRNAs-Genes/Proteins"
+    },
+    {
+        "Non-Specific_miRNAs-Genes/Proteins": 0,
+        "Specific_miRNAs-Diseases": 1,
+        "Non-Specific_miRNAs-Diseases": 2,
+        "Specific_miRNAs-Genes/Proteins": 3
+    }
+]

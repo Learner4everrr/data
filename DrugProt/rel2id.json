@@ -1,0 +1,30 @@
+[
+    {
+        "0": "PRODUCT-OF",
+        "1": "INHIBITOR",
+        "2": "AGONIST-ACTIVATOR",
+        "3": "ACTIVATOR",
+        "4": "SUBSTRATE_PRODUCT-OF",
+        "5": "ANTAGONIST",
+        "6": "INDIRECT-DOWNREGULATOR",
+        "7": "INDIRECT-UPREGULATOR",
+        "8": "DIRECT-REGULATOR",
+        "9": "PART-OF",
+        "10": "AGONIST",
+        "11": "SUBSTRATE"
+    },
+    {
+        "PRODUCT-OF": 0,
+        "INHIBITOR": 1,
+        "AGONIST-ACTIVATOR": 2,
+        "ACTIVATOR": 3,
+        "SUBSTRATE_PRODUCT-OF": 4,
+        "ANTAGONIST": 5,
+        "INDIRECT-DOWNREGULATOR": 6,
+        "INDIRECT-UPREGULATOR": 7,
+        "DIRECT-REGULATOR": 8,
+        "PART-OF": 9,
+        "AGONIST": 10,
+        "SUBSTRATE": 11
+    }
+]

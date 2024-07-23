@@ -1,0 +1,12 @@
+[
+    {
+        "0": "positive",
+        "1": "neutral",
+        "2": "negative"
+    },
+    {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 2
+    }
+]

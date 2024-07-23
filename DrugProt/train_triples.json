@@ -1,0 +1,2497 @@
+[
+    {
+        "text": "RDH12, a retinol dehydrogenase causing Leber's congenital amaurosis, is also involved in steroid metabolism. Three retinol dehydrogenases (RDHs) were tested for steroid converting abilities: human and murine RDH 12 and human RDH13. RDH12 is involved in retinal degeneration in Leber's congenital amaurosis (LCA). We show that murine Rdh12 and human RDH13 do not reveal activity towards the checked steroids, but that human type 12 RDH reduces dihydrotestosterone to androstanediol, and is thus also involved in steroid metabolism. Furthermore, we analyzed both expression and subcellular localization of these enzymes.",
+        "triple_list": [
+            [
+                "androstanediol",
+                "PRODUCT-OF",
+                "human type 12 RDH"
+            ]
+        ]
+    },
+    {
+        "text": "A diarylheptanoid phytoestrogen from Curcuma comosa, 1,7-diphenyl-4,6-heptadien-3-ol, accelerates human osteoblast proliferation and differentiation. Curcuma comosa Roxb. is ginger-family plant used to relieve menopausal symptoms. Previous work showed that C. comosa extracts protect mice from ovariectomy-induced osteopenia with minimal effects on reproductive organs, and identified the diarylheptanoid (3R)-1,7-diphenyl-(4E,6E)-4,6-heptadien-3-ol (DPHD) as the major active component of C. comosa rhizomes. At 1-10\u03bcM, DPHD increased differentiation in transformed mouse osteoblasts, but the effect of DPHD on normal bone cells was unknown. We examined the concentration dependency and mechanism of action of DPHD relative to 17\u03b2-estradiol in nontransformed human osteoblasts (h-OB). The h-OB were 10-100 fold more sensitive to DPHD than transformed osteoblasts: DPHD increased h-OB proliferation at 10nM and, at 100nM, activated MAP kinase signaling within 30min. In long-term differentiation assays, responses of h-OB to DPHD were significant at 10nM, and optimal response in most cases was at 100nM. At 7-21 days, DPHD accelerated osteoblast differentiation, indicated by alkaline phosphatase activity and osteoblast-specific mRNA production. Effects of DPHD were eliminated by the estrogen receptor antagonist ICI182780. During differentiation, DPHD promoted early expression of osteoblast transcription factors, RUNX2 and osterix. Subsequently, DPHD accelerated production of bone structural genes, including COL1A1 and osteocalcin comparably to 17\u03b2-estradiol. In h-OB, DPHD increased the osteoprotegerin to RANKL ratio and supported mineralization more efficiently than 10nM 17\u03b2-estradiol. We conclude that DPHD promotes human osteoblast function in vitro effectively at nanomolar concentrations, making it a promising compound to protect bone in menopausal women.",
+        "triple_list": [
+            [
+                "DPHD",
+                "ACTIVATOR",
+                "estrogen receptor"
+            ],
+            [
+                "DPHD",
+                "INDIRECT-UPREGULATOR",
+                "osteocalcin"
+            ],
+            [
+                "DPHD",
+                "INDIRECT-UPREGULATOR",
+                "RUNX2"
+            ],
+            [
+                "ICI182780",
+                "ANTAGONIST",
+                "estrogen receptor"
+            ],
+            [
+                "DPHD",
+                "ACTIVATOR",
+                "MAP kinase"
+            ],
+            [
+                "DPHD",
+                "INDIRECT-UPREGULATOR",
+                "COL1A1"
+            ],
+            [
+                "DPHD",
+                "INDIRECT-UPREGULATOR",
+                "osterix"
+            ]
+        ]
+    },
+    {
+        "text": "The role of the carbohydrate response element-binding protein in male fructose-fed rats. By 2030, nearly half of Americans will have nonalcoholic fatty liver disease. In part, this epidemic is fueled by the increasing consumption of caloric sweeteners coupled with an innate capacity to convert sugar into fat via hepatic de novo lipogenesis. In addition to serving as substrates, monosaccharides also increase the expression of key enzymes involved in de novo lipogenesis via the carbohydrate response element-binding protein (ChREBP). To determine whether ChREBP is a potential therapeutic target, we decreased hepatic expression of ChREBP with a specific antisense oligonucleotide (ASO) in male Sprague-Dawley rats fed either a high-fructose or high-fat diet. ChREBP ASO treatment decreased plasma triglyceride concentrations compared with control ASO treatment in both diet groups. The reduction was more pronounced in the fructose-fed group and attributed to decreased hepatic expression of ACC2, FAS, SCD1, and MTTP and a decrease in the rate of hepatic triglyceride secretion. This was associated with an increase in insulin-stimulated peripheral glucose uptake, as assessed by the hyperinsulinemic-euglycemic clamp. In contrast, ChREBP ASO did not alter hepatic lipid content or hepatic insulin sensitivity. Interestingly, fructose-fed rats treated with ChREBP ASO had increased plasma uric acid, alanine transaminase, and aspartate aminotransferase concentrations. This was associated with decreased expression of fructose aldolase and fructokinase, reminiscent of inherited disorders of fructose metabolism. In summary, these studies suggest that targeting ChREBP may prevent fructose-induced hypertriglyceridemia but without the improvements in hepatic steatosis and hepatic insulin responsiveness.",
+        "triple_list": [
+            [
+                "fructose",
+                "INDIRECT-DOWNREGULATOR",
+                "ACC2"
+            ],
+            [
+                "fructose",
+                "INDIRECT-DOWNREGULATOR",
+                "SCD1"
+            ],
+            [
+                "fructose",
+                "SUBSTRATE",
+                "fructose aldolase"
+            ],
+            [
+                "fructose",
+                "INDIRECT-DOWNREGULATOR",
+                "MTTP"
+            ],
+            [
+                "fructose",
+                "SUBSTRATE",
+                "fructokinase"
+            ],
+            [
+                "fructose",
+                "INDIRECT-DOWNREGULATOR",
+                "FAS"
+            ],
+            [
+                "fructose",
+                "INDIRECT-UPREGULATOR",
+                "alanine transaminase"
+            ],
+            [
+                "fructose",
+                "INDIRECT-UPREGULATOR",
+                "aspartate aminotransferase"
+            ]
+        ]
+    },
+    {
+        "text": "Biological activity of AC3174, a peptide analog of exendin-4. Exenatide, the active ingredient of BYETTA (exenatide injection), is an incretin mimetic that has been developed for the treatment of patients with type 2 diabetes. Exenatide binds to and activates the known GLP-1 receptor with a potency comparable to that of the mammalian incretin GLP-1(7-36), thereby acting as a glucoregulatory agent. AC3174 is an analog of exenatide with leucine substituted for methionine at position 14, [Leu(14)]exendin-4. The purpose of these studies was to evaluate the glucoregulatory activity and pharmacokinetics of AC3174. In RINm5f cell membranes, the potency of AC3174 for the displacement of [(125)I]GLP-1 and activation of adenylate cyclase was similar to that of exenatide and GLP-1. In vivo, AC3174, administered as a single IP injection, significantly decreased plasma glucose concentration and glucose excursion following the administration of an oral glucose challenge in both non-diabetic (C57BL/6) and diabetic db/db mice (P<0.05 vs. vehicle-treated). The magnitude of glucose lowering of AC3174 was comparable to exenatide. The ED(50) values of AC3174 for glucose lowering (60 minute post-dose) were 1.2 microg/kg in db/db mice and 1.3 microg/kg in C57BL/6 mice. AC3174 has insulinotropic activity in vivo. Administration of AC3174 resulted in a 4-fold increase in insulin concentrations in normal mice following an IP glucose challenge. AC3174 was also shown to inhibit food intake and decrease gastric emptying in rodent models. AC3174 was stable in human plasma (>90% of parent peptide was present after 5 h of incubation). In rats, the in vivo half-life of AC3174 was 42-43 min following SC administration. In summary, AC3174 is an analog of exenatide that binds to the GLP-1 receptor in vitro and shares many of the biological and glucoregulatory activities of exenatide and GLP-1 in vivo.",
+        "triple_list": [
+            [
+                "glucose",
+                "INDIRECT-UPREGULATOR",
+                "insulin"
+            ]
+        ]
+    },
+    {
+        "text": "A novel metabotropic glutamate receptor 5 positive allosteric modulator acts at a unique site and confers stimulus bias to mGlu5 signaling. Metabotropic glutamate receptor 5 (mGlu5) is a target for the treatment of central nervous system (CNS) disorders, such as schizophrenia and Alzheimer's disease. Furthermore, mGlu5 has been shown to play an important role in hippocampal synaptic plasticity, specifically in long-term depression (LTD) and long-term potentiation (LTP), which is thought to be involved in cognition. Multiple mGlu5-positive allosteric modulators (PAMs) have been developed from a variety of different scaffolds. Previous work has extensively characterized a common allosteric site on mGlu5, termed the MPEP (2-Methyl-6-(phenylethynyl)pyridine) binding site. However, one mGlu5 PAM, CPPHA (N-(4-chloro-2-[(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl]phenyl)-2-hydroxybenzamide), interacts with a separate allosteric site on mGlu5. Using cell-based assays and brain slice preparations, we characterized the interaction of a potent and efficacious mGlu5 PAM from the CPPHA series termed NCFP (N-(4-chloro-2-((4-fluoro-1,3-dioxoisoindolin-2-yl)methyl)phenyl)picolinamide). NCFP binds to the CPPHA site on mGlu5 and potentiates mGlu5-mediated responses in both recombinant and native systems. However, NCFP provides greater mGlu5 subtype selectivity than does CPPHA, making it more suitable for studies of effects on mGlu5 in CNS preparations. Of interest, NCFP does not potentiate responses involved in hippocampal synaptic plasticity (LTD/LTP), setting it apart from other previously characterized MPEP site PAMs. This suggests that although mGlu5 PAMs may have similar responses in some systems, they can induce differential effects on mGlu5-mediated physiologic responses in the CNS. Such stimulus bias by mGlu5 PAMs may complicate drug discovery efforts but would also allow for specifically tailored therapies, if pharmacological biases can be attributed to different therapeutic outcomes.",
+        "triple_list": [
+            [
+                "N-(4-chloro-2-[(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl]phenyl)-2-hydroxybenzamide",
+                "DIRECT-REGULATOR",
+                "mGlu5"
+            ],
+            [
+                "MPEP",
+                "PART-OF",
+                "mGlu5"
+            ],
+            [
+                "2-Methyl-6-(phenylethynyl)pyridine",
+                "PART-OF",
+                "mGlu5"
+            ],
+            [
+                "NCFP",
+                "ACTIVATOR",
+                "mGlu5"
+            ],
+            [
+                "CPPHA",
+                "DIRECT-REGULATOR",
+                "mGlu5"
+            ],
+            [
+                "NCFP",
+                "DIRECT-REGULATOR",
+                "mGlu5"
+            ]
+        ]
+    },
+    {
+        "text": "Dopamine receptor blockade increases dopamine D2 receptor and glutamic acid decarboxylase mRNAs in mouse substantia nigra. To study the influence of dopaminergic activity on the expression of dopamine D2 receptors and glutamic acid decarboxylase in substantia nigra, mice were treated daily for several days with an irreversibly acting dopamine D1 and dopamine D2 receptor antagonist N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline (EEDQ) or with a selective irreversible D2 dopamine receptor antagonist fluphenazine-N-mustard. Mice were killed 24 h after the last injection. Dopamine D1 and dopamine D2 receptors were determined by receptor autoradiography, and dopamine D1 and dopamine D2 receptor mRNA and glutamic acid decarboxylase mRNA were determined by in situ hybridization histochemistry. The results showed that treatment with EEDQ, which blocked 80% to 85% of the dopamine D2 and dopamine D1 receptors in substantia nigra, increased the levels of dopamine D2 receptor mRNA in substantia nigra by about 27%. Treatment with fluphenazine-N-mustard, which blocked about 85% of the dopamine D2 receptors in substantia nigra but had no significant effect on dopamine D1 receptors, increased the levels of dopamine D2 receptor mRNA by about 34%. There were no detectable levels of dopamine D1 receptors, increased the levels of dopamine D2 receptor mRNA by about 34%. There were no detectable levels of dopamine D1 receptor mRNA in substantia nigra either in control animals or in animals treated with the dopamine receptor antagonists. Glutamic acid decarboxylase mRNA was expressed in several regions of the mid-brain but only that expressed in substantia nigra was altered by treatment with dopamine receptor antagonists.(ABSTRACT TRUNCATED AT 250 WORDS)",
+        "triple_list": [
+            [
+                "fluphenazine-N-mustard",
+                "INDIRECT-UPREGULATOR",
+                "dopamine D2 receptor"
+            ],
+            [
+                "EEDQ",
+                "ANTAGONIST",
+                "dopamine D1"
+            ],
+            [
+                "fluphenazine-N-mustard",
+                "ANTAGONIST",
+                "D2 dopamine receptor"
+            ],
+            [
+                "N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline",
+                "ANTAGONIST",
+                "dopamine D1"
+            ],
+            [
+                "fluphenazine-N-mustard",
+                "INHIBITOR",
+                "dopamine D2 receptors"
+            ],
+            [
+                "EEDQ",
+                "INDIRECT-UPREGULATOR",
+                "dopamine D2 receptor"
+            ],
+            [
+                "N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline",
+                "ANTAGONIST",
+                "dopamine D2 receptor"
+            ],
+            [
+                "EEDQ",
+                "INHIBITOR",
+                "dopamine D1 receptors"
+            ],
+            [
+                "EEDQ",
+                "INHIBITOR",
+                "dopamine D2"
+            ],
+            [
+                "EEDQ",
+                "ANTAGONIST",
+                "dopamine D2 receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Nabumetone: therapeutic use and safety profile in the management of osteoarthritis and rheumatoid arthritis. Nabumetone is a nonsteroidal anti-inflammatory prodrug, which exerts its pharmacological effects via the metabolite 6-methoxy-2-naphthylacetic acid (6-MNA). Nabumetone itself is non-acidic and, following absorption, it undergoes extensive first-pass metabolism to form the main circulating active metabolite (6-MNA) which is a much more potent inhibitor of preferentially cyclo-oxygenase (COX)-2. The three major metabolic pathways of nabumetone are O-demethylation, reduction of the ketone to an alcohol, and an oxidative cleavage of the side-chain occurs to yield acetic acid derivatives. Essentially no unchanged nabumetone and < 1% of the major 6-MNA metabolite are excreted unchanged in the urine from which 80% of the dose can be recovered and another 10% in faeces. Nabumetone is clinically used mainly for the management of patients with osteoarthritis (OA) or rheumatoid arthritis (RA) to reduce pain and inflammation. The clinical efficacy of nabumetone has also been evaluated in patients with ankylosing spondylitis, soft tissue injuries and juvenile RA. The optimum oral dosage of nabumetone for OA patients is 1 g once daily, which is well tolerated. The therapeutic response is superior to placebo and similar to nonselective COX inhibitors. In RA patients, nabumetone 1 g at bedtime is optimal, but an additional 0.5-1 g can be administered in the morning for patients with persistent symptoms. In RA, nabumetone has shown a comparable clinical efficacy to aspirin (acetylsalicylic acid), diclofenac, piroxicam, ibuprofen and naproxen. Clinical trials and a decade of worldwide safety data and long-term postmarketing surveillance studies show that nabumetone is generally well tolerated. The most frequent adverse effects are those commonly seen with COX inhibitors, which include diarrhoea, dyspepsia, headache, abdominal pain and nausea. In common with other COX inhibitors, nabumetone may increase the risk of GI perforations, ulcerations and bleedings (PUBs). However, several studies show a low incidence of PUBs, and on a par with the numbers reported from studies with COX-2 selective inhibitors and considerably lower than for nonselective COX inhibitors. This has been attributed mainly to the non-acidic chemical properties of nabumetone but also to its COX-1/COX-2 inhibitor profile. Through its metabolite 6-MNA, nabumetone has a dose-related effect on platelet aggregation, but no effect on bleeding time in clinical studies. Furthermore, several short-term studies have shown little to no effect on renal function. Compared with COX-2 selective inhibitors, nabumetone exhibits similar anti-inflammatory and analgesic properties in patients with arthritis and there is no evidence of excess GI or other forms of complications to date.",
+        "triple_list": [
+            [
+                "Nabumetone",
+                "INHIBITOR",
+                "cyclo-oxygenase (COX)-2"
+            ],
+            [
+                "6-MNA",
+                "INHIBITOR",
+                "cyclo-oxygenase (COX)-2"
+            ],
+            [
+                "nabumetone",
+                "INHIBITOR",
+                "COX-2"
+            ],
+            [
+                "nabumetone",
+                "INHIBITOR",
+                "COX-1"
+            ]
+        ]
+    },
+    {
+        "text": "Vitamin C transport and SVCT1 transporter expression in chick renal proximal tubule cells in culture. The characteristics of vitamin C (ascorbic acid, ASC) transport were studied in polarized cultured monolayers of the chick (Gallus gallus) renal proximal tubule in Ussing chambers. Under voltage clamp conditions, monolayers responded to apical addition of ASC in a dose-dependent manner, with positive short circuit currents (I(SC)), ranging from 3 microA/cm(2) at 5 microM ASC to a maximal response of 27 microA/cm(2) at 200 microM, and a half-maximal response at 40 microM. There was no effect of basolateral addition of ASC, indicating a polarized transport process. The oxidized form of ASC, dehydroascorbic acid had negligible effects. The I(SC) response to ASC was completely eliminated with Na(+) ion replacement, and was also eliminated by bilateral reduction of bath Cl(-), from 137 to 2.6 mM. There was significant inhibition of the I(SC) responses to 30 microM ASC by the flavanoid quercetin (50 microM) and by 100 microM 4,4'-diisothiocyanostilbene-2,2'-disulfonic acid (DIDS) and 5-ethylisopropylamiloride (EIPA), blockers of anion exchangers and sodium-proton exchangers, respectively. There was no inhibition, however, by the chloride channel blocker 5-nitro-2(3-phenylpropylamino)benzoic acid (NPPB). Phorbol 12-myristate 13 acetate (PMA), the phorbol ester activator of protein kinase C, caused a 37% decrease in the I(SC) response to ASC. Chicken-specific primers to an EST homolog of the human vitamin C transporter SVCT1 (SLC23A1) were designed and used to probe transporter expression in these cells. RT-PCR analysis demonstrated the presence of chicken SVCT1 in both cultured cells and in freshly isolated proximal tubule fragments. These data indicate the presence of an electrogenic, sodium-dependent vitamin C transporter (SVCT1) in the chick renal proximal tubule. Vitamin C transport and conservation by the kidney is likely to be especially critical in birds, due to high plasma glucose levels and resulting high levels of reactive oxygen species.",
+        "triple_list": [
+            [
+                "Phorbol 12-myristate 13 acetate",
+                "ACTIVATOR",
+                "protein kinase C"
+            ],
+            [
+                "phorbol ester",
+                "ACTIVATOR",
+                "protein kinase C"
+            ],
+            [
+                "4,4'-diisothiocyanostilbene-2,2'-disulfonic acid",
+                "INHIBITOR",
+                "anion exchangers"
+            ],
+            [
+                "NPPB",
+                "INHIBITOR",
+                "chloride channel"
+            ],
+            [
+                "DIDS",
+                "INHIBITOR",
+                "anion exchangers"
+            ],
+            [
+                "PMA",
+                "ACTIVATOR",
+                "protein kinase C"
+            ],
+            [
+                "5-nitro-2(3-phenylpropylamino)benzoic acid",
+                "INHIBITOR",
+                "chloride channel"
+            ],
+            [
+                "EIPA",
+                "INHIBITOR",
+                "sodium-proton exchangers"
+            ],
+            [
+                "5-ethylisopropylamiloride",
+                "INHIBITOR",
+                "sodium-proton exchangers"
+            ]
+        ]
+    },
+    {
+        "text": "2,3,7,8-Tetrachlorodibenzo-p-dioxin-mediated production of reactive oxygen species is an essential step in the mechanism of action to accelerate human keratinocyte differentiation. Chloracne is commonly observed in humans exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD); yet, the mechanism of toxicity is not well understood. Using normal human epidermal keratinocytes, we investigated the mechanism of TCDD-mediated enhancement of epidermal differentiation by integrating functional genomic, metabolomic, and biochemical analyses. TCDD increased the expression of 40% of the genes of the epidermal differentiation complex found on chromosome 1q21 and 75% of the genes required for de novo ceramide biosynthesis. Lipid analysis demonstrated that eight of the nine classes of ceramides were increased by TCDD, altering the ratio of ceramides to free fatty acids. TCDD decreased the expression of the glucose transporter, SLC2A1, and most of the glycolytic transcripts, followed by decreases in glycolytic intermediates, including pyruvate. NADH and Krebs cycle intermediates were decreased, whereas NAD(+) was increased. Mitochondrial glutathione (GSH) reductase activity and the GSH/glutathione disulfide ratio were decreased by TCDD, ultimately leading to mitochondrial dysfunction, characterized by decreased inner mitochondrial membrane potential and ATP production, and increased production of the reactive oxygen species (ROS), hydrogen peroxide. Aryl hydrocarbon receptor (AHR) antagonists blocked the response of many transcripts to TCDD, and the endpoints of decreased ATP production and differentiation, suggesting regulation by the AHR. Cotreatment of cells with chemical antioxidants or the enzyme catalase blocked the TCDD-mediated acceleration of keratinocyte cornified envelope formation, an endpoint of terminal differentiation. Thus, TCDD-mediated ROS production is a critical step in the mechanism of this chemical to accelerate keratinocyte differentiation.",
+        "triple_list": [
+            [
+                "TCDD",
+                "INDIRECT-DOWNREGULATOR",
+                "glucose transporter"
+            ],
+            [
+                "TCDD",
+                "INDIRECT-DOWNREGULATOR",
+                "SLC2A1"
+            ],
+            [
+                "TCDD",
+                "INHIBITOR",
+                "glutathione (GSH) reductase"
+            ]
+        ]
+    },
+    {
+        "text": "Vascular effects of COX inhibition and AT1 receptor blockade in transgenic rats harboring mouse renin-2 gene. Ang II-induced endothelial dysfunction is associated with perivascular inflammation and increased superoxide production in the vascular wall. The present study examined the role of cyclo-oxygenase (COX)-synthetized eicosanoids in the pathogenesis of Ang II-induced endothelial dysfunction in transgenic rats harboring mouse renin-2 gene (mREN2 rats). Five-to-six-week-old, heterozygous mREN2 rats received the following drug regimens for 8 weeks: 1) vehicle, 2) cyclo-oxygenase-2 (COX-2) inhibitor (MF-tricyclic [3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl) phenyl)-2(5H)-furanone], 14 mg/kg p.o.), 3) COX-1/COX-2 inhibitor (sulindac, 14 mg/kg p.o.), 4) angiotensin II receptor antagonist (losartan 40 mg/kg p.o.). Normotensive Sprague Dawley (SD) rats served as controls. In vitro vascular responses of the descending aorta and renal artery were studied using organ bath system. mREN2 rats developed pronounced hypertension which was associated with impaired endothelium-dependent and endothelium-independent vascular relaxations in the aorta. In contrast, the relaxation responses of the renal arteries remained largely unchanged in mREN2 rats. Urinary NO, excretion, a marker of total body NO generation, was also decreased in mREN2 rats. Neither non-selective COX inhibitor sulindac nor COX-2 selective MF-tricyclic were capable of preventing Ang II-induced hypertension or endothelial dysfunction in mREN2 rats, whereas ATi receptor antagonist losartan completely normalized blood pressure, vascular relaxation responses as well as urinary NOx excretion. Our findings indicate that NO synthesis and/or bioavailability as well as the sensitivity of arterial smooth muscle cells to NO are decreased in mREN2 rats. The present study also demonstrated that COX does not play a central role in the pathogenesis of Ang II-induced endothelial dysfunction in mREN2 rats.",
+        "triple_list": [
+            [
+                "eicosanoids",
+                "PRODUCT-OF",
+                "cyclo-oxygenase"
+            ],
+            [
+                "eicosanoids",
+                "PRODUCT-OF",
+                "COX"
+            ]
+        ]
+    },
+    {
+        "text": "Isoliquiritigenin showed strong inhibitory effects towards multiple UDP-glucuronosyltransferase (UGT) isoform-catalyzed 4-methylumbelliferone (4-MU) glucuronidation. Isoliquiritigenin, a herbal ingredient with chalcone structure, has been speculated to be able to inhibit one of the most drug-metabolizing enzymes (DMEs) UDP-glucuronosyltransferase (UGT). Therefore, the aim of the present study was to investigate the inhibition of isoliquiritigenin towards important UGT isoforms in the liver and intestine, including UGT1A1, 1A3, 1A6, 1A7, 1A8, 1A9 and 1A10. The recombinant UGT-catalyzed 4-methylumbelliferone (4-MU) glucuronidation was used as probe reactions. The results showed that 100\u03bcM of isoliquiritigenin inhibited the activity of UGT1A1, UGT1A3, UGT1A6, UGT1A7, UGT1A8, UGT1A9, and UGT1A10 by 95.2%, 76.1%, 78.9%, 87.2%, 67.2%, 94.8%, and 91.7%, respectively. The data fitting using Dixon plot and Lineweaver-Burk plot showed that the inhibition of UGT1A1, UGT1A9 and UGT1A10 by isoliquiritigenin was all best fit to the competitive inhibition, and the second plot using the slopes from the Lineweaver-Burk plot versus isoliquiritigenin concentrations was used to calculate the inhibition kinetic parameter (K(i)) to be 0.7\u03bcM, 0.3\u03bcM, and 18.3\u03bcM for UGT1A1, UGT1A9, and UGT1A10, respectively. All these results indicated the risk of clinical application of isoliquiritigenin on the drug-drug interaction and other possible diseases induced by the inhibition of isoliquiritigenin towards these UGT isoforms.",
+        "triple_list": [
+            [
+                "Isoliquiritigenin",
+                "INHIBITOR",
+                "UDP-glucuronosyltransferase"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A6"
+            ],
+            [
+                "Isoliquiritigenin",
+                "INHIBITOR",
+                "UGT"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A10"
+            ],
+            [
+                "4-methylumbelliferone",
+                "SUBSTRATE",
+                "UDP-glucuronosyltransferase"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT"
+            ],
+            [
+                "chalcone",
+                "INHIBITOR",
+                "UGT"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A3"
+            ],
+            [
+                "4-methylumbelliferone",
+                "SUBSTRATE",
+                "UGT"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A9"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A8"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A1"
+            ],
+            [
+                "isoliquiritigenin",
+                "INHIBITOR",
+                "UGT1A7"
+            ],
+            [
+                "chalcone",
+                "INHIBITOR",
+                "UDP-glucuronosyltransferase"
+            ],
+            [
+                "4-MU",
+                "SUBSTRATE",
+                "UGT"
+            ],
+            [
+                "4-MU",
+                "SUBSTRATE",
+                "UDP-glucuronosyltransferase"
+            ]
+        ]
+    },
+    {
+        "text": "Differential regulation of D2 and D4 dopamine receptor mRNAs in the primate cerebral cortex vs. neostriatum: effects of chronic treatment with typical and atypical antipsychotic drugs. The RNase Protection Assay was used to examine the regulation of D2 and D4 dopamine receptor mRNAs in the cerebral cortex and neostriatum of nonhuman primates after chronic treatment with a wide spectrum of antipsychotic medications (chlorpromazine, clozapine, haloperidol, molindone, olanzapine, pimozide, remoxipride and risperidone). Tiapride, a D2 antagonist that lacks antipsychotic activity, was also included. All drugs were administered orally for 6 months at doses recommended for humans. All antipsychotic drug treatments examined in this study caused a statistically significant up-regulation of both the long and short isoforms of the D2 receptor mRNAs in the prefrontal and temporal cortex. Tiapride, in contrast, significantly up-regulated only the level of D2-long mRNA in these areas. The same drug treatments produced less uniform effects in the neostriatum than in the cortex: clozapine and olanzapine failed to significantly elevate either D2-long or D2-short receptor messages in this structure unlike all other drugs, including tiapride. In both the cerebral cortex and striatum, D4 receptor mRNA was upregulated by certain typical (chlorpromazine and haloperidol) and certain atypical (clozapine, olanzapine and risperidone) antipsychotic agents as well as by tiapride. Other drugs of the typical (molindone and pimozide) and atypical (remoxipride) classes had no effect on D4 mRNA levels in either cortical or striatal tissue. The finding that up-regulation of D2 dopamine receptor mRNAs was a consistently observed effect of a wide range of antipsychotic agents in the cerebral cortex but not in the neostriatum, coupled with the fact that the D2-short isoforms in the cortex were not regulated by a nonantipsychotic D2 antagonist, tiapride, draws attention to the importance of the D2 dopamine receptor in the cerebral cortex as a potentially critical, common site of action of antipsychotic medications.",
+        "triple_list": [
+            [
+                "tiapride",
+                "ANTAGONIST",
+                "D2"
+            ],
+            [
+                "olanzapine",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ],
+            [
+                "risperidone",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ],
+            [
+                "clozapine",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ],
+            [
+                "Tiapride",
+                "ANTAGONIST",
+                "D2"
+            ],
+            [
+                "Tiapride",
+                "INDIRECT-UPREGULATOR",
+                "D2-long"
+            ],
+            [
+                "haloperidol",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ],
+            [
+                "tiapride",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ],
+            [
+                "chlorpromazine",
+                "INDIRECT-UPREGULATOR",
+                "D4 receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibitors of DNA methylation in the treatment of hematological malignancies and MDS. DNA methylation abnormalities have recently emerged as one of the most frequent molecular changes in hematopoietic neoplasms. Since methylation and transcriptional status are inversely correlated, the hypermethylation of genes involved in cell-cycle control and apoptosis could have a pathogenetic role in the development of cancer. In particular, high-risk myelodysplastic syndromes (MDS) and secondary leukemias show a high prevalence of tumor suppressor gene hypermethylation. The progression of chronic myeloproliferative diseases and of myelodysplastic syndromes, as well as that of lymphoproliferative diseases, is associated with an increased methylation rate, pointing to a role for hypermethylation of critical promoter regions in the transformation to more aggressive phenotypes. In the same line, a significantly worse prognosis has been shown for patients with hypermethylation of several genes compared to that of patients with unmethylated genes. For these reasons, the use of irreversible DNA methyltransferase inhibitors, such as 5-azacytidine and Decitabine, appears to be a promising option for the treatment of MDS and acute myeloid leukemia. In clinical trials, Azacytidine results in a significantly higher response rate, improved quality of life, reduced risk of leukemic transformation, and improved survival compared to supportive care. Similarly, Decitabine showed favorable results, promising response rates, a good nonhematologic toxicity profile, and a trend for better survival compared to intensive chemotherapy, particularly in older patients. The synergistic effect of histone deacetylase inhibitors, including phenylbutyrate (PB), in reactivating silenced genes encouraged clinical studies on the combination of PB and demethylating agents in hematological diseases, characterized by p15 silencing. The sequential administration of a \"first generation\" demethylating agent and HDAC inhibitors gave preliminary evidence of a reduced methylation of target genes, as also described with Decitabine. Clinical trials are still ongoing, and preliminary data indicate for the first time that the natural history of MDS may be changed by a non-intensive treatment, characterized by an outstanding toxicity profile.",
+        "triple_list": [
+            [
+                "Decitabine",
+                "INHIBITOR",
+                "DNA methyltransferase"
+            ],
+            [
+                "5-azacytidine",
+                "INHIBITOR",
+                "DNA methyltransferase"
+            ],
+            [
+                "phenylbutyrate",
+                "INHIBITOR",
+                "histone deacetylase"
+            ],
+            [
+                "PB",
+                "INHIBITOR",
+                "histone deacetylase"
+            ]
+        ]
+    },
+    {
+        "text": "AT1 receptor antagonism is proangiogenic in the brain: BDNF a novel mediator. Candesartan is an angiotensin II type 1 receptor blocker (ARB) that has been to shown to limit ischemic stroke and improve stroke outcome. In experimental stroke, candesartan induces a proangiogenic effect that is partly attributable to vascular endothelial growth factor. Brain-derived neurotrophic factor (BDNF) is a member of the neurotrophin family that has been reported to have angiogenic effects and play an important role in recovery after stroke. The purpose of this investigation was to determine the role of BDNF in the proangiogenic effect of candesartan in the brain under hypertensive conditions. Accordingly, spontaneously hypertensive rats were treated with candesartan, and brain tissue samples were collected for quantification of BDNF expression. In addition, human cerebromicrovascular endothelial cells were treated with either low-dose (1 \u0192M) or high-dose (1 \u00b5M) angiotensin II alone or in combination with candesartan (0.16 \u00b5M) to assess the effect of candesartan treatment and BDNF involvement in the behavior of endothelial cells. Candesartan significantly increased the expression of BDNF in the SHR (P < 0.05). In addition, candesartan reversed the antiangiogenic effect of the 1-\u00b5M dose of AngII (P = 0.0001). The observed effects of candesartan were ablated by neutralizing the effects of BDNF. Treatment with the AT2 antagonist PD-123319 significantly reduced tube-like formation in endothelial cells. AT2 stimulation induced the BDNF expression and migration (P < 0.05). In conclusion, candesartan exerts a proangiogenic effect on brain microvascular endothelial cells treated with angiotensin II. This response is attributable to increased BDNF expression and is mediated through stimulation of the AT2 receptor.",
+        "triple_list": [
+            [
+                "PD-123319",
+                "ANTAGONIST",
+                "AT2"
+            ],
+            [
+                "Candesartan",
+                "INDIRECT-UPREGULATOR",
+                "BDNF"
+            ],
+            [
+                "Candesartan",
+                "INHIBITOR",
+                "angiotensin II type 1 receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Lithium modulates desensitization of the glutamate receptor subtype gluR3 in Xenopus oocytes. Analysis of splice variants and site-directed mutants of the AMPA receptor GluR3 expressed in Xenopus oocytes has shown that lithium produces a large potentiation of the GluR3 flop splice variant and suggested that lithium might inhibit rapid desensitization, which is characteristic of this receptor (Karkanias, N. and Papke, R., Subtype-specific effects of lithium on glutamate receptor function. J. Neurophysiol., 81 (1999) 1506-1512). We now show that mutation of the 769R/ G desensitization site (Lomeli, H.M.J., Melcher, T., Hoger, T., Geiger, J.R., Kuner, T., Monyer, H., Higuchi, M.B.A. and Seeburg, P.H, Control of kinetic properties of AMPA receptor channels by nuclear RNA editing. Science, 9(266) (1994) 1709-1713) greatly attenuates the lithium-induced potentiation of GluR3. Additionally, experiments with the non-desensitizing site-directed mutant GluR3(L507Y) (Stern-Bach, Y., Russo, S., Neuman, M. and Rosenmund, C., A point mutation in the glutamate binding site blocks desensitization of AMPA receptors. Neuron, 21 (1998) 907-918) further confirms that lithium enhances GluR3 responses by reducing desensitization, since lithium's effects are reversed in this mutant. Lithium's effects on GluR3 desensitization are distinct from the effects of aniracetam on desensitization. Specifically, aniracetam, which potentiates wild-type AMPA receptors, is ineffective on the non-desensitizing GluR3(L507Y) mutant, but has synergistic effects with lithium on wild-type receptors.",
+        "triple_list": [
+            [
+                "aniracetam",
+                "ACTIVATOR",
+                "AMPA receptors"
+            ],
+            [
+                "lithium",
+                "ACTIVATOR",
+                "L507Y"
+            ],
+            [
+                "lithium",
+                "ACTIVATOR",
+                "GluR3"
+            ],
+            [
+                "lithium",
+                "ACTIVATOR",
+                "GluR3 flop"
+            ]
+        ]
+    },
+    {
+        "text": "The effects of gender difference on monocrotaline-induced pulmonary hypertension in rats. The present study aimed to compare the effect of gender difference on hemodynamic consequences in the development of monocrotaline (MCT)-induced pulmonary hypertension in rat. The effect of antioxidant enzyme systems on the development of pulmonary hypertension mediated by the phytotoxin MCT and the effect of gender on these antioxidant systems were also investigated. For this purpose, the right ventricular pressures (RVPs) and right ventricular/heart weight (HW) ratios were compared between groups and the glutathione (GSH) level and superoxide dismutase (SOD), catalase (CAT) and glutathione-S-transferase (GST) activities were determined in lung and liver tissue samples of rats. RVP and right ventricular/HW ratios significantly increased in the MCT group compared to the control group. In the MCT group, RVP was significantly higher in males than females. MCT-induced pulmonary hypertension resulted in decreased GSH level, decreased GST and SOD activities and increased CAT activity in lung and liver tissues of both male and female rats. In addition, the lung and liver GSH level and GST and SOD levels were higher in female control rats compared to male control rats. The results of the present study, that antioxidant enzyme activities were different between the groups, highlight the possible role of oxidative stress in the pathogenesis of MCT-induced pulmonary hypertension in rats. Moreover, the lower antioxidant defense capacity of male rats than female rats may be considered as a cause of more aggressive course of MCT-induced pulmonary hypertension in males compared to females.",
+        "triple_list": [
+            [
+                "MCT",
+                "INHIBITOR",
+                "GST"
+            ],
+            [
+                "MCT",
+                "INHIBITOR",
+                "SOD"
+            ],
+            [
+                "MCT",
+                "ACTIVATOR",
+                "CAT"
+            ]
+        ]
+    },
+    {
+        "text": "Profluorogenic reductase substrate for rapid, selective, and sensitive visualization and detection of human cancer cells that overexpress NQO1. Achieving the vision of identifying and quantifying cancer-related events and targets for future personalized oncology is predicated on the existence of synthetically accessible and economically viable probe molecules fully able to report the presence of these events and targets in a rapid and highly selective and sensitive fashion. Delineated here are the design and evaluation of a newly synthesized turn-on probe whose intense fluorescent reporter signature is revealed only through probe activation by a specific intracellular enzyme present in tumor cells of multiple origins. Quenching of molecular probe fluorescence is achieved through unique photoinduced electron transfer between the naphthalimide dye reporter and a covalently attached, quinone-based enzyme substrate. Fluorescence of the reporter dye is turned on by rapid removal of the quinone quencher, an event that immediately occurs only after highly selective, two-electron reduction of the sterically and conformationally restricted quinone substrate by the cancer-associated human NAD(P)H:quinone oxidoreductase isozyme 1 (hNQO1). Successes of the approach include rapid differentiation of NQO1-expressing and -nonexpressing cancer cell lines via the unaided eye, flow cytometry, fluorescence imaging, and two-photon microscopy. The potential for use of the turn-on probe in longer-term cellular studies is indicated by its lack of influence on cell viability and its in vitro stability.",
+        "triple_list": [
+            [
+                "quinone",
+                "SUBSTRATE",
+                "hNQO1"
+            ],
+            [
+                "quinone",
+                "SUBSTRATE",
+                "human NAD(P)H:quinone oxidoreductase isozyme 1"
+            ]
+        ]
+    },
+    {
+        "text": "Characterization of organic anion transport inhibitors using cells stably expressing human organic anion transporters. The organic anion transport system is involved in the tubular excretion of various clinically important drugs. The purpose of this study was to characterize the effects of various organic anion transport inhibitors on organic anion transport using proximal tubule cells stably expressing human organic anion transporter 1 (human-OAT1) and human-OAT3, which are localized to the basolateral membrane of the proximal tubule. Organic anion transport inhibitors including betamipron, cilastatin, KW-3902 (8-(noradamantan-3-yl)-1,3-dipropylxanthine) and probenecid significantly inhibited human-OAT1- and human-OAT3-mediated organic anion uptake in a dose-dependent manner. Kinetic analyses revealed that these inhibitions were competitive. The Ki values of betamipron, cilastatin, KW-3902 and probencid for human-OAT1 were 23.6, 1470, 7.82 and 12.1 microM, whereas those for human-OAT3 were 48.3, 231, 3.70 and 9.0 microM. These results suggest that betamipron and probenecid could inhibit both human-OAT1- and human-OAT3-mediated organic anion transport in vivo, whereas cilastatin could inhibit only human-OAT3-mediated one. In contrast, KW-3902 did not exert the effects of significance, whereas KW-3902 was the most potent.",
+        "triple_list": [
+            [
+                "cilastatin",
+                "INHIBITOR",
+                "human-OAT3"
+            ],
+            [
+                "KW-3902",
+                "INHIBITOR",
+                "human-OAT1"
+            ],
+            [
+                "probencid",
+                "INHIBITOR",
+                "human-OAT3"
+            ],
+            [
+                "betamipron",
+                "INHIBITOR",
+                "human-OAT1"
+            ],
+            [
+                "cilastatin",
+                "INHIBITOR",
+                "human-OAT1"
+            ],
+            [
+                "KW-3902",
+                "INHIBITOR",
+                "human-OAT3"
+            ],
+            [
+                "betamipron",
+                "INHIBITOR",
+                "human-OAT3"
+            ],
+            [
+                "probencid",
+                "INHIBITOR",
+                "human-OAT1"
+            ],
+            [
+                "8-(noradamantan-3-yl)-1,3-dipropylxanthine",
+                "INHIBITOR",
+                "human-OAT1"
+            ]
+        ]
+    },
+    {
+        "text": "Cyclin E-cdk2 activation is associated with cell cycle arrest and inhibition of DNA replication induced by the thymidylate synthase inhibitor Tomudex. Tomudex (ZD1694) is a specific antifolate-based thymidylate synthase inhibitor active in a variety of solid tumor malignancies. Studies were carried out in vitro to evaluate downstream molecular alterations induced as a consequence of the potent and sustained inhibition of thymidylate synthase by Tomudex. Twenty-four hours following the initial 2-h treatment with Tomudex, human A253 head and neck squamous carcinoma cells, not expressing p53 and p21(WAF1), were accumulated with DNA content characteristic of early S phase of the cell cycle with a concomitant reduction of cells in G1 and G2/M phases. The changes in cyclin and cdk protein expression and their kinase activities were examined in control and drug-treated A253 cells. Tomudex treatment resulted in the decrease in p27(kip1) expression, with an increase in cyclin E and cdk2 protein expression and kinase activities 24 h after a 2-h exposure. Although cyclin A protein expression was markedly increased, cyclin A kinase activity was only slightly increased. Cyclin D1, cyclin B, cdk4, and cdc2 protein expression and kinase activities remain constant. Lack of activation of cyclin A- and B-cdc2 was associated with a reduced proportion of cells in G2/M phases. Increased cyclin E-cdk2 protein expression was accompanied by the inhibition of DNA synthesis, with a decrease in E2F-1 expression. These results propose that cyclin E-cdk2 kinase can negatively regulate DNA replication. The studies with dThyd rescue from cyclin E-cdk2 protein overexpression and growth inhibition by Tomudex indicate that increased cyclin E-cdk2 protein expression is associated with effective inhibition of thymidylate synthase and resultant dNTP pool imbalance. Provision of dThyd more than 24 h after exposure to Tomudex allowed cells to replicate DNA for a single cycle back to G1, but did not prevent the profound growth-inhibitory effect manifested in the following 5 days. Tomudex treatment resulted in a time-dependent induction of the megabase DNA fragments, followed by secondary 50- to 300-kb DNA fragmentation. The 50- to 300-kb DNA fragmentation may be derived from the inhibition of DNA synthesis associated with cyclin E-cdk2 activation. These results suggest that the megabase DNA fragmentation is induced as a consequence of inhibition of thymidylate synthase by Tomudex and kilobase DNA fragmentation may correlate with the reduction of p27(kip1) expression and the increase in cyclin E and cdk2 kinase activities. Activation of cyclin E and cdk2 kinases allows cells to transit from G1 to S phase accompanied by the inhibition of DNA synthesis. The changes in cell cycle regulatory proteins associated with growth inhibition and DNA damage by Tomudex are not p53 dependent.",
+        "triple_list": [
+            [
+                "Tomudex",
+                "INDIRECT-UPREGULATOR",
+                "cdk2"
+            ],
+            [
+                "Tomudex",
+                "INHIBITOR",
+                "cyclin E"
+            ],
+            [
+                "Tomudex",
+                "ACTIVATOR",
+                "cyclin E"
+            ],
+            [
+                "Tomudex",
+                "INDIRECT-DOWNREGULATOR",
+                "p27(kip1)"
+            ],
+            [
+                "Tomudex",
+                "INHIBITOR",
+                "thymidylate synthase"
+            ],
+            [
+                "Tomudex",
+                "INDIRECT-UPREGULATOR",
+                "cyclin E"
+            ],
+            [
+                "Tomudex",
+                "ACTIVATOR",
+                "kinase"
+            ],
+            [
+                "Tomudex",
+                "ACTIVATOR",
+                "cdk2"
+            ],
+            [
+                "Tomudex",
+                "INHIBITOR",
+                "cdk2"
+            ]
+        ]
+    },
+    {
+        "text": "Differential pharmacokinetics and pharmacodynamics of methylphenidate enantiomers: does chirality matter? d,l-threo-methylphenidate (MPH) is an effective first-line treatment for the symptoms associated with attention-deficit/hyperactivity disorder. threo-methylphenidate inhibits the dopamine transporter and the norepinephrine transporter, resulting in elevations of these monoamines after impulse release. Although MPH has long been administered as a racemic mixture of the 2 enantiomers, d-MPH and l-MPH, converging lines of evidence drawn from investigations using in vitro systems, animal models, and humans indicate that it is predominantly, if not exclusively, d-MPH that mediates the pharmacological/therapeutic actions of MPH. In both rodent and primate animal models, the binding of radiolabeled d-MPH to dopamine transporter was found to be selective, saturable, and reversible, whereas binding of l-MPH was diffuse and nonspecific. The behavioral effects of the enantiomers of MPH have been tested in several animal models, and results indicate these observed behavioral changes are likewise mediated by d-MPH, whereas l-MPH has little or no effect.The contribution of the l-isomer to the overall pharmacological profile of the racemate remains unclear, owing to several studies suggesting that l-MPH may not be merely an inert isomeric ballast. For example, behavioral studies conducted in rats demonstrate an attenuation of the effect of d-MPH in animals pretreated with l-MPH, suggesting that l-MPH may interfere with the action of the active enantiomer. The importance of MPH chirality to central nervous system MPH receptor targeting has culminated in human imaging studies revealing that d-MPH binds specifically to striatal structures, whereas l-MPH binding is nonspecific. Taken together, data from in vitro, animal, and human studies support the premise that the d-enantiomer of MPH mediates the neurophysiological actions of MPH and therefore likely mediates its clinical efficacy.",
+        "triple_list": [
+            [
+                "threo-methylphenidate",
+                "INHIBITOR",
+                "dopamine transporter"
+            ],
+            [
+                "l-MPH",
+                "DIRECT-REGULATOR",
+                "dopamine transporter"
+            ],
+            [
+                "monoamines",
+                "SUBSTRATE",
+                "dopamine transporter"
+            ],
+            [
+                "d-MPH",
+                "DIRECT-REGULATOR",
+                "dopamine transporter"
+            ],
+            [
+                "threo-methylphenidate",
+                "INHIBITOR",
+                "norepinephrine transporter"
+            ],
+            [
+                "monoamines",
+                "SUBSTRATE",
+                "norepinephrine transporter"
+            ]
+        ]
+    },
+    {
+        "text": "[Inactivated factor VII exercises a powerful antithrombotic activity in an experimental model of recurrent arterial thrombosis]. The extrinsic coagulation pathway is activated when tissue factor (TF) is exposed as a consequence of arterial damage. TF binds to factor VII (FVII) or activated FVII (FVIIa), generating a complex that activates both FX and FIX, ultimately leading to thrombin formation. To determine whether inhibition of FVII binding to TF would result in antithrombotic effects, active site-blocked FVIIa (FVIIai) was used in a rabbit model of intravascular thrombus formation. In addition, to study the interaction between extrinsic coagulation pathway activation and platelet aggregation, in the same model of intravascular thrombus formation, recombinant human FVIIa was administered in antiplatelet-treated rabbits. Cyclic flow variations (CFVs), due to recurrent thrombus formation, were initiated by placing an external constrictor around the endothelially-injured rabbit carotid arteries (Folt's model). Carotid blood flow was measured continuously by a Doppler flow probe placed proximally to the constrictor. CFVs were induced in 29 New Zealand White rabbits. After CFVs were observed for 30 min, the animals were randomly divided in four groups: 5 animals received via a small catheter (26G) placed proximally to the stenosis, an intra-arterial infusion of human recombinant FVIIai (0.1 mg/kg/min for 10 min); 9 animals received AP-1, a monoclonal antibody against rabbit TF (0.1 mg/kg i.v. bolus); 7 animals received ridogrel, a dual thromboxane A2 synthetase inhibitor and thromboxane A2 receptor antagonist (10 mg/kg i.v. bolus); finally, 8 rabbits received aurintrycarboxilic acid (ATA), an inhibitor of platelet glycoprotein Ib/von Willebrand factor interaction (10 mg/kg i.v. bolus). FVIIai abolished CFVs in 5 of 5 animals (CFV frequency minutes 0 cycles/hour; p < 0.05; carotid blood flow velocity minutes 106 +/- 9% of the baseline values; NS vs baseline). AP-1 abolished CFVs in 7 of 9 animals (CFV frequency minutes 0 cycles/hour; p < 0.05; carotid blood flow velocity minutes 58 +/- 35% of the baseline values; NS vs baseline). Finally, in all the animals receiving ridogrel or ATA CFVs were abolished (CFV frequency 0 cycles/hour; p < 0.05 in both groups; carotid blood flow velocity, respectively 62 +/- 32 and 66 +/- 40% of the baseline values; NS vs baseline in both groups). Thirty minutes following inhibition of CFVs, in the FVIIai treated rabbits, human recombinant FVIIa was infused, via the small catheter placed proximally to the stenosis, at the dose of 0.1 mg/kg/min for 10 min. In the other three groups, FVIIa, at the same dose, was infused i.v. Infusion of FVIIa restored CFVs in all FVIIai treated animals and in 6 of 7 AP-1 treated animals, thus indicating that AP-1 and FVIIai bindings to TF was competitive and was replaced by FVIIa. Infusion of FVIIa failed to restore CFVs in ridogrel e ATA treated rabbits (1 of 7 and 0 of 8 rabbits, respectively), showing that activation of extrinsic coagulation by FVIIa was overcome by inhibition of platelet function. Activated partial thromboplastin time, and ex vivo platelet aggregation in response to ADP and thrombin, were not different after FVIIai infusion, while prothrombin time was slightly but significantly prolonged as compared to baseline values. Thus, FVII-VIIa plays an important role in initiating thrombus formation in vivo. Administration of FVIIai exerts a potent antithrombotic effects in this model without affecting systemic coagulation. In addition, in this model platelets exert an important role in arterial thrombosis, since in the presence of inhibition of platelet function, activation of the extrinsic coagulation pathway failed to restore thrombus formation.",
+        "triple_list": [
+            [
+                "ATA",
+                "INHIBITOR",
+                "von Willebrand factor"
+            ],
+            [
+                "ATA",
+                "INHIBITOR",
+                "glycoprotein Ib"
+            ],
+            [
+                "aurintrycarboxilic acid",
+                "INHIBITOR",
+                "glycoprotein Ib"
+            ],
+            [
+                "aurintrycarboxilic acid",
+                "INHIBITOR",
+                "von Willebrand factor"
+            ]
+        ]
+    },
+    {
+        "text": "Design and application of anthracene derivative with aggregation-induced emission charateristics for visualization and monitoring of erythropoietin unfolding. Erythropoietin (EPO) is an attractive protein-unfolding/folding model because of its high degree of unfolding and folding reversibility and intermediate size. Due to its function for regulating red blood cell production by stimulating late erythroid precursor cells, EPO presents obvious values to biological research. A nonemissive anthracene derivative, that is 9,10-bis[4-(3-sulfonatopropoxyl)-styryl]anthracene sodium salt (BSPSA), with aggregation-induced emission (AIE) charateristics shows a novel phenomenon of AIE when EPO is added. The AIE biosensor for EPO shows the limit of detection is 1 \u00d7 10(-9) M. Utilizing the AIE feature of BSPSA, the unfolding process of EPO using guanidine hydrochloride is monitored, which indicates three steps for the folding structures of EPO to transform to random coil. Computational modeling suggests that the BSPSA luminogens prefer docking in the hydrophobic cavity in the EPO folding structures, and the assembly of BSPSA in this cavity makes the AIE available, making the monitoring of unfolding of EPO possible.",
+        "triple_list": [
+            [
+                "BSPSA",
+                "DIRECT-REGULATOR",
+                "EPO"
+            ]
+        ]
+    },
+    {
+        "text": "Optimization of marine triterpene sipholenols as inhibitors of breast cancer migration and invasion. Sipholenol A, a sipholane triterpene isolated from the Red Sea sponge Callyspongia siphonella, has the ability to reverse multidrug resistance in cancer cells that overexpress P-glycoprotein (P-gp). Here, the antimigratory activity of sipholenol A and analogues are reported against the highly metastatic human breast cancer cell line MDA-MB-231 in a wound-healing assay. Sipholenol A and sipholenone A were semisynthetically optimized using ligand-based strategies to generate structurally diverse analogues in an attempt to maximize their antimigratory activity. A total of 22 semisynthetic ester, ether, oxime, and carbamate analogues were generated and identified by extensive one- and two-dimensional NMR spectroscopy and high-resolution mass spectrometry analyses. Sipholenol A 4\u03b2-4-chlorobenzoate and 19,20-anhydrosipholenol A 4\u03b2-4-chlorobenzoate esters were the most potent of all tested analogues in the wound-healing assay, with IC(50) values of 5.3 and 5.9 \u03bcM, respectively. Generally, ester derivatives showed better antimigratory activities than the carbamate analogues. A KINOMEscan of 19,20-anhydrosipholenol A 4\u03b2-benzoate ester against 451 human protein kinases identified protein tyrosine kinase 6 (PTK6) as a potential target. In breast tumor cells, PTK6 promotes growth factor signaling and migration, and as such the semisynthetic sipholanes were evaluated for their ability to inhibit PTK6 phosphorylation in vitro. The two analogues with the highest antimigratory activities, sipholenol A 4\u03b2-4-chlorobenzoate and 19,20-anhydrosipholenol A 4\u03b2-4-chlorobenzoate esters, also exhibited the most potent inhibition of PTK6 phosphorylation inhibition. None of the compounds exhibited cytotoxicity in a normal epithelial breast cell line. These derivatives were evaluated in an in vitro invasion assay, where sipholenol A succinate potently inhibited MDA-MB-231 cell invasion at 10 \u03bcM. These results highlight sipholane triterpenoids as novel antimigratory marine natural products with potential for further development as agents for the control of metastatic breast malignancies.",
+        "triple_list": [
+            [
+                "19,20-anhydrosipholenol A 4\u03b2-benzoate ester",
+                "DIRECT-REGULATOR",
+                "PTK6"
+            ],
+            [
+                "sipholenol A 4\u03b2-4-chlorobenzoate",
+                "INHIBITOR",
+                "PTK6"
+            ],
+            [
+                "19,20-anhydrosipholenol A 4\u03b2-4-chlorobenzoate",
+                "INHIBITOR",
+                "PTK6"
+            ],
+            [
+                "19,20-anhydrosipholenol A 4\u03b2-benzoate ester",
+                "DIRECT-REGULATOR",
+                "protein tyrosine kinase 6"
+            ],
+            [
+                "sipholanes",
+                "INHIBITOR",
+                "PTK6"
+            ],
+            [
+                "esters",
+                "INHIBITOR",
+                "PTK6"
+            ]
+        ]
+    },
+    {
+        "text": "Success of pyridostigmine, physostigmine, eptastigmine and phosphotriesterase treatments in acute sarin intoxication. The acute toxicity of organophosphorus (OP) compounds in mammals is due to their irreversible inhibition of acetylcholinesterase (AChE) in the nervous system, which leads to increased synaptic acetylcholine levels. The protective actions of intravenously (i.v.) administered pyridostigmine, physostigmine, eptastigmine, and an organophosphate hydrolase, phosphotriesterase, in acute sarin intoxication were studied in mice. The acute intragastric (i.g.) toxicity (LD50) of sarin with and without the pretreatments was tested by the up-and-down method. The mice received pyridostigmine (0.06 mg/kg body weight), physostigmine (0.09 mg/kg body weight), the physostigmine derivative eptastigmine (0.90 mg/kg body weight) or phosphotriesterase (104 U/g, 10.7 microg/g body weight) 10 min prior to the i.g. administration of sarin. Physostigmine was also administered with phosphotriesterase. Phosphotriesterase was the most effective antidote in sarin intoxication. The LD50 value for sarin increased 3.4-fold in mice receiving phosphotriesterase. Physostigmine was the most effective carbamate in sarin exposure. The protective ratios of physostigmine and pyridostigmine were 1.5- and 1.2-1.3-fold, respectively. Eptastigmine did not give any protection against sarin toxicity. Both the phosphotriesterase and physostigmine treatments protected the brain AChE activities measured 24 h after sarin exposure. In phosphotriesterase and physostigmine-treated mice, a 4- and 2-fold higher sarin dose, respectively, was needed to cause a 50% inhibition of brain AChE activity. Moreover, the combination of phosphotriesterase-physostigmine increased the LD50 value for sarin 4.3-fold. The animals pretreated with phosphotriesterase-ephysostigmine tolerated four times the lethal dose in control animals, furthermore their survival time was 2-3 h in comparison to 20 min in controls. In conclusion, phosphotriesterase and physostigmine were the most effective treatments against sarin intoxication. However, eptastigmine did not provide any protection against sarin toxicity.",
+        "triple_list": [
+            [
+                "acetylcholine",
+                "SUBSTRATE",
+                "acetylcholinesterase"
+            ],
+            [
+                "sarin",
+                "INHIBITOR",
+                "AChE"
+            ],
+            [
+                "organophosphorus",
+                "INHIBITOR",
+                "acetylcholinesterase"
+            ],
+            [
+                "acetylcholine",
+                "SUBSTRATE",
+                "AChE"
+            ],
+            [
+                "organophosphorus",
+                "INHIBITOR",
+                "AChE"
+            ]
+        ]
+    },
+    {
+        "text": "Dual Growth Factor Delivery Using Biocompatible Core-Shell Microcapsules for Angiogenesis. An optimized electrodropping system produces homogeneous core-shell microcapsules (C-S MCs) by using poly(L-lactic-co-glycolic acid) (PLGA) and alginate. Fluorescence imaging clearly shows the C-S domain in the MC. For release control, the use of high-molecular-weight PLGA (HMW 270 000) restrains the initial burst release of protein compared to that of low-MW PLGA (LMW 40 000). Layer-by-layer (LBL) assembly of chitosan and alginate on MCs is also useful in controlling the release profile of biomolecules. LBL (7-layer) treatment is effective in suppressing the initial burst release of protein compared to no LBL (0-layer). The difference of cumulative albumin release between HMW (7-layer LBL) and LMW (0-layer LBL) PLGA is determined to be more than 40% on day 5. When dual angiogenic growth factors (GFs), such as platelet-derived GF (PDGF) and vascular endothelial GF (VEGF), are encapsulated separately in the core and shell domains, respectively, the VEGF release rate is much greater than that of PDGF, and the difference of the cumulative release percentage between the two GFs is about 30% on day 7 with LMW core PLGA and more than 45% with HMW core PLGA. As for the angiogenic potential of MC GFs with human umbilical vein endothelial cells (HUVECs), the fluorescence signal of CD31+ suggests that the angiogenic sprout of ECs is more active in MC-mediated GF delivery than conventional GF delivery, and this difference is significant, based on the number of capillary branches in the unit area. This study demonstrates that the fabrication of biocompatible C-S MCs is possible, and that the release control of biomolecules is adjustable. Furthermore, MC-mediated GFs remain in an active form and can upregulate the angiogenic activity of ECs.",
+        "triple_list": [
+            [
+                "PLGA",
+                "INDIRECT-UPREGULATOR",
+                "VEGF"
+            ],
+            [
+                "PLGA",
+                "INDIRECT-UPREGULATOR",
+                "PDGF"
+            ]
+        ]
+    },
+    {
+        "text": "Extracellular serotonin, dopamine and glutamate levels are elevated in the hypothalamus in a serotonin syndrome animal model induced by tranylcypromine and fluoxetine. Serotonin (5-HT) syndrome is a potentially fatal condition associated with various combinations of serotonergic drugs. The present study was undertaken to demonstrate that nervous systems other than the 5-HT system also participate in the pathophysiology of 5-HT syndrome. Concentrations of 5-HT, dopamine (DA) and glutamate in the hypothalamus were measured in two different 5-HT syndrome animal models using a microdialysis technique. The first model was induced by tranylcypromine, a nonselective monoamine oxidase (MAO) inhibitor (3.5 mg/kg) and fluoxetine, a selective serotonin reuptake inhibitor (SSRI) (10 mg/kg). The second model was induced by clorgyline, an MAO-A inhibitor (1.2 mg/kg) and 5-hydroxy-L-tryptophan, a precursor of 5-HT (5-HTP) (80 mg/kg). In the first model, the levels of 5-HT and DA increased by 40-fold and 44-fold, respectively, compared with the preadministration levels. In the second model, the concentrations of 5-HT increased by up to 140-fold, whereas DA levels increased by only 10-fold, of the preadministration levels. Although the level of glutamate in the second model barely changed, a delayed increase in the glutamate level was observed in the first model. These findings suggest that not only hyperactivity of the 5-HT system, but also hyperactivity of the DA system, are present in 5-HT syndrome, and that the glutamatergic system is influenced in some 5-HT syndrome cases in which the DA concentration markedly increases.",
+        "triple_list": [
+            [
+                "tranylcypromine",
+                "INHIBITOR",
+                "monoamine oxidase"
+            ],
+            [
+                "clorgyline",
+                "INHIBITOR",
+                "MAO-A"
+            ],
+            [
+                "tranylcypromine",
+                "INHIBITOR",
+                "MAO"
+            ]
+        ]
+    },
+    {
+        "text": "Characterization of the NifS-like domain of ABA3 from Arabidopsis thaliana provides insight into the mechanism of molybdenum cofactor sulfuration. The molybdenum cofactor sulfurase ABA3 from Arabidopsis thaliana specifically regulates the activity of the molybdenum enzymes aldehyde oxidase and xanthine dehydrogenase by converting their molybdenum cofactor from the desulfo-form into the sulfo-form. ABA3 is a two-domain protein with an NH2-terminal domain sharing significant similarities to NifS proteins that catalyze the decomposition of l-cysteine to l-alanine and elemental sulfur for iron-sulfur cluster synthesis. Although different in its physiological function, the mechanism of ABA3 for sulfur mobilization was found to be similar to NifS proteins. The protein binds a pyridoxal phosphate cofactor and a substrate-derived persulfide intermediate, and site-directed mutagenesis of strictly conserved binding sites for the cofactor and the persulfide demonstrated that they are essential for molybdenum cofactor sulfurase activity. In vitro, the NifS-like domain of ABA3 activates aldehyde oxidase and xanthine dehydrogenase in the absence of the C-terminal domain, but in vivo, the C-terminal domain is required for proper activation of both target enzymes. In addition to its cysteine desulfurase activity, ABA3-NifS also exhibits selenocysteine lyase activity. Although l-selenocysteine is unlikely to be a natural substrate for ABA3, it is decomposed more efficiently than l-cysteine. Besides mitochondrial AtNFS1 and plastidial AtNFS2, which are both proposed to be involved in iron-sulfur cluster formation, ABA3 is proposed to be a third and cytosolic NifS-like cysteine desulfurase in A. thaliana. However, the sulfur transferase activity of ABA3 is used for post-translational activation of molybdenum enzymes rather than for iron-sulfur cluster assembly.",
+        "triple_list": [
+            [
+                "l-cysteine",
+                "SUBSTRATE",
+                "NifS"
+            ],
+            [
+                "sulfur",
+                "SUBSTRATE",
+                "ABA3"
+            ],
+            [
+                "l-alanine",
+                "PRODUCT-OF",
+                "NifS"
+            ],
+            [
+                "iron-sulfur",
+                "PRODUCT-OF",
+                "AtNFS2"
+            ],
+            [
+                "sulfur",
+                "SUBSTRATE",
+                "NifS"
+            ],
+            [
+                "NH2",
+                "PART-OF",
+                "ABA3"
+            ],
+            [
+                "l-selenocysteine",
+                "SUBSTRATE",
+                "ABA3"
+            ],
+            [
+                "C",
+                "PART-OF",
+                "ABA3"
+            ],
+            [
+                "molybdenum",
+                "SUBSTRATE",
+                "molybdenum cofactor sulfurase"
+            ],
+            [
+                "molybdenum",
+                "DIRECT-REGULATOR",
+                "xanthine dehydrogenase"
+            ],
+            [
+                "molybdenum",
+                "DIRECT-REGULATOR",
+                "aldehyde oxidase"
+            ],
+            [
+                "NH2",
+                "PART-OF",
+                "NifS"
+            ],
+            [
+                "iron-sulfur",
+                "PRODUCT-OF",
+                "ABA3"
+            ],
+            [
+                "C",
+                "PART-OF",
+                "NifS-like domain"
+            ],
+            [
+                "iron-sulfur",
+                "PRODUCT-OF",
+                "NifS"
+            ],
+            [
+                "iron-sulfur",
+                "PRODUCT-OF",
+                "AtNFS1"
+            ],
+            [
+                "molybdenum",
+                "SUBSTRATE",
+                "ABA3"
+            ],
+            [
+                "l-cysteine",
+                "SUBSTRATE",
+                "ABA3"
+            ],
+            [
+                "molybdenum",
+                "SUBSTRATE",
+                "NifS-like domain"
+            ]
+        ]
+    },
+    {
+        "text": "Functional studies on alpha 1-adrenoceptor subtypes mediating inotropic effects in rat right ventricle. 1. We have studied the alpha 1-adrenoceptor subtypes mediating inotropic effects of adrenaline in rat right ventricle and the Ca2+ sources used to elicit these effects. alpha 1A-Adrenoceptor-mediated contractile effects in rat vas deferens were studied for comparison in some cases. 2. Treatment with chloroethylclonidine did not affect the maximal beta-adrenoceptor-mediated inotropic effects in rat right ventricle or the maximal alpha 1A-adrenoceptor-mediated contractile effects in rat vas deferens; it did not alter the potency of isoprenaline in the ventricle and reduced the potency of the alpha-adrenoceptor antagonists in vas deferens only slightly. Treatment of right ventricular strips with CdCl2 markedly reduced resting tension and enhanced maximal inotropic effects of isoprenaline but did not affect its potency. 3. Inactivation of cardiac alpha 1B-adrenoceptors by treatment with chloroethylclonidine slightly enhanced the maximal inotropic effects of the full agonist, adrenaline and of several partial agonists. 4. Schild analysis of inhibition experiments with the alpha 1A-adrenoceptor-selective antagonists, 5-methyl-urapidil and (+/-)-tamsulosin, demonstrated that adrenaline causes its inotropic effects mainly via the alpha 1B-adrenoceptor subtype. Schild analysis of 5-methyl-urapidil inhibition experiments in chloroethylclonidine-treated ventricles indicated that only alpha 1A-adrenoceptors mediate the inotropic effects of adrenaline following inactivation of the alpha 1B-adrenoceptors. 5. In control ventricles the organic Ca2+ entry blocker, nitrendipine and treatment with the inorganic Ca2+ entry blocker, CdCl2 did not reduce inotropic effects of adrenaline whereas ryanodine treatment inhibited them. In contrast, nitrendipine and CdCl2 treatment had major inhibitory effects in chloroethylclonidine-treated but lacked inhibitory effects in phenoxybenzamine-treated ventricular strips. 6. We conclude that inotropic effects of adrenaline in rat heart are mediated mainly by alpha 1B-adrenoceptors via release of Ca2+ from an intracellular pool. Following inactivation of alpha 1B-adrenoceptors by chloroethylclonidine treatment, alpha lA-adrenoceptors can fully compensate and mediate inotropic effects by promoting influx of extracellular Ca2+ at least partly via voltage-operated channels.Therefore, we speculate that alpha 1B-adrenoceptors exert a tonic inhibitory effect on alpha 1A-adrenoceptors.",
+        "triple_list": [
+            [
+                "adrenaline",
+                "AGONIST-ACTIVATOR",
+                "alpha 1B-adrenoceptors"
+            ],
+            [
+                "(+/-)-tamsulosin",
+                "ANTAGONIST",
+                "alpha 1A-adrenoceptor"
+            ],
+            [
+                "5-methyl-urapidil",
+                "INHIBITOR",
+                "alpha 1A-adrenoceptors"
+            ],
+            [
+                "5-methyl-urapidil",
+                "ANTAGONIST",
+                "alpha 1A-adrenoceptor"
+            ],
+            [
+                "Ca2+",
+                "SUBSTRATE",
+                "voltage-operated channels"
+            ],
+            [
+                "chloroethylclonidine",
+                "INHIBITOR",
+                "alpha 1B-adrenoceptors"
+            ]
+        ]
+    },
+    {
+        "text": "An international case-control study of glutathione transferase and functionally related polymorphisms and risk of primary adult brain tumors. BACKGROUND: Glutathione transferases (GST) detoxify environmental and endogenous compounds and levels of two polymorphic GST proteins, GSTM3 and GSTP1, are high in the brain. Previous studies of GSTM3 and GSTP1 polymorphisms and adult brain tumor risk have produced inconsistent results, whereas the GSTM3 -63 variant is newly identified and, therefore, has not yet been studied in this context. We therefore examined associations between GSTM3 -63, GSTM3 *A/*B, GSTP1 105, and GSTP1 114 variants and adult brain tumor risk and the interaction of the effects of these same polymorphisms with cigarette smoking. In addition, the enzymes NQO1 and CYP1A1 alter susceptibility to oxidative brain damage. Because there is less previous evidence for a role of NQO1, CYP1A1, GSTM1, and GSTT1 variants, we restricted analysis of these variants to a small preliminary study. METHODS: We genotyped DNA collected for an international population-based case-control study of 725 glioma cases, 329 of which were glioblastoma cases, 546 meningioma cases and 1,612 controls. Study participants were residents of Sweden, southeast England, Denmark, and Finland. RESULTS: We found no associations between the GSTM3, GSTP1, NQO1, CYP1A1, GSTM1, or GSTT1 polymorphisms and adult brain tumor risk with the possible exception of a weak association between the G-C (Val-Ala) GSTP1 105/114 haplotype and glioma [odds ratio (OR), 0.73; 95% confidence interval (95% CI), 0.54, 0.99], nor was there an interaction between the effects of the GSTM3 or GSTP1 polymorphisms and cigarette smoking. CONCLUSIONS: Overall, we observed no strong evidence for an association between GST or related enzyme polymorphisms and adult brain tumor risk.",
+        "triple_list": [
+            [
+                "Val-Ala",
+                "PART-OF",
+                "GSTP1"
+            ]
+        ]
+    },
+    {
+        "text": "Inactivation of prostaglandin H synthase and prostacyclin synthase by phenylbutazone. Requirement for peroxidative metabolism. Phenylbutazone (PB), a nonsteroidal anti-inflammatory drug, is an efficient reducing cofactor for the peroxidase activity of prostaglandin H synthase (PHS). Most reducing cofactors for the peroxidase protect PHS and prostacyclin synthase from inactivation by hydroperoxides. PB, however, does not protect these enzymes, but rather augments their hydroperoxide-dependent inactivation. Using ram seminal vesicle microsomes as a source of PHS and prostacyclin synthase, we have examined the interaction of PB and exogenous hydroperoxides. Chromatographic analysis of the metabolism of 14C-labeled arachidonic acid in this system revealed that PB-dependent inactivation of PHS is markedly increased in the presence of 100 microM H2O2. This inactivation is a linear function of PB concentration between 10 and 250 microM, with a half-maximal effect in this range at about 100 microM PB. Prostacyclin synthase is even more sensitive to inactivation by the combined PB and H2O2 treatment, with a corresponding half-maximal effect at PB concentrations near 25 microM. This PB- and H2O2-dependent inactivation is demonstrable whether PGH2 is generated in situ from arachidonic acid or is added exogenously, supporting a direct effect of the treatment on prostacyclin synthase. As PB undergoes peroxide-dependent co-oxygenation catalyzed by PHS, we propose that it is an oxygenated derivative of PB, rather than the parent compound, which is responsible for the inactivation of PHS and prostacyclin synthase. Nafazatrom, a competitive inhibitor of PB co-oxygenation, blocks the effects of the PB and H2O2 treatment, supporting our proposal.",
+        "triple_list": [
+            [
+                "14C-labeled arachidonic acid",
+                "SUBSTRATE",
+                "PHS"
+            ],
+            [
+                "phenylbutazone",
+                "INHIBITOR",
+                "prostaglandin H synthase"
+            ],
+            [
+                "H2O2",
+                "INHIBITOR",
+                "PHS"
+            ],
+            [
+                "hydroperoxides",
+                "INHIBITOR",
+                "prostacyclin synthase"
+            ],
+            [
+                "phenylbutazone",
+                "INHIBITOR",
+                "prostacyclin synthase"
+            ],
+            [
+                "hydroperoxides",
+                "INHIBITOR",
+                "PHS"
+            ]
+        ]
+    },
+    {
+        "text": "Expression and selective inhibition of the constitutive and inducible forms of human cyclo-oxygenase. The enzyme cyclo-oxygenase catalyses the oxygenation of arachidonic acid, leading to the formation of prostaglandins. Recently two forms of cyclo-oxygenase have been described: a constitutive (COX-1) enzyme present in most cells and tissues, and an inducible (COX-2) isoenzyme observed in many cells in response to pro-inflammatory cytokines. Constitutive and inducible forms of human cyclo-oxygenase (hCOX-1 and hCOX-2) were cloned and expressed in insect cells, utilizing a baculovirus expression system. hCOX-1 had a specific activity of 18.8 mumol of O2/mg with a Km of 13.8 microM for arachidonate and Vmax. of 1500 nmol of O2/nmol of enzyme, whereas hCOX-2 had a specific activity of 12.2 mumol of O2/mg with a Km of 8.7 microM for arachidonate and a Vmax. of 1090 nmol of O2/nmol of enzyme. Indomethacin inhibited both hCOX-1 and hCOX-2, whereas NS-398 and Dup-697 selectively inhibited hCOX-2. Both NS-398 and Dup-697 exhibited time-dependent inactivation of hCOX-2, as did indomethacin on both enzymes. The competitive inhibitor of hCOX-1, mefenamic acid, also displayed competitive inhibition of hCOX-2. These results demonstrate the ability to generate selective non-steroidal anti-inflammatory drugs (NSAIDs), which could provide useful improvement therapeutically in the treatment of chronic inflammatory disease.",
+        "triple_list": [
+            [
+                "indomethacin",
+                "INHIBITOR",
+                "hCOX-2"
+            ],
+            [
+                "Dup-697",
+                "INHIBITOR",
+                "hCOX-2"
+            ],
+            [
+                "arachidonic acid",
+                "SUBSTRATE",
+                "cyclo-oxygenase"
+            ],
+            [
+                "arachidonate",
+                "SUBSTRATE",
+                "hCOX-1"
+            ],
+            [
+                "Indomethacin",
+                "INHIBITOR",
+                "hCOX-2"
+            ],
+            [
+                "Indomethacin",
+                "INHIBITOR",
+                "hCOX-1"
+            ],
+            [
+                "mefenamic acid",
+                "INHIBITOR",
+                "hCOX-2"
+            ],
+            [
+                "prostaglandins",
+                "PRODUCT-OF",
+                "cyclo-oxygenase"
+            ],
+            [
+                "NS-398",
+                "INHIBITOR",
+                "hCOX-2"
+            ],
+            [
+                "mefenamic acid",
+                "INHIBITOR",
+                "hCOX-1"
+            ],
+            [
+                "arachidonate",
+                "SUBSTRATE",
+                "hCOX-2"
+            ]
+        ]
+    },
+    {
+        "text": "Fragment-based drug design and identification of HJC0123, a novel orally bioavailable STAT3 inhibitor for cancer therapy. Fragment-based drug design (FBDD) is a promising approach for the generation of lead molecules with enhanced activity and especially drug-like properties against therapeutic targets. Herein, we report the fragment-based drug design, systematic chemical synthesis and pharmacological evaluation of novel scaffolds as potent anticancer agents by utilizing six privileged fragments from known STAT3 inhibitors. Several new molecules such as compounds 5, 12, and 19 that may act as advanced chemical leads have been identified. The most potent compound 5 (HJC0123) has demonstrated to inhibit STAT3 promoter activity, downregulate phosphorylation of STAT3, increase the expression of cleaved caspase-3, inhibit cell cycle progression and promote apoptosis in breast and pancreatic cancer cells with low micromolar to nanomolar IC50 values. Furthermore, compound 5 significantly suppressed estrogen receptor (ER)-negative breast cancer MDA-MB-231 xenograft tumor growth in\u00a0vivo (p.o.), indicating its great potential as an efficacious and orally bioavailable drug candidate for human cancer therapy.",
+        "triple_list": [
+            [
+                "HJC0123",
+                "INHIBITOR",
+                "STAT3"
+            ],
+            [
+                "HJC0123",
+                "INDIRECT-UPREGULATOR",
+                "caspase-3"
+            ],
+            [
+                "HJC0123",
+                "INHIBITOR",
+                "STAT3 promoter"
+            ]
+        ]
+    },
+    {
+        "text": "High-affinity GABA uptake and GABA-metabolizing enzymes in pig forebrain white matter: a quantitative study. GABA receptor activation in central nervous white matter may be protective during white matter hypoxia in the adult, and it may modify axonal conduction, especially in the developing brain. GABA uptake is important for the shaping of the GABA signal, but quantitative data are lacking for GABA uptake and GABA-metabolizing enzymes in central nervous white matter. We report that high-affinity uptake of GABA in adult pig corpus callosum, fimbria, subcortical pyramidal tracts, and occipital white matter is approximately 20% of that in temporal cortex gray matter. Tiagabine (0.1 microM), an antiepileptic drug that specifically inhibits the GAT-1 GABA transporter inhibited GABA uptake 50% in temporal cortex and 60-68% in white structures. This finding indicates that GAT-1 is an important GABA transporter in white matter and suggests that white matter GABA uptake is inhibited during tiagabine therapy. GABA transaminase activity in white structures was approximately 20% of neocortical values. Glutamate decarboxylase (GAD) activity in white structures was only 4% of that in neocortex (7-12 pmol/mg tissue x min(-1) versus approximately 200 pmol/mg tissue x min(-1)). Since white matter activity of citrate synthase of the tricarboxylic acid cycle was approximately 25% of neocortical values ( approximately 0.4 nmol/mg tissue x min(-1) versus approximately 1.5 nmol/mg tissue x min(-1)), the low GAD activity suggests a slower metabolic turnover of GABA in white than in gray matter.",
+        "triple_list": [
+            [
+                "Tiagabine",
+                "INHIBITOR",
+                "GAT-1"
+            ],
+            [
+                "GABA",
+                "PRODUCT-OF",
+                "GAD"
+            ],
+            [
+                "tiagabine",
+                "INHIBITOR",
+                "GABA transporter"
+            ],
+            [
+                "GABA",
+                "SUBSTRATE",
+                "GABA transporter"
+            ],
+            [
+                "GABA",
+                "SUBSTRATE",
+                "GAT-1"
+            ],
+            [
+                "tiagabine",
+                "INHIBITOR",
+                "GAT-1"
+            ],
+            [
+                "Tiagabine",
+                "INHIBITOR",
+                "GABA transporter"
+            ]
+        ]
+    },
+    {
+        "text": "Adenosine kinase from rat liver: new biochemical properties. Adenosine kinase is a well-known enzyme which catalyzes the phosphorylation of adenosine to AMP: Its metabolic and kinetic properties are well studied. Here, we report new properties of rat liver enzyme, demonstrating a new reaction: ADP can be a phosphate donor instead ATP, according to the reaction: adenosine + ADP --> 2AMP) demonstrating the efficiency of AdK to phosphorylate adenosine, also starting from ADP. Cells could exploited this property in situations in which ATP levels are strongly decreased and ADP decreases slowly.",
+        "triple_list": [
+            [
+                "AMP",
+                "PRODUCT-OF",
+                "Adenosine kinase"
+            ],
+            [
+                "adenosine",
+                "SUBSTRATE",
+                "Adenosine kinase"
+            ],
+            [
+                "adenosine",
+                "SUBSTRATE",
+                "AdK"
+            ]
+        ]
+    },
+    {
+        "text": "The role of rasagiline in the treatment of Parkinson's disease. Parkinson's disease (PD) is the second most common neurodegenerative disorder, affecting 1% to 2% of people older than 60 years. Treatment of PD consists of symptomatic therapies while neuroprotective strategies have remained elusive. Rasagiline is a novel, potent, and irreversible monoamine oxidase type B (MAO-B) inhibitor which has been approved for treatment of PD. Rasagiline inhibits MAO-B more potently than selegiline and has the advantage of once-daily dosing. In several large, randomized, placebo-controlled trials, rasagiline has demonstrated efficacy as monotherapy in early PD and as adjunctive therapy in advanced PD. In addition, rasagiline has been shown to have neuroprotective effects in in vitro and in vivo studies. The recently completed delayed-start ADAGIO (Attenuation of Disease Progression with Azilect Given Once-daily) trial suggests a potential disease-modifying effect for rasagiline 1 mg/day, though the clinical import of this finding has yet to be established.",
+        "triple_list": [
+            [
+                "Rasagiline",
+                "INHIBITOR",
+                "monoamine oxidase type B"
+            ],
+            [
+                "Rasagiline",
+                "INHIBITOR",
+                "MAO-B"
+            ]
+        ]
+    },
+    {
+        "text": "Fatal hemorrhage in mice lacking gamma-glutamyl carboxylase. The carboxylation of glutamic acid residues to gamma-carboxyglutamic acid (Gla) by the vitamin K-dependent gamma-glutamyl carboxylase (gamma-carboxylase) is an essential posttranslational modification required for the biological activity of a number of proteins, including proteins involved in blood coagulation and its regulation. Heterozygous mice carrying a null mutation at the gamma-carboxylase (Ggcx) gene exhibit normal development and survival with no evidence of hemorrhage and normal functional activity of the vitamin K-dependent clotting factors IX, X, and prothrombin. Analysis of a Ggcx(+/-) intercross revealed a partial developmental block with only 50% of expected Ggcx(-/-) offspring surviving to term, with the latter animals dying uniformly at birth of massive intra-abdominal hemorrhage. This phenotype closely resembles the partial midembryonic loss and postnatal hemorrhage previously reported for both prothrombin- and factor V (F5)-deficient mice. These data exclude the existence of a redundant carboxylase pathway and suggest that functionally critical substrates for gamma-carboxylation, at least in the developing embryo and neonate, are primarily restricted to components of the blood coagulation cascade.",
+        "triple_list": [
+            [
+                "Gla",
+                "PRODUCT-OF",
+                "vitamin K-dependent gamma-glutamyl carboxylase"
+            ],
+            [
+                "gamma-carboxyglutamic acid",
+                "PRODUCT-OF",
+                "vitamin K-dependent gamma-glutamyl carboxylase"
+            ],
+            [
+                "gamma-carboxyglutamic acid",
+                "PRODUCT-OF",
+                "gamma-carboxylase"
+            ],
+            [
+                "glutamic acid",
+                "SUBSTRATE",
+                "gamma-carboxylase"
+            ],
+            [
+                "Gla",
+                "PRODUCT-OF",
+                "gamma-carboxylase"
+            ],
+            [
+                "glutamic acid",
+                "SUBSTRATE",
+                "vitamin K-dependent gamma-glutamyl carboxylase"
+            ]
+        ]
+    },
+    {
+        "text": "Identification of novel antimycobacterial chemical agents through the in silico multi-conformational structure-based drug screening of a large-scale chemical library. The increasing prevalence of drug-resistant tuberculosis, which is resistant to effective multiple antibiotic, presents a major global health threat. The thymidine monophosphate kinase (TMPK) of Mycobacterium tuberculosis (M.\u00a0tuberculosis), which is an essential enzyme for the maintenance of the thymidine triphosphate pools, is considered an attractive target for the development of effective antibiotics against tuberculosis. In this study, we attempted to identify novel chemical compounds that specifically target the M.\u00a0tuberculosis TMPK (mtTMPK). We performed in silico structure-based drug screening using the crystal structure data of mtTMPK and a large-scale virtual compound library, which is composed of 6,192,930 chemicals. Through a three-step screening method using the DOCK and GOLD, we identified ten chemical compounds that were predicted to have high binding affinity to the active site cleft of the mtTMPK. We then evaluated the antibiotic effects of these chemical compounds on model mycobacteria strains. As a result, we found that a chemical compound, K10, completely inhibited the growth of Mycobacterium vanbaalenii (M.\u00a0vanbaalenii) and Mycobacterium smegmatis (M.\u00a0smegmatis). Moreover, K10 does not exhibit any toxic effects on the growth of enterobacteria and mammalian cells. The structural and experimental information regarding this novel chemical compound, K10, is likely to be useful for the hit-to-lead optimization of new antibiotics for the treatment of tuberculosis.",
+        "triple_list": [
+            [
+                "thymidine triphosphate",
+                "PRODUCT-OF",
+                "thymidine monophosphate kinase"
+            ],
+            [
+                "thymidine triphosphate",
+                "PRODUCT-OF",
+                "TMPK"
+            ]
+        ]
+    },
+    {
+        "text": "Epigenetic Regulation Is a Crucial Factor in the Repression of UGT1A1 Expression in the Human Kidney. Human UDP-glucuronosyltransferase (UGT) 1A1 catalyzes the metabolism of numerous clinically and pharmacologically important compounds such as bilirubin and SN-38. UGT1A1 is predominantly expressed in the liver and intestine, but not in the kidney. The purpose of this study was to uncover the mechanism of the tissue-specific expression of UGT1A1, focusing on its epigenetic regulation. Bisulfite sequence analysis revealed that the CpG-rich region near the UGT1A1 promoter (-85 to +40) was hypermethylated (83%) in the kidney, whereas it was hypomethylated (37%) in the liver. A chromatin immunoprecipitation assay demonstrated that histone H3 near the promoter was hypoacetylated in the kidney but was hyperacetylated in the liver; this hyperacetylation was accompanied by the recruitment of HNF1\u03b1 to the promoter. The UGT1A1 promoter in human kidney-derived HK-2 cells that do not express UGT1A1 was fully methylated, but was relatively unmethylated in human liver-derived HuH-7 cells that express UGT1A1. Treatment with 5-aza-2'-deoxycytidine (5-Aza-dC), an inhibitor of DNA methylation, resulted in an increase of UGT1A1 mRNA expression in both cell types, but the increase was much larger in HK-2 cells than in HuH-7 cells. The transfection of an HNF1\u03b1 expression plasmid into the HK-2 cells resulted in an increase of UGT1A1 mRNA only in the presence of 5-Aza-dC. In summary, we found that DNA hypermethylation along with histone hypoacetylation interferes with the binding of HNF1\u03b1, resulting in the defective expression of UGT1A1 in the human kidney. Thus, epigenetic regulation is a crucial determinant of tissue-specific expression of UGT1A1.",
+        "triple_list": [
+            [
+                "SN-38",
+                "SUBSTRATE",
+                "Human UDP-glucuronosyltransferase (UGT) 1A1"
+            ],
+            [
+                "bilirubin",
+                "SUBSTRATE",
+                "Human UDP-glucuronosyltransferase (UGT) 1A1"
+            ],
+            [
+                "CpG",
+                "PART-OF",
+                "UGT1A1 promoter"
+            ],
+            [
+                "5-aza-2'-deoxycytidine",
+                "INDIRECT-UPREGULATOR",
+                "UGT1A1"
+            ],
+            [
+                "5-Aza-dC",
+                "INDIRECT-UPREGULATOR",
+                "UGT1A1"
+            ]
+        ]
+    },
+    {
+        "text": "The UDP-Glucuronosyltransferase (UGT) 1A Polymorphism c.2042C>G (rs8330) Is Associated with Increased Human Liver Acetaminophen Glucuronidation, Increased UGT1A Exon 5a/5b Splice Variant mRNA Ratio, and Decreased Risk of Unintentional Acetaminophen-Induced Acute Liver Failure. Acetaminophen is cleared primarily by hepatic glucuronidation. Polymorphisms in genes encoding the acetaminophen UDP-glucuronosyltransferase (UGT) enzymes could explain interindividual variability in acetaminophen glucuronidation and variable risk for liver injury after acetaminophen overdose. In this study, human liver bank samples were phenotyped for acetaminophen glucuronidation activity and genotyped for the major acetaminophen-glucuronidating enzymes (UGTs 1A1, 1A6, 1A9, and 2B15). Of these, only three linked single nucleotide polymorphisms (SNPs) located in the shared UGT1A-3'UTR region (rs10929303, rs1042640, rs8330) were associated with acetaminophen glucuronidation activity, with rs8330 consistently showing higher acetaminophen glucuronidation at all the tested concentrations of acetaminophen. Mechanistic studies using luciferase-UGT1A-3'UTR reporters indicated that these SNPs do not alter mRNA stability or translation efficiency. However, there was evidence for allelic imbalance and a gene-dose proportional increase in the amount of exon 5a versus exon 5b containing UGT1A mRNA spliced transcripts in livers with the rs8330 variant allele. Cotransfection studies demonstrated an inhibitory effect of exon 5b containing cDNAs on acetaminophen glucuronidation by UGT1A1 and UGT1A6 cDNAs containing exon 5a. In silico analysis predicted that rs8330 creates an exon splice enhancer site that could favor exon 5a (over exon 5b) utilization during splicing. Finally, the prevalence of rs8330 was significantly lower (P = 0.027, \u03c7(2) test) in patients who had acute liver failure from unintentional acetaminophen overdose compared with patients with acute liver failure from other causes or a race- or ethnicity-matched population. Together, these findings suggest that rs8330 is an important determinant of acetaminophen glucuronidation and could affect an individual's risk for acetaminophen-induced liver injury.",
+        "triple_list": [
+            [
+                "acetaminophen",
+                "SUBSTRATE",
+                "UGT1A"
+            ],
+            [
+                "acetaminophen",
+                "SUBSTRATE",
+                "UGT1A6"
+            ],
+            [
+                "acetaminophen",
+                "SUBSTRATE",
+                "UGT1A1"
+            ]
+        ]
+    },
+    {
+        "text": "L-2-hydroxyglutaric aciduria, a defect of metabolite repair. L-2-hydroxyglutaric aciduria is a metabolic disorder in which L-2-hydroxyglutarate accumulates as a result of a deficiency in FAD-linked L-2-hydroxyglutarate dehydrogenase, a mitochondrial enzyme converting L-2-hydroxyglutarate to alpha-ketoglutarate. The origin of the L-2-hydroxyglutarate, which accumulates in this disorder, is presently unknown. The oxidation-reduction potential of the 2-hydroxyglutarate/alpha-ketoglutarate couple is such that L-2-hydroxyglutarate could potentially be produced through the reduction of alpha-ketoglutarate by a NAD- or NADP-linked oxidoreductase. In fractions of rat liver cytosolic extracts that had been chromatographed on an anion exchanger we detected an enzyme reducing alpha-ketoglutarate in the presence of NADH. This enzyme co-purified with cytosolic L-malate dehydrogenase (cMDH) upon further chromatography on Blue Sepharose. Mitochondrial fractions also contained an NADH-linked, 'alpha-ketoglutarate reductase', which similarly co-purified with mitochondrial L-malate dehydrogenase (mMDH). Purified mMDH catalysed the reduction of alpha-ketoglutarate to L-2-hydroxyglutarate with a catalytic efficiency that was about 10(7)-fold lower than that observed with oxaloacetate. For the cytosolic enzyme, this ratio amounted to 10(8), indicating that this enzyme is more specific. Both cMDH and mMDH are highly active in tissues and alpha-ketoglutarate is much more abundant than oxaloacetate and more concentrated in mitochondria than in the cytosol. As a result of this, the weak activity of mMDH on alpha-ketoglutarate is sufficient to account for the amount of L-2-hydroxyglutarate that is excreted by patients deficient in FAD-linked L-2-hydroxyglutarate dehydrogenase. The latter enzyme appears, therefore, to be responsible for a 'metabolite repair' phenomenon and to belong to the expanding class of 'house-cleaning' enzymes.",
+        "triple_list": [
+            [
+                "alpha-ketoglutarate",
+                "PRODUCT-OF",
+                "L-2-hydroxyglutarate dehydrogenase"
+            ],
+            [
+                "alpha-ketoglutarate",
+                "SUBSTRATE",
+                "mMDH"
+            ],
+            [
+                "L-2-hydroxyglutarate",
+                "PRODUCT-OF",
+                "NAD- or NADP-linked oxidoreductase"
+            ],
+            [
+                "oxaloacetate",
+                "SUBSTRATE_PRODUCT-OF",
+                "mMDH"
+            ],
+            [
+                "L-2-hydroxyglutarate",
+                "SUBSTRATE",
+                "L-2-hydroxyglutarate dehydrogenase"
+            ],
+            [
+                "alpha-ketoglutarate",
+                "SUBSTRATE",
+                "NAD- or NADP-linked oxidoreductase"
+            ],
+            [
+                "oxaloacetate",
+                "SUBSTRATE",
+                "cMDH"
+            ],
+            [
+                "L-2-hydroxyglutarate",
+                "PRODUCT-OF",
+                "mMDH"
+            ]
+        ]
+    },
+    {
+        "text": "Anti-inflammatory effects of trans-1,3-diphenyl-2,3-epoxypropane-1-one mediated by suppression of inflammatory mediators in LPS-stimulated RAW 264.7 macrophages. To assess the potential therapeutic properties of trans-1,3-diphenyl-2,3-epoxypropane-1-one (DPEP), its anti-inflammatory effects were investigated in lipopolysaccharide (LPS)-stimulated mouse macrophage (RAW 264.7) cells. DPEP induced dose-dependent reduction of the protein levels of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2) and concomitant reduction in the production of NO and prostaglandin E(2) (PGE(2)). Additionally, DPEP suppressed the production of inflammatory cytokines, including tumor necrosis factor-\u03b1 (TNF-\u03b1), interleukin (IL)-1\u03b2, and IL-6. We investigated the mechanism by which DPEP inhibits NO and PGE(2) by examining the level of nuclear factor-\u03baB (NF-\u03baB) activation within the mitogen-activated protein kinase (MAPK) pathway, which is an inflammation-induced signaling pathway in RAW 264.7 cells. DPEP inhibited LPS-induced phosphorylation of ERK, JNK, and p38. Furthermore, DPEP inhibited the LPS-induced phosphorylation of inhibitor \u03baB (I\u03baB)-\u03b1 and NF-\u03baB p50. Taken together, the results of this study demonstrate that DPEP inhibits LPS-stimulated inflammation by blocking the NF-\u03baB and MAPK pathways in macrophages.",
+        "triple_list": [
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "COX-2"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "iNOS"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "IL-6"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "p38"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "ERK"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "cytokines"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "MAPK"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "NF-\u03baB"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "interleukin (IL)-1\u03b2"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "p50"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "inhibitor \u03baB (I\u03baB)-\u03b1"
+            ],
+            [
+                "DPEP",
+                "INHIBITOR",
+                "JNK"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "tumor necrosis factor-\u03b1"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "cyclooxygenase-2"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "inducible nitric oxide synthase"
+            ],
+            [
+                "DPEP",
+                "INDIRECT-DOWNREGULATOR",
+                "TNF-\u03b1"
+            ]
+        ]
+    },
+    {
+        "text": "Apigenin induces c-Myc-mediated apoptosis in FRO anaplastic thyroid carcinoma cells. Apigenin promotes apoptosis in cancer cells. We studied the effect of apigenin on cell survival and c-Myc expression in FRO anaplastic thyroid carcinoma (ATC) cells. Apigenin caused apoptosis via the elevation of c-Myc levels in conjunction with the phosphorylation of p38 and p53. In the c-Myc siRNA-transfected and apigenin-treated cells, compared with the apigenin-treated control cells, apoptosis and phosphorylation of p38 and p53 were ameliorated. In the presence of apigenin, diminution of p38 and p53 did not affect cell survival although apigenin activated the phosphorylation of p38 and p53 via increased c-Myc levels. In conclusion, our results indicate that apigenin induces apoptosis mediated via c-Myc with concomitant phosphorylation of p53 and p38 in FRO ATC cells. These findings suggest that augmented c-Myc acts as a core regulator and is necessary for apigenin-induced apoptosis in FRO ATC cells.",
+        "triple_list": [
+            [
+                "Apigenin",
+                "INDIRECT-UPREGULATOR",
+                "c-Myc"
+            ],
+            [
+                "apigenin",
+                "ACTIVATOR",
+                "p53"
+            ],
+            [
+                "Apigenin",
+                "ACTIVATOR",
+                "p38"
+            ],
+            [
+                "apigenin",
+                "ACTIVATOR",
+                "p38"
+            ],
+            [
+                "Apigenin",
+                "ACTIVATOR",
+                "p53"
+            ],
+            [
+                "apigenin",
+                "INDIRECT-UPREGULATOR",
+                "c-Myc"
+            ]
+        ]
+    },
+    {
+        "text": "Minocycline inhibits the production of inducible nitric oxide synthase in articular chondrocytes. OBJECTIVE: To determine the in vitro effects of tetracyclines and nonsteroidal antiiflammatory drugs on interleukin 1alpha (IL-1alpha) induced NO production and biosynthesis of inducible NO synthase (iNOS) by articular chondrocytes. METHODS: Bovine chondrocytes were cultured in alginate beads. Cells were treated with IL-lalpha in the presence or absence of drugs at various concentrations. Expression of mRNA for iNOS was analyzed by reverse transcription polymerase chain reaction-ELISA. Protein synthesis of iNOS was determined by immunoprecipitation. NO production was taken as a measure for the activity of the enzyme. RESULTS: Minocycline dose dependently reduced IL-1 stimulated NO production by inhibition of the mRNA expression (IC50 = 69.9 microM) and protein synthesis (IC50 = 37.11 microM) of iNOS. Diclofenac-Na at a concentration of 10 microM only weakly reduced nitrite accumulation and mRNA expression of iNOS. No effects were observed for tetracycline, doxycycline, and meloxicam. CONCLUSION: Inhibition of iNOS in articular chondrocytes may be a new mechanism by which minocycline could exert its beneficial effects in the treatment of joint diseases.",
+        "triple_list": [
+            [
+                "Diclofenac-Na",
+                "INDIRECT-DOWNREGULATOR",
+                "iNOS"
+            ],
+            [
+                "Minocycline",
+                "INDIRECT-DOWNREGULATOR",
+                "inducible nitric oxide synthase"
+            ],
+            [
+                "NO",
+                "PRODUCT-OF",
+                "iNOS"
+            ],
+            [
+                "Minocycline",
+                "INDIRECT-DOWNREGULATOR",
+                "iNOS"
+            ],
+            [
+                "minocycline",
+                "INHIBITOR",
+                "iNOS"
+            ]
+        ]
+    },
+    {
+        "text": "Characterization of efflux transporters involved in distribution and disposition of apixaban. The studies reported here were conducted to investigate the transport characteristics of apixaban (1-(4-methoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-carboxamide) and to understand the impact of transporters on apixaban distribution and disposition. In human permeability glycoprotein (P-gp)- and breast cancer resistance protein (BCRP)-cDNA-transfected cell monolayers as well as Caco-2 cell monolayers, the apparent efflux ratio of basolateral-to-apical (PcB-A) versus apical-to-basolateral permeability (PcA-B) of apixaban was >10. The P-gp- and BCRP-facilitated transport of apixaban was concentration- and time-dependent and did not show saturation over a wide range of concentrations (1-100 \u03bcM). The efflux transport of apixaban was also demonstrated by the lower mucosal-to-serosal permeability than that of the serosal-to-mucosal direction in isolated rat jejunum segments. Apixaban did not inhibit digoxin transport in Caco-2 cells. Ketoconazole decreased the P-gp-mediated apixaban efflux in Caco-2 and the P-gp-cDNA-transfected cell monolayers, but did not affect the apixaban efflux to a meaningful extent in the BCRP-cDNA-transfected cell monolayers. Coincubation of a P-gp inhibitor (ketoconazole or cyclosporin A) and a BCRP inhibitor (Ko134) provided more complete inhibition of apixaban efflux in Caco-2 cells than separate inhibition by individual inhibitors. Naproxen inhibited apixaban efflux in Caco-2 cells but showed only a minimal effect on apixaban transport in the BCRP-transfected cells. Naproxen was the first nonsteroidal antiinflammatory drug that was demonstrated as a weak P-gp inhibitor. These results demonstrate that apixaban is a substrate for efflux transporters P-gp and BCRP, which can help explain its low brain penetration, and low fetal exposures and high milk excretion in rats.",
+        "triple_list": [
+            [
+                "Ko134",
+                "INHIBITOR",
+                "BCRP"
+            ],
+            [
+                "apixaban",
+                "SUBSTRATE",
+                "breast cancer resistance protein"
+            ],
+            [
+                "apixaban",
+                "SUBSTRATE",
+                "efflux transporters"
+            ],
+            [
+                "apixaban",
+                "SUBSTRATE",
+                "P-gp"
+            ],
+            [
+                "ketoconazole",
+                "INHIBITOR",
+                "P-gp"
+            ],
+            [
+                "cyclosporin A",
+                "INHIBITOR",
+                "P-gp"
+            ],
+            [
+                "apixaban",
+                "SUBSTRATE",
+                "BCRP"
+            ],
+            [
+                "apixaban",
+                "SUBSTRATE",
+                "human permeability glycoprotein"
+            ]
+        ]
+    },
+    {
+        "text": "Pharmacological properties of lorglumide as a member of a new class of cholecystokinin antagonists. Derivatives of 5-(dipentylamino)-5-oxo-pentanoic acid are a new class of non-peptide cholecystokinin (CCK) antagonists. The most potent compound, D,L-4-(3,4-dichlorobenzoylamino)-5-(dipentylamino)-5-oxo-pen tanoic acid (lorglumide, CR 1409), has a great affinity for the pancreatic CCK receptors and is a competitive, specific and potent CCK antagonist on the smooth muscles of the gall bladder and ileum of the guinea pig and on the CCK-induced amylase secretion of isolated pancreatic acini. In vivo lorglumide antagonizes the contraction of the gall bladder of the guinea pig and of the dog provoked by i.v. CCK-8 or ceruletide (caerulein). It antagonizes the satiety effect of CCK-8 in the rat and is protective against ceruletide-, taurocholate- and diet-induced pancreatitis. Lorglumide is therefore a useful pharmacological tool to study the functions of CCK. For its pharmacological properties, its relatively low toxicity and because it is active also after oral administration, lorglumide is a candidate for diagnostic or therapeutic use in man when an involvement of CCK is suspected.",
+        "triple_list": [
+            [
+                "lorglumide",
+                "ANTAGONIST",
+                "cholecystokinin"
+            ],
+            [
+                "CR 1409",
+                "DIRECT-REGULATOR",
+                "CCK receptors"
+            ],
+            [
+                "lorglumide",
+                "ANTAGONIST",
+                "CCK"
+            ],
+            [
+                "5-(dipentylamino)-5-oxo-pentanoic acid",
+                "ANTAGONIST",
+                "CCK"
+            ],
+            [
+                "CR 1409",
+                "ANTAGONIST",
+                "CCK"
+            ],
+            [
+                "D,L-4-(3,4-dichlorobenzoylamino)-5-(dipentylamino)-5-oxo-pen tanoic acid",
+                "DIRECT-REGULATOR",
+                "CCK receptors"
+            ],
+            [
+                "D,L-4-(3,4-dichlorobenzoylamino)-5-(dipentylamino)-5-oxo-pen tanoic acid",
+                "ANTAGONIST",
+                "CCK"
+            ],
+            [
+                "5-(dipentylamino)-5-oxo-pentanoic acid",
+                "ANTAGONIST",
+                "cholecystokinin"
+            ],
+            [
+                "lorglumide",
+                "ANTAGONIST",
+                "CCK-8"
+            ],
+            [
+                "lorglumide",
+                "DIRECT-REGULATOR",
+                "CCK receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Interaction of silymarin flavonolignans with organic anion-transporting polypeptides. Organic anion-transporting polypeptides (OATPs) are multispecific transporters mediating the uptake of endogenous compounds and xenobiotics in tissues that are important for drug absorption and elimination, including the intestine and liver. Silymarin is a popular herbal supplement often used by patients with chronic liver disease; higher oral doses than those customarily used (140 mg three times/day) are being evaluated clinically. The present study examined the effect of silymarin flavonolignans on OATP1B1-, OATP1B3-, and OATP2B1-mediated transport in cell lines stably expressing these transporters and in human hepatocytes. In overexpressing cell lines, OATP1B1- and OATP1B3-mediated estradiol-17\u03b2-glucuronide uptake and OATP2B1-mediated estrone-3-sulfate uptake were inhibited by most of the silymarin flavonolignans investigated. OATP1B1-, OATP1B3-, and OATP2B1-mediated substrate transport was inhibited efficiently by silymarin (IC50 values of 1.3, 2.2 and 0.3 \u00b5M, respectively), silybin A (IC50 values of 9.7, 2.7 and 4.5 \u00b5M, respectively), silybin B (IC50 values of 8.5, 5.0 and 0.8 \u00b5M, respectively), and silychristin (IC50 values of 9.0, 36.4, and 3.6 \u00b5M, respectively). Furthermore, silymarin, silybin A, and silybin B (100 \u00b5M) significantly inhibited OATP-mediated estradiol-17\u03b2-glucuronide and rosuvastatin uptake into human hepatocytes. Calculation of the maximal unbound portal vein concentrations/IC50 values indicated a low risk for silymarin-drug interactions in hepatic uptake with a customary silymarin dose. The extent of silymarin-drug interactions depends on OATP isoform specificity and concentrations of flavonolignans at the site of drug transport. Higher than customary doses of silymarin, or formulations with improved bioavailability, may increase the risk of flavonolignan interactions with OATP substrates in patients.",
+        "triple_list": [
+            [
+                "rosuvastatin",
+                "SUBSTRATE",
+                "OATP"
+            ],
+            [
+                "silybin B",
+                "INHIBITOR",
+                "OATP1B1"
+            ],
+            [
+                "estradiol-17\u03b2-glucuronide",
+                "SUBSTRATE",
+                "OATP1B1"
+            ],
+            [
+                "silychristin",
+                "INHIBITOR",
+                "OATP1B1"
+            ],
+            [
+                "silybin A",
+                "INHIBITOR",
+                "OATP1B1"
+            ],
+            [
+                "flavonolignans",
+                "INHIBITOR",
+                "OATP2B1"
+            ],
+            [
+                "flavonolignans",
+                "INHIBITOR",
+                "OATP1B1"
+            ],
+            [
+                "silybin B",
+                "INHIBITOR",
+                "OATP"
+            ],
+            [
+                "estrone-3-sulfate",
+                "SUBSTRATE",
+                "OATP2B1"
+            ],
+            [
+                "silybin A",
+                "INHIBITOR",
+                "OATP2B1"
+            ],
+            [
+                "silybin B",
+                "INHIBITOR",
+                "OATP1B3"
+            ],
+            [
+                "silybin B",
+                "INHIBITOR",
+                "OATP2B1"
+            ],
+            [
+                "flavonolignans",
+                "INHIBITOR",
+                "OATP1B3"
+            ],
+            [
+                "silybin A",
+                "INHIBITOR",
+                "OATP1B3"
+            ],
+            [
+                "estradiol-17\u03b2-glucuronide",
+                "SUBSTRATE",
+                "OATP"
+            ],
+            [
+                "estradiol-17\u03b2-glucuronide",
+                "SUBSTRATE",
+                "OATP1B3"
+            ],
+            [
+                "silychristin",
+                "INHIBITOR",
+                "OATP2B1"
+            ],
+            [
+                "silybin A",
+                "INHIBITOR",
+                "OATP"
+            ],
+            [
+                "silychristin",
+                "INHIBITOR",
+                "OATP1B3"
+            ]
+        ]
+    },
+    {
+        "text": "Prokinetic effects of a new ghrelin receptor agonist TZP-101 in a rat model of postoperative ileus. Postoperative ileus (POI) is a major cause of postoperative complications and prolonged hospitalization. Ghrelin, which is the endogenous ligand for the growth hormone secretagogue receptor, has been found to stimulate gastric motility and accelerate gastric emptying. The present study investigates whether TZP-101 (0.03-1 mg/kg i.v.), a synthetic ghrelin-receptor agonist, could improve gastrointestinal transit in rats with POI. Since the main factors for the development of POI are the surgical manipulation and the gastrointestinal effects of opioid-receptor agonists used for pain management, the effect of TZP-101 was investigated in rats subjected to surgery, to morphine treatment (3 mg/kg s.c.), or to a combination of both. The results showed that TZP-101 is equally effective against the delayed gastrointestinal transit induced by surgery, by morphine, or by the combination of both interventions. The prokinetic action of TZP-101 was more pronounced in the stomach compared to the small intestine.",
+        "triple_list": [
+            [
+                "TZP-101",
+                "AGONIST",
+                "ghrelin receptor"
+            ],
+            [
+                "TZP-101",
+                "AGONIST",
+                "ghrelin-receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Low oxygen tension maintains multipotency, whereas normoxia increases differentiation of mouse bone marrow stromal cells. Optimization of mesenchymal stem cells (MSC) culture conditions is of great importance for their more successful application in regenerative medicine. O(2) regulates various aspects of cellular biology and, in vivo, MSC are exposed to different O(2) concentrations spanning from very low tension in the bone marrow niche, to higher amounts in wounds. In our present work, we isolated mouse bone marrow stromal cells (BMSC) and showed that they contained a population meeting requirements for MSC definition. In order to establish the effect of low O(2) on cellular properties, we examined BSMC cultured under hypoxic (3% O(2)) conditions. Our results demonstrate that 3% O(2) augmented proliferation of BMSC, as well as the formation of colonies in the colony-forming unit assay (CFU-A), the percentage of quiescent cells, and the expression of stemness markers Rex-1 and Oct-4, thereby suggesting an increase in the stemness of culture when exposed to hypoxia. In contrast, intrinsic differentiation processes were inhibited by 3% O(2). Overall yield of differentiation was dependent on the adjustment of O(2) tension to the specific stage of BMSC culture. Thus, we established a strategy for efficient BMSC in vitro differentiation using an initial phase of cell propagation at 3% O(2), followed by differentiation stage at 21% O(2). We also demonstrated that 3% O(2) affected BMSC differentiation in p53 and reactive oxygen species (ROS) independent pathways. Our findings can significantly contribute to the obtaining of high-quality MSC for effective cell therapy.",
+        "triple_list": [
+            [
+                "O(2)",
+                "INDIRECT-UPREGULATOR",
+                "Rex-1"
+            ],
+            [
+                "O(2)",
+                "INDIRECT-UPREGULATOR",
+                "Oct-4"
+            ]
+        ]
+    },
+    {
+        "text": "Rosiglitazone inhibits acyl-CoA synthetase activity and fatty acid partitioning to diacylglycerol and triacylglycerol via a peroxisome proliferator-activated receptor-gamma-independent mechanism in human arterial smooth muscle cells and macrophages. Rosiglitazone is an insulin-sensitizing agent that has recently been shown to exert beneficial effects on atherosclerosis. In addition to peroxisome proliferator-activated receptor (PPAR)-gamma, rosiglitazone can affect other targets, such as directly inhibiting recombinant long-chain acyl-CoA synthetase (ACSL)-4 activity. Because it is unknown if ACSL4 is expressed in vascular cells involved in atherosclerosis, we investigated the ability of rosiglitazone to inhibit ACSL activity and fatty acid partitioning in human and murine arterial smooth muscle cells (SMCs) and macrophages. Human and murine SMCs and human macrophages expressed Acsl4, and rosiglitazone inhibited Acsl activity in these cells. Furthermore, rosiglitazone acutely inhibited partitioning of fatty acids into phospholipids in human SMCs and inhibited fatty acid partitioning into diacylglycerol and triacylglycerol in human SMCs and macrophages through a PPAR-gamma-independent mechanism. Conversely, murine macrophages did not express ACSL4, and rosiglitazone did not inhibit ACSL activity in these cells, nor did it affect acute fatty acid partitioning into cellular lipids. Thus, rosiglitazone inhibits ACSL activity and fatty acid partitioning in human and murine SMCs and in human macrophages through a PPAR-gamma-independent mechanism likely to be mediated by ACSL4 inhibition. Therefore, rosiglitazone might alter the biological effects of fatty acids in these cells and in atherosclerosis.",
+        "triple_list": [
+            [
+                "rosiglitazone",
+                "INHIBITOR",
+                "Acsl"
+            ],
+            [
+                "diacylglycerol",
+                "PRODUCT-OF",
+                "acyl-CoA synthetase"
+            ],
+            [
+                "fatty acid",
+                "SUBSTRATE",
+                "acyl-CoA synthetase"
+            ],
+            [
+                "fatty acid",
+                "SUBSTRATE",
+                "ACSL"
+            ],
+            [
+                "rosiglitazone",
+                "INHIBITOR",
+                "ACSL4"
+            ],
+            [
+                "triacylglycerol",
+                "PRODUCT-OF",
+                "acyl-CoA synthetase"
+            ],
+            [
+                "Rosiglitazone",
+                "INHIBITOR",
+                "acyl-CoA synthetase"
+            ],
+            [
+                "rosiglitazone",
+                "INHIBITOR",
+                "long-chain acyl-CoA synthetase (ACSL)-4"
+            ],
+            [
+                "rosiglitazone",
+                "INHIBITOR",
+                "ACSL"
+            ]
+        ]
+    },
+    {
+        "text": "Influence of ovarian and non-ovarian estrogens on weight gain in response to disruption of sweet taste--calorie relations in female rats. Regulation of energy balance in female rats is known to differ along a number of dimensions compared to male rats. Previous work from our lab has demonstrated that in female rats fed dietary supplements containing high-intensity sweeteners that may disrupt a predictive relation between sweet tastes and calories, excess weight gain is demonstrated only when females are also fed a diet high in fat and sugar, and is evidenced primarily in animals already prone to gain excess weight. In contrast, male rats show excess weight gain when fed saccharin-sweetened yogurt supplements when fed both standard chow diets and diets high in fat and sugar, and regardless of their proneness to excess weight gain. The goal of the present experiments was to determine whether ovarian, or other sources of estrogens, contributes to the resistance to excess weight gain in female rats fed standard chow diets along with dietary supplements sweetened with yogurt. Results of the first experiment indicated that when the ovaries were removed surgically in adult female rats, patterns of weight gain were similar in animals fed saccharin-sweetened compared to glucose-sweetened yogurt supplements. In the second experiment, when the ovaries were surgically removed in adult female rats, and local production of estrogens was suppressed with the aromatase inhibitor anastrozole, females fed the saccharin-sweetened yogurt consumed more energy and gained more weight than females fed the glucose-sweetened yogurt. However, when the ovaries were surgically removed prior to the onset of puberty (at 24-25 days of age), females given saccharin-sweetened yogurt along with vehicle gained excess weight. In contrast, weight gain was similar in those given saccharin-sweetened and glucose-sweetened yogurt along with anastrozole. The results suggest that behavioral differences between males and females in response to disruption of sweet\u2192calorie relations may result from differences in patterns of local estrogen production. These differences may be established developmentally during the pubertal period in females.",
+        "triple_list": [
+            [
+                "anastrozole",
+                "INHIBITOR",
+                "aromatase"
+            ]
+        ]
+    },
+    {
+        "text": "Hibiscus sabdariffa L. in the treatment of hypertension and hyperlipidemia: a comprehensive review of animal and human studies. The effectiveness of Hibiscus sabdariffa L. (HS) in the treatment of risk factors associated with cardiovascular disease is assessed in this review by taking a comprehensive approach to interpreting the randomized clinical trial (RCT) results in the context of the available ethnomedical, phytochemical, pharmacological, and safety and toxicity information. HS decoctions and infusions of calyxes, and on occasion leaves, are used in at least 10 countries worldwide in the treatment of hypertension and hyperlipidemia with no reported adverse events or side effects. HS extracts have a low degree of toxicity with a LD50 ranging from 2,000 to over 5,000mg/kg/day. There is no evidence of hepatic or renal toxicity as the result of HS extract consumption, except for possible adverse hepatic effects at high doses. There is evidence that HS acts as a diuretic, however in most cases the extract did not significantly influence electrolyte levels. Animal studies have consistently shown that consumption of HS extract reduces blood pressure in a dose dependent manner. In RCTs, the daily consumption of a tea or extract produced from HS calyxes significantly lowered systolic blood pressure (SBP) and diastolic blood pressure (DBP) in adults with pre to moderate essential hypertension and type 2 diabetes. In addition, HS tea was as effective at lowering blood pressure as the commonly used blood pressure medication Captropril, but less effective than Lisinopril. Total cholesterol, low-density lipoprotein cholesterol (LDL-C), and triglycerides were lowered in the majority of normolipidemic, hyperlipidemic, and diabetic animal models, whereas high-density lipoprotein cholesterol (HDL-C) was generally not affected by the consumption of HS extract. Over half of the RCTs showed that daily consumption of HS tea or extracts had favorable influence on lipid profiles including reduced total cholesterol, LDL-C, triglycerides, as well as increased HDL-C. Anthocyanins found in abundance in HS calyxes are generally considered the phytochemicals responsible for the antihypertensive and hypocholesterolemic effects, however evidence has also been provided for the role of polyphenols and hibiscus acid. A number of potential mechanisms have been proposed to explain the hypotensive and anticholesterol effects, but the most common explanation is the antioxidant effects of the anthocyanins inhibition of LDL-C oxidation, which impedes atherosclerosis, an important cardiovascular risk factor. This comprehensive body of evidence suggests that extracts of HS are promising as a treatment of hypertension and hyperlipidemia, however more high quality animal and human studies informed by actual therapeutic practices are needed to provide recommendations for use that have the potential for widespread public health benefit.",
+        "triple_list": [
+            [
+                "anthocyanins",
+                "INHIBITOR",
+                "LDL"
+            ]
+        ]
+    },
+    {
+        "text": "Molecular cloning of a novel diacylglycerol kinase isozyme with a pleckstrin homology domain and a C-terminal tail similar to those of the EPH family of protein-tyrosine kinases. A fourth member of the diacylglycerol kinase (DGK) gene family termed DGK delta was cloned from the human testis cDNA library. The cDNA sequence contains an open reading frame of 3,507 nucleotides encoding a putative DGK protein of 130,006 Da. Interestingly, the new DGK isozyme contains a pleckstrin homology domain found in a number of proteins involved in signal transduction. Furthermore, the C-terminal tail of this isozyme is very similar to those of the EPH family of receptor tyrosine kinases. The primary structure of the delta-isozyme also has two cysteine-rich zinc finger-like structures (C3 region) and the C-terminal C4 region, both of which have been commonly found in the three isozymes previously cloned (DGKs alpha, beta and gamma). However, DGK delta lacks the EF-hand motifs (C2) and contains a long Glu- and Ser-rich insertion (317 residues), which divides the C4 region into two portions. Taken together, these structural features of DGK delta indicate that this isozyme belongs to a DGK subfamily distinct from that consisting of DGKs alpha, beta, and gamma. Increased DGK activity without marked preference to arachidonoyl type of diacylglycerol was detected in the particulate fraction of COS-7 cells expressing the transfected DGKdelta cDNA. The enzyme activity was independent of phosphatidylserine, which is a common activator for the previously sequenced DGKs. Northern blot analysis showed that the DGK delta mRNA (approximately 6.3 kilobases) is most abundant in human skeletal muscle but undetectable in the brain, thymus, and retina. This expression pattern is different from those of the previously cloned DGKs. Our results show that the DGK gene family consists of at least two subfamilies consisting of enzymes with distinct structural characteristics and that each cell type probably expresses its own characteristic repertoire of DGKs whose functions may be regulated through different signal transduction pathways.",
+        "triple_list": [
+            [
+                "Glu",
+                "PART-OF",
+                "DGK delta"
+            ],
+            [
+                "phosphatidylserine",
+                "ACTIVATOR",
+                "DGKs"
+            ],
+            [
+                "C",
+                "PART-OF",
+                "diacylglycerol kinase"
+            ],
+            [
+                "Ser",
+                "PART-OF",
+                "DGK delta"
+            ],
+            [
+                "C",
+                "PART-OF",
+                "pleckstrin homology domain"
+            ]
+        ]
+    },
+    {
+        "text": "Add-on therapy with the DPP-4 inhibitor sitagliptin improves glycemic control in insulin-treated Japanese patients with type 2 diabetes mellitus. The effect of add-on therapy with sitagliptin on glycemic control was prospectively investigated in patients with type 2 diabetes mellitus (T2DM) receiving insulin alone or insulin combined with oral antidiabetic drugs. Seventy-one patients were evaluated (38 men and 33 women aged 63.9\u00b110.2 years). They were divided into three groups, which were 45 patients receiving premixed insulin twice daily, 15 patients receiving multiple daily insulin injections, and 11 patients receiving basal insulin with oral antidiabetic drugs (basal insulin therapy). Concomitant oral drugs included sulfonylureas, \u03b1-glucosidase inhibitors and metformin. The hemoglobin A1c (HbA1c) of all patients improved significantly from 8.1\u00b11.2% to 7.6\u00b11.1% after 12 weeks of add-on therapy with sitagliptin (p<0.01), and the insulin dosage was reduced from 27.3\u00b115.8 U/day to 24.5\u00b116.5 U/day (p<0.001). Body weight did not change after the start of concomitant therapy and severe hypoglycemia was not observed. The baseline HbA1c and glycated albumin levels were identified as factors that predicted the response to add-on therapy with sitagliptin. These findings suggest that add-on therapy with sitagliptin can be expected to achieve improvement of poor glycemic control irrespective of a patient's demographic profile. Stratified analysis based on the insulin regimen revealed a stronger antidiabetic effect and a high efficacy of sitagliptin when it was added to basal insulin therapy. The results of this investigation confirmed that add-on therapy with sitagliptin to various insulin regimens could improve glycemic control without severe hypoglycemia and/or weight gain.",
+        "triple_list": [
+            [
+                "sitagliptin",
+                "INDIRECT-UPREGULATOR",
+                "hemoglobin A1c"
+            ],
+            [
+                "sitagliptin",
+                "INDIRECT-UPREGULATOR",
+                "HbA1c"
+            ],
+            [
+                "sitagliptin",
+                "INHIBITOR",
+                "DPP-4"
+            ]
+        ]
+    },
+    {
+        "text": "Extended adjuvant therapy with anastrozole among postmenopausal breast cancer patients: results from the randomized Austrian Breast and Colorectal Cancer Study Group Trial 6a. BACKGROUND: Clinical trial data have shown that among breast cancer patients who were disease free after 5 years of adjuvant treatment with tamoxifen, further extended treatment with the nonsteroidal aromatase inhibitor letrozole reduces breast cancer recurrence. We examined the efficacy and tolerability of extended adjuvant therapy with another aromatase inhibitor, anastrozole, for 3 years among women who had completed 5 years of adjuvant therapy. METHODS: Austrian Breast and Colorectal Cancer Study Group (ABCSG) Trial 6a is an extension of ABCSG Trial 6, in which hormone receptor-positive postmenopausal patients received 5 years of adjuvant tamoxifen, with or without the aromatase inhibitor aminoglutethimide, for the first 2 years of therapy. For ABCSG Trial 6a, patients who were disease free at the end of Trial 6 were randomly assigned to receive either 3 years of anastrozole or no further treatment. Efficacy data were analyzed with the use of a Cox proportional hazards regression model with two-sided P values and Kaplan-Meier curves, and tolerability data were estimated using logistic regression analysis with odds ratios and 95% confidence intervals (CIs). RESULTS: ABCSG Trial 6a included 856 patients. At a median follow-up of 62.3 months, women who received anastrozole (n = 387) had a statistically significantly reduced risk of recurrence (locoregional recurrence, contralateral breast cancer, or distant metastasis) compared with women who received no further treatment (n = 469; hazard ratio = 0.62; 95% CI = 0.40 to 0.96, P = .031). Anastrozole was well tolerated, and no unexpected adverse events were reported. CONCLUSIONS: These data confirm the benefit of extending adjuvant tamoxifen therapy beyond 5 years with anastrozole compared with no further treatment. Further research is required to define the optimum length of extended adjuvant therapy and to investigate the possibility of tailoring this period to suit different disease types.",
+        "triple_list": [
+            [
+                "anastrozole",
+                "INHIBITOR",
+                "aromatase"
+            ],
+            [
+                "letrozole",
+                "INHIBITOR",
+                "aromatase"
+            ],
+            [
+                "aminoglutethimide",
+                "INHIBITOR",
+                "aromatase"
+            ]
+        ]
+    },
+    {
+        "text": "Multiple protective effects of melatonin against maternal cholestasis-induced oxidative stress and apoptosis in the rat fetal liver-placenta-maternal liver trio. Maternal cholestasis is usually a benign condition for the mother but induces profound placental damage and may be lethal for the fetus. The aim of this study was to investigate the protective effects in rat maternal and fetal livers as also the placenta of melatonin or silymarin against the oxidative stress and apoptosis induced by maternal obstructive cholestasis during the last third of pregnancy (OCP). Melatonin or silymarin administration (i.e. 5 mg/100 g bw/day after ligation of the maternal common bile duct on day 14 of pregnancy) reduced OCP-induced lipid peroxidation, and prevented decreases in total glutathione levels. However, the protective effect on OCP-induced impairment in the GSH/GSSG ratio was mild in the placenta and fetal liver, while absent in maternal liver. Melatonin or silymarin also reduced OCP-induced signs of apoptosis (increased caspase-3 activity and Bax-alpha upregulation) in all the organs assayed. Moreover, melatonin (but not silymarin) upregulated several proteins involved in the cellular protection against the oxidative stress in rats with OCP. These included, biliverdin-IX alpha reductase and the sodium-dependent vitamin C transport proteins SVCT1 and SVCT2, whose expression levels were enhanced in maternal and fetal liver by melatonin treatment. In contrast, in placenta only biliverdin-IX alpha reductase and SVCT2 were upregulated. These results indicate that whereas the treatment of cholestatic pregnant rats with melatonin or silymarin affords a direct protective antioxidant activity, only melatonin has dual beneficial effects against OCP-induced oxidative challenge in that it stimulates the expression of some components of the endogenous cellular antioxidant defense.",
+        "triple_list": [
+            [
+                "Melatonin",
+                "ACTIVATOR",
+                "caspase-3"
+            ],
+            [
+                "silymarin",
+                "ACTIVATOR",
+                "caspase-3"
+            ],
+            [
+                "melatonin",
+                "INDIRECT-UPREGULATOR",
+                "SVCT2"
+            ],
+            [
+                "vitamin C",
+                "SUBSTRATE",
+                "SVCT2"
+            ],
+            [
+                "vitamin C",
+                "SUBSTRATE",
+                "SVCT1"
+            ],
+            [
+                "melatonin",
+                "INDIRECT-UPREGULATOR",
+                "SVCT1"
+            ]
+        ]
+    },
+    {
+        "text": "Artemisinic acid inhibits melanogenesis through downregulation of C/EBP \u03b1-dependent expression of HMG-CoA reductase gene. Cholesterol is associated with the regulation of melanogenesis which is the major physiological defense against solar irradiation. The present study was designed to determine the effects of artemisinic acid on melanogenesis and its mechanisms of action in human epidermal melanocytes. In this study, we found that artemisinic acid inhibited melanin content. The mRNA levels of microphthalmia-associated transcription factor (MITF) and its downstream genes tyrosinase, tyrosinase-related protein (TRP)-1, and TRP-2 were reduced by artemisinic acid treatment. Additionally, the mRNA levels of melanogenesis-related genes (c-KIT, stem cell factor (SCF), and macrophage migration inhibitory factor (MIF)) were down-regulated by artemisinic acid. Furthermore, cAMP production and protein kinase A (PKA) activity were suppressed by artemisinic acid. Moreover, attempts to elucidate a possible mechanism underlying the artemisinic acid-mediated effects revealed that artemisinic acid regulated melanogenesis by inhibiting cholesterol synthesis through downregulation of the hydroxymethylglutaryl CoA (HMG CoA) reductase gene, which was mediated through reduced expression of the CCAAT/enhancer-binding protein (C/EBP) \u03b1 gene. Taken together, these findings indicate that the inhibition of melanogenesis by artemisinic acid occurs through reduced expression of the HMG CoA reductase gene, which is mediated by C/EBP \u03b1 inhibition and suggest that artemisinic acid may be useful as a hyperpigmentation inhibitor.",
+        "triple_list": [
+            [
+                "Artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "HMG-CoA reductase"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "c-KIT"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "stem cell factor"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "SCF"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "microphthalmia-associated transcription factor"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "HMG CoA reductase"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "tyrosinase"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "tyrosinase-related protein (TRP)-1"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "hydroxymethylglutaryl CoA (HMG CoA) reductase"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "TRP-2"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "MIF"
+            ],
+            [
+                "Artemisinic acid",
+                "INHIBITOR",
+                "C/EBP \u03b1"
+            ],
+            [
+                "artemisinic acid",
+                "INHIBITOR",
+                "protein kinase A"
+            ],
+            [
+                "artemisinic acid",
+                "INHIBITOR",
+                "PKA"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "CCAAT/enhancer-binding protein (C/EBP) \u03b1"
+            ],
+            [
+                "artemisinic acid",
+                "INHIBITOR",
+                "C/EBP \u03b1"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "macrophage migration inhibitory factor"
+            ],
+            [
+                "artemisinic acid",
+                "INDIRECT-DOWNREGULATOR",
+                "MITF"
+            ]
+        ]
+    },
+    {
+        "text": "A pilot study of IL-1 inhibition by anakinra in acute gout. Monosodium urate crystals stimulate monocytes and macrophages to release IL-1beta through the NALP3 component of the inflammasome. The effectiveness of IL-1 inhibition in hereditary autoinflammatory syndromes with mutations in the NALP3 protein suggested that IL-1 inhibition might also be effective in relieving the inflammatory manifestations of acute gout. The effectiveness of IL-1 inhibition was first evaluated in a mouse model of monosodium urate crystal-induced inflammation. IL-1 inhibition prevented peritoneal neutrophil accumulation but TNF blockade had no effect. Based on these findings, we performed a pilot, open-labeled study (trial registration number ISRCTN10862635) in 10 patients with gout who could not tolerate or had failed standard antiinflammatory therapies. All patients received 100 mg anakinra daily for 3 days. All 10 patients with acute gout responded rapidly to anakinra. No adverse effects were observed. IL-1 blockade appears to be an effective therapy for acute gouty arthritis. The clinical findings need to be confirmed in a controlled study.",
+        "triple_list": [
+            [
+                "Monosodium urate",
+                "INDIRECT-UPREGULATOR",
+                "IL-1beta"
+            ]
+        ]
+    },
+    {
+        "text": "Amine oxidase activities in brown adipose tissue of the rat: identification of semicarbazide-sensitive (clorgyline-resistant) activity at the fat cell membrane. Amine oxidase activity, previously described in homogenates of brown adipose tissue of the rat, has now been investigated in preparations of isolated fat cells. It was found that the specific activities of both monoamine oxidase A (MAO) and of the semicarbazide-sensitive clorgyline-resistant amine oxidase (SSAO) were higher in isolated fat cells than in the original whole tissue. Brown adipocytes therefore represent a major source of both these enzymes. In plasma membranes prepared from these isolated brown fat cells by borate extraction there was a similar enrichment of activity of SSAO and of the plasma membrane marker enzyme, phosphodiesterase I. However in preparations of cell membranes made by binding the cells to polycation-coated beads, enrichment of phosphodiesterase I activity was much greater than that of SSAO. It is suggested that the disposition of the enzyme within the cell membrane may account for the discrepancy in these results, i.e. the sidedness of the membrane may be important. Histochemical visualization of enzyme activity in whole tissue at the ultrastructural level was undertaken. Positive staining of mitochondria was achieved in the presence of the MAO substrate, tryptamine. Staining around the edges of the brown fat cells was observed with the SSAO substrates, tyramine and benzylamine. Staining was largely absent when substrate was omitted or after pretreatment with the irreversible SSAO inhibitor, hydralazine and the slowly reversible inhibitor, semicarbazide. It is not definitely proven that this staining represents sites of enzyme activity but the results are consistent with evidence from other studies indicating that SSAO in brown adipose tissue of the rat may be found predominantly at the fat cell surface.(ABSTRACT TRUNCATED AT 250 WORDS)",
+        "triple_list": [
+            [
+                "semicarbazide",
+                "INHIBITOR",
+                "SSAO"
+            ],
+            [
+                "borate",
+                "ACTIVATOR",
+                "SSAO"
+            ],
+            [
+                "tyramine",
+                "SUBSTRATE",
+                "SSAO"
+            ],
+            [
+                "hydralazine",
+                "INHIBITOR",
+                "SSAO"
+            ],
+            [
+                "tryptamine",
+                "SUBSTRATE",
+                "MAO"
+            ],
+            [
+                "benzylamine",
+                "SUBSTRATE",
+                "SSAO"
+            ]
+        ]
+    },
+    {
+        "text": "Phosphodiesterase-4 inhibitors for asthma and chronic obstructive pulmonary disease. Inhibitors of phosphodiesterase type 4 (PDE4) act by increasing intracellular concentrations of cyclic AMP, which has a broad range of anti-inflammatory effects on various key effector cells involved in asthma and chronic obstructive pulmonary disease (COPD). The therapeutic ratio for PDE4 inhibitors is thought to be determined by selectivity on receptor subtypes for relative effects on PDE4B (anti-inflammatory) and PDE4D (emesis). The two main orally active PDE4 inhibitors in the late phase III of clinical development are cilomilast and roflumilast; the latter (and its active metabolite N-oxide) is more selective and potent with a superior therapeutic ratio. Studies on cilomilast in COPD based on bronchial biopsy material have shown a broad range of anti-inflammatory activity, and the available evidence on clinical outcomes for up to 6 months with cilomilast 15 mg twice daily and roflumilast 500 mug once daily have shown variable but significant effects on exacerbations and quality of life, with small improvements in measures of pulmonary function. Roflumilast has a better safety and tolerability profile than cilomilast, with the main adverse effects being nausea, diarrhoea, and abdominal pain. Roflumilast also has activity in asthma as assessed by its attenuation of allergen and exercise challenges, and it shows clinical efficacy equivalent to that of beclomethasone dipropionate 400 mug daily. The emerging results of clinical trials on PDE4 inhibitors in asthma and COPD should be interpreted with cautious optimism since much of the evidence has been published only in abstract form to date. The next few years should resolve important issues about the potential role of these drugs as oral non-steroidal anti-inflammatory therapy for asthma and COPD and their place in management guidelines. Ultimately, clinicians will want to know whether PDE4 inhibitors are anything more than expensive \"designer\" theophylline, the archetypal non-selective phosphodiesterase inhibitor.",
+        "triple_list": [
+            [
+                "N-oxide",
+                "INHIBITOR",
+                "PDE4"
+            ],
+            [
+                "cyclic AMP",
+                "SUBSTRATE",
+                "PDE4"
+            ],
+            [
+                "cilomilast",
+                "INHIBITOR",
+                "PDE4"
+            ],
+            [
+                "cyclic AMP",
+                "SUBSTRATE",
+                "phosphodiesterase type 4"
+            ],
+            [
+                "roflumilast",
+                "INHIBITOR",
+                "PDE4"
+            ],
+            [
+                "theophylline",
+                "INHIBITOR",
+                "phosphodiesterase"
+            ]
+        ]
+    },
+    {
+        "text": "Human serum albumin-based design of a diflunisal prodrug. The cyclooxygenase-2 inhibitor, diflunisal, is used in the clinic for its anti-inflammatory activity. About 99% of a dose of diflunisal is unavailable for reaction with the target enzyme, because diflunisal strongly binds to human serum albumin (HSA). To reduce the binding affinity of diflunisal to albumin, we designed and synthesized the prodrug acetyldiflunisal. The crystal structure of HSA complexed with fatty acid and acetyldiflunisal revealed that acetyldiflunisal binds to the IIA subdomain and that upon binding, it acetylates lysine 199. Mass spectrometry confirmed that acetyldiflunisal acetylates Lys199. The acetylated albumin had twofold weaker binding affinity for diflunisal as demonstrated by fluorescence quenching. Reduced binding affinity means that diflunisal is more easily released from acetylated albumin into the circulation. Therefore, lower doses of acetyldiflunisal compared to diflunisal will be required. Taken together, our results not only provide a template for design of HSA-based prodrugs, but also pave the way toward more effective use of diflunisal in the clinic.",
+        "triple_list": [
+            [
+                "acetyldiflunisal",
+                "DIRECT-REGULATOR",
+                "IIA subdomain"
+            ],
+            [
+                "diflunisal",
+                "DIRECT-REGULATOR",
+                "human serum albumin"
+            ],
+            [
+                "diflunisal",
+                "DIRECT-REGULATOR",
+                "HSA"
+            ],
+            [
+                "diflunisal",
+                "INHIBITOR",
+                "cyclooxygenase-2"
+            ],
+            [
+                "acetyldiflunisal",
+                "DIRECT-REGULATOR",
+                "HSA"
+            ],
+            [
+                "lysine",
+                "PART-OF",
+                "IIA subdomain"
+            ],
+            [
+                "fatty acid",
+                "DIRECT-REGULATOR",
+                "HSA"
+            ],
+            [
+                "diflunisal",
+                "DIRECT-REGULATOR",
+                "albumin"
+            ]
+        ]
+    },
+    {
+        "text": "Chemotherapy and targeted therapy combinations in advanced melanoma. For three decades, clinical trials with chemotherapy in melanoma have failed to show superiority of any one regimen over another. Dacarbazine remains the only \"standard\" agent. With response rates of <10% and median progression-free survival of 2 months or less in contemporary trials, there is a need to improve systemic therapy. Combination chemotherapy is associated with higher response rates than single-agent therapy but this has not translated into improved survival. An increasing number of potential therapeutic targets have been identified. For some, pharmacologic inhibitors are available, including sorafenib for BRAF, farnesyltransferase inhibitors for NRAS, PD-0325901 for mitogen-activated protein kinase/extracellular signal-regulated kinase kinase, rapamycin analogues for mammalian target of rapamycin, and agents that inhibit either vascular endothelial growth factor or its receptors. Several multitargeted kinase inhibitors have potency against the fibroblast growth factor receptor, c-kit, and platelet-derived growth factor receptor. Small-molecule inhibitors of c-met and Akt are in preclinical development. Another class of agents indirectly affect aberrant signaling, including inhibitors of chaperones and proteasomes. Several targeted agents seem to enhance the cytotoxicity of chemotherapy in preclinical models. The mechanism by which signaling inhibition might synergize with chemotherapy requires more study so that rational combinations move forward. Very few targeted agents have been studied rigorously in this fashion.",
+        "triple_list": [
+            [
+                "rapamycin",
+                "INHIBITOR",
+                "mammalian target of rapamycin"
+            ],
+            [
+                "PD-0325901",
+                "INHIBITOR",
+                "mitogen-activated protein kinase"
+            ],
+            [
+                "sorafenib",
+                "INHIBITOR",
+                "BRAF"
+            ],
+            [
+                "PD-0325901",
+                "INHIBITOR",
+                "extracellular signal-regulated kinase kinase"
+            ]
+        ]
+    },
+    {
+        "text": "Effects of an ethanolic salix extract on the release of selected inflammatory mediators in vitro. Salix extracts are in current use for the treatment of pain and inflammation. In order to obtain an insight into the mechanism(s) of action of the ethanolic Salix extract 1520L--which is essentially similar to an extract for which clinical studies have demonstrated analgesic effectiveness--its effects were evaluated in an established in vitro assay test system using primary human monocytes. The IC50-values obtained for the inhibition of lipopolysaccharide (LPS)-induced release of prostaglandin E2 (PGE2) reflecting cyclooxygenase (COX)-2-mediated PGE2 release were 47 microg/ml and 0.6 microg/ml, for the Salix extract 1520L and rofecoxib-like research compound L745337, respectively. There was no effect on COX-1 and COX-2 activity. The Salix extract inhibited the LPS-induced release of tumor necrosis factor-alpha, interleukin-1beta and interleukin-6 with IC50-values of 180.0, 33.0 and 86.0 microg/ml, respectively. Both, salicin and salicylate, had no effect in any of the parameters. Our results indicate that Salix extract 1520L inhibits COX-2-mediated PGE2 release through compounds other than salicin or salicylate. Our data further suggest that the proprietary Salix extract is a weak inhibitor of proinflammatory cytokines.",
+        "triple_list": [
+            [
+                "PGE2",
+                "PRODUCT-OF",
+                "cyclooxygenase (COX)-2"
+            ],
+            [
+                "PGE2",
+                "PRODUCT-OF",
+                "COX-2"
+            ]
+        ]
+    },
+    {
+        "text": "Effects of fenofibrate, a PPAR-\u03b1 ligand, on the haemodynamics of glycerol-induced renal failure in rats. The modulating effect of peroxisome proliferator-activated receptor \u03b1 ligand on haemodynamic effects of phenylepherine (PE), angiotensin II (AII), endothelin 1 (ET1), acetylcholine (Ach), sodium nitroprusside (SNP) and isoproterenol (ISO) were evaluated in glycerol-induced acute kidney injury in rats. The effect of PE on fenofibrate-treated animals was a dose-dependent increase in mean arterial blood pressure (MAP). For AII and ET1, MAP was also increased for the fenofibrate group but not in a dose-dependent fashion. On the medullary blood flow (MBF), while the lower doses of PE and AII increased the perfusion unit on the fenofibrate-treated group, the higher doses decreased the perfusion unit. The ET1 increased the perfusion unit on this group but not in dose-dependent fashion. The effects of PE and AII on the cortical blood flow (CBF) of fenofibrate-treated group is similar to that of MBF for the same group but not for ET1. The effect of Ach, SNP and ISO in all the groups was the decrease in MAP. ISO caused dose-dependent increase in MBF of fenofibrate-treated group. The effect of Ach, SNP and ISO on the CBF perfusion unit was that of the increase for the fenofibrate-treated group. The study showed that fenofibrate did not attenuate increased blood pressure induced by PE, AII and ET1 but caused enhanced vasodilation by Ach, SNP and ISO.",
+        "triple_list": [
+            [
+                "fenofibrate",
+                "DIRECT-REGULATOR",
+                "PPAR-\u03b1"
+            ],
+            [
+                "fenofibrate",
+                "INDIRECT-UPREGULATOR",
+                "AII"
+            ],
+            [
+                "fenofibrate",
+                "INDIRECT-UPREGULATOR",
+                "ET1"
+            ]
+        ]
+    },
+    {
+        "text": "Affinities of venlafaxine and various reuptake inhibitors for the serotonin and norepinephrine transporters. In vitro radioligand binding studies were carried out in rat brain membranes to assess the affinity of various reuptake inhibitors for the serotonin (5-hydroxytryptamine, 5-HT) and the norepinephrine transporters using the selective ligands [3H]cyanoimipramine and [3H]nisoxetine, respectively. The selective 5-HT reuptake inhibitors paroxetine, indalpine and fluvoxamine displayed a high affinity for the 5-HT transporter, whereas the norepinephrine reuptake inhibitor desipramine had a high affinity for the norepinephrine transporter. Duloxetine, a dual 5-HT and norepinephrine reuptake inhibitor, displayed a high affinity for both the 5-HT and the norepinephrine transporters. Interestingly, venlafaxine, a dual 5-HT and norepinephrine reuptake inhibitor, displayed only a moderate affinity for the 5-HT transporter (Ki = 74 nM) and a very low affinity for the norepinephrine transporter (Ki = 1.26 microM). The relatively low affinities of venlafaxine contrast with its potent in vivo 5-HT and norepinephrine reuptake blocking properties. These results raise the possibility that the in vivo effects on the 5-HT and norepinephrine reuptake observed with venlafaxine may not be mediated solely by its binding to the [3H]cyanoimipramine and [3H]nisoxetine binding sites.",
+        "triple_list": [
+            [
+                "venlafaxine",
+                "DIRECT-REGULATOR",
+                "5-HT transporter"
+            ],
+            [
+                "fluvoxamine",
+                "DIRECT-REGULATOR",
+                "5-HT transporter"
+            ],
+            [
+                "indalpine",
+                "DIRECT-REGULATOR",
+                "5-HT transporter"
+            ],
+            [
+                "desipramine",
+                "DIRECT-REGULATOR",
+                "norepinephrine transporter"
+            ],
+            [
+                "paroxetine",
+                "DIRECT-REGULATOR",
+                "5-HT transporter"
+            ]
+        ]
+    },
+    {
+        "text": "Tissue-type plasminogen activator acts as a cytokine that triggers intracellular signal transduction and induces matrix metalloproteinase-9 gene expression. Tissue-type plasminogen activator (tPA), a serine protease well known for generating plasmin, has been demonstrated to induce matrix metalloproteinase-9 (MMP-9) gene expression and protein secretion in renal interstitial fibroblasts. However, exactly how tPA transduces its signal into the nucleus to control gene expression is unknown. This study investigated the mechanism by which tPA induces MMP-9 gene expression. Both wild-type and non-enzymatic mutant tPA were found to induce MMP-9 expression in rat kidney interstitial fibroblasts (NRK-49F), indicating that the actions of tPA are independent of its proteolytic activity. tPA bound to the low density lipoprotein receptor-related protein-1 (LRP-1) in NRK-49F cells, and this binding was competitively abrogated by the LRP-1 antagonist, the receptor-associated protein. In mouse embryonic fibroblasts (PEA-13) lacking LRP-1, tPA failed to induce MMP-9 expression. Furthermore, tPA induced rapid tyrosine phosphorylation on the beta subunit of LRP-1, which was followed by the activation of Mek1 and its downstream Erk-1 and -2. Blockade of Erk-1/2 activation by the Mek1 inhibitor abolished MMP-9 induction by tPA in NRK-49F cells. Conversely, overexpression of constitutively activated Mek1 induced Erk-1/2 phosphorylation and MMP-9 expression. In mouse obstructed kidney, tPA, LRP-1, and MMP-9 were concomitantly induced in the renal interstitium. Collectively, these results suggest that besides its classical proteolytic activity, tPA acts as a cytokine that binds to the cell membrane receptor LRP-1, induces its tyrosine phosphorylation, and triggers intracellular signal transduction, thereby inducing specific gene expression in renal interstitial fibroblasts.",
+        "triple_list": [
+            [
+                "tyrosine",
+                "PART-OF",
+                "LRP-1"
+            ]
+        ]
+    },
+    {
+        "text": "Almorexant effects on CYP3A4 activity studied by its simultaneous and time-separated administration with simvastatin and atorvastatin. PURPOSE: To characterise further the previously observed cytochrome P450 3A4 (CYP3A4) interaction of the dual orexin receptor antagonist almorexant. METHODS: Pharmacokinetic interactions were investigated (n\u2009=\u200914 healthy male subjects in two treatment groups) between almorexant at steady-state when administered either concomitantly or 2\u00a0h after administration of single doses of simvastatin (40\u00a0mg) or atorvastatin (40\u00a0mg). RESULTS: Almorexant dose-dependently increased simvastatin exposure (AUC(0-\u221e)) when administered concomitantly [geometric mean ratios (90\u00a0% CI): 2.5 (2.1, 2.9) (100\u00a0mg), 3.9 (3.3, 4.6) (200\u00a0mg)], but not C(max) [3.7 (3.0, 4.5) for both doses]. Time-separated administration resulted in relevant reductions of the interaction [AUC(0-\u221e): 1.4 (1.2, 1.7) (100\u00a0mg), 1.7 (1.5, 2.0) (200\u00a0mg); C(max): 1.5 (1.3, 1.9) (100\u00a0mg), 1.9 (1.6, 2.4) (200\u00a0mg)]. Similar results were obtained for hydroxyacid simvastatin. Independent of almorexant dose and relative time of administration, AUC(0-\u221e) and C(max) of atorvastatin increased (ratios ranged from 1.1 to 1.5). AUC(0-\u221e) and C(max) of o-hydroxy atorvastatin decreased dose-independently [AUC(0-\u221e): 0.8 (0.8, 0.9) (100\u00a0mg), 0.6 (0.5, 0.6) (200\u00a0mg); C(max): 0.3 (0.3, 0.4) (100\u00a0mg), 0.2 (0.2, 0.3) (200\u00a0mg)] when atorvastatin was concomitantly administered. C(max) of o-hydroxy atorvastatin slightly decreased (0.8 for both doses) following time-separated administration; AUC(0-\u221e) was unchanged. CONCLUSIONS: Whereas almorexant increased simvastatin exposure dose- and relative time of administration-dependently, atorvastatin exposure increased to a smaller extent and irrespective of dose and time. This suggests that the observed interaction of almorexant with simvastatin is mainly caused by intestinal CYP3A4 inhibition, whereas the interaction with atorvastatin is more due to hepatic CYP3A4 inhibition.",
+        "triple_list": [
+            [
+                "almorexant",
+                "ANTAGONIST",
+                "orexin receptor"
+            ]
+        ]
+    },
+    {
+        "text": "A gene for pyridoxine-dependent epilepsy maps to chromosome 5q31. Pyridoxine-dependent epilepsy (PDE) is a rare autosomal recessive disorder characterized by generalized seizures in the first hours of life and responding only to pyridoxine hydrochloride. The pathogenesis of PDE is unknown, but an alteration in the binding of pyridoxal 5-phosphate to glutamic acid decarboxylase (GAD) has been postulated in patients with PDE. Results are reported for genetic linkage analyses in four families with consanguineous parents and in one family with nonconsanguineous parents. The GAD1 (2q31) and GAD2 genes (10p23) were tested and excluded. A genomewide search was subsequently performed, using microsatellite markers at an average distance of 10 cM, and the search revealed linkage of the disease-causing gene to markers on chromosome 5q31.2-q31.3 (maximum LOD score [Z(max)] 8.43 at recombination fraction [theta] 0 and Zmax=7.58 at straight theta=0 at loci D5S2017 and D5S1972, respectively). A recombination event, between loci D5S638 and D5S463, in one family defined the distal boundary, and a second recombination event between loci D5S2011 and D5S2017 in another family defined the proximal boundary of the genetic interval encompassing the PDE gene (5.1 cM). Ongoing studies may lead to the identification of the disease-causing gene.",
+        "triple_list": [
+            [
+                "pyridoxal 5-phosphate",
+                "DIRECT-REGULATOR",
+                "GAD"
+            ],
+            [
+                "pyridoxal 5-phosphate",
+                "DIRECT-REGULATOR",
+                "glutamic acid decarboxylas"
+            ]
+        ]
+    },
+    {
+        "text": "The Fusarium toxin deoxynivalenol (DON) modulates the LPS induced acute phase reaction in pigs. The systemic effects of the Fusarium toxin deoxynivalenol (DON) and of bacterial lipopolysaccharides (LPS) were studied in male castrated pigs (40.4\u00b13.7kg) infused intravenously with either DON or LPS alone (100\u03bcgDON/kg/h, 7.5\u03bcg/LPS/kg/h), or together (100\u03bcgDON plus 7.5\u03bcg/LPS/kg/h). The Control group received a saline infusion (n=6/treatment, 24h observation period). An additional DON infusion did not exacerbate the clinical signs observed in LPS-infused pigs. For example, rectal temperature climaxed after 4h (40.4\u00b10.2\u00b0C) and 5h (40.1\u00b10.3\u00b0C), in the LPS and LPS+DON groups, respectively. Saline and DON alone did not induce an acute phase reaction as indicated by unaltered plasma levels of tumor necrosis factor-alpha (TNF-alpha) and interleukin-6 (IL-6) while LPS caused a significant rise of both cytokines. TNF-alpha plasma peak concentrations were significantly higher in the LPS compared to the DON+LPS group (94.3\u00b117.2ng/mL vs. 79.2\u00b115.7ng/mL) while IL-6 climaxed earlier in the latter group (3h p.i. vs. 2h p.i.). From the tested clinical-chemical plasma characteristics the total bilirubin concentration and the ASAT activity were strongly elevated by the LPS infusion and additionally increased and decreased by DON, respectively. In conclusion, the LPS-induced effects were only marginally modified by DON.",
+        "triple_list": [
+            [
+                "DON",
+                "INDIRECT-UPREGULATOR",
+                "IL-6"
+            ],
+            [
+                "DON",
+                "INDIRECT-UPREGULATOR",
+                "TNF-alpha"
+            ],
+            [
+                "DON",
+                "INHIBITOR",
+                "ASAT"
+            ]
+        ]
+    },
+    {
+        "text": "Chronic effect of [D-Pen2,D-Pen5]enkephalin on rat brain opioid receptors. In previous studies, we have demonstrated that chronic etorphine or [D-Ala2,D-Leu5]enkephalin (DADLE) treatment of rats results in the reduction of mu- and delta-opioid receptor binding activities as tolerance develops. As both etorphine and DADLE are relatively non-specific opioid ligands, interacting with both mu- and delta-receptors, these studies could not determine whether down-regulation of a specific receptor type occurs. Therefore, in the present studies, animals were rendered tolerant to the delta-opioid receptor-selective agonist [D-Pen2,D-Pen5]enkephalin (DPDPE), and receptor binding activities were measured. Treating Sprague-Dawley rats with increasing doses of DPDPE (80-160-240-320 micrograms/kg) i.c.v. for 1 to 4 days resulted in a time-dependent increase in the AD50 of DPDPE to elicit an antinociceptive response. When delta-receptor binding was determined by using [3H]DPDPE, a 40-50% decrease in binding in the midbrain and cortex, and 25-35% decrease in binding in the striatum were observed after 3 or 4 days of DPDPE treatment. Scatchard analysis of the [3H]DPDPE saturation binding data revealed a decrease in Bmax values and no significant change in Kd values. To our surprise, when mu-receptor binding was determined by using [3H]Tyr-D-Ala-Gly-MePhe-Gly-ol (DAMGO), a 10-15% decrease in binding was also observed in the midbrain and cortex after 4 days of DPDPE treatment. Our conclusion is that chronic DPDPE treatment preferentially reduces delta-opioid receptor binding activity. Its minor effect on the mu-opioid receptor maybe due to an interaction between delta cx and mu cx binding sites.",
+        "triple_list": [
+            [
+                "[3H]DPDPE",
+                "DIRECT-REGULATOR",
+                "delta-receptor"
+            ],
+            [
+                "DPDPE",
+                "INHIBITOR",
+                "delta-opioid receptor"
+            ],
+            [
+                "DAMGO",
+                "DIRECT-REGULATOR",
+                "mu-receptor"
+            ],
+            [
+                "[3H]Tyr-D-Ala-Gly-MePhe-Gly-ol",
+                "DIRECT-REGULATOR",
+                "mu-receptor"
+            ],
+            [
+                "DPDPE",
+                "DIRECT-REGULATOR",
+                "delta-receptor"
+            ],
+            [
+                "[D-Pen2,D-Pen5]enkephalin",
+                "AGONIST",
+                "delta-opioid receptor"
+            ],
+            [
+                "DPDPE",
+                "DIRECT-REGULATOR",
+                "mu-receptor"
+            ],
+            [
+                "DPDPE",
+                "AGONIST",
+                "delta-opioid receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Selective inhibitors and tailored activity probes for lipoprotein-associated phospholipase A(2). Lipoprotein-associated phospholipase A(2) (Lp-PLA(2) or PLA(2)G7) binds to low-density lipoprotein (LDL) particles, where it is thought to hydrolyze oxidatively truncated phospholipids. Lp-PLA(2) has also been implicated as a pro-tumorigenic enzyme in human prostate cancer. Several inhibitors of Lp-PLA(2) have been described, including darapladib, which is currently in phase 3 clinical development for the treatment of atherosclerosis. The selectivity that darapladib and other Lp-PLA(2) inhibitors display across the larger serine hydrolase family has not, however, been reported. Here, we describe the use of both general and tailored activity-based probes for profiling Lp-PLA(2) and inhibitors of this enzyme in native biological systems. We show that both darapladib and a novel class of structurally distinct carbamate inhibitors inactivate Lp-PLA(2) in mouse tissues and human cell lines with high selectivity. Our findings thus identify both inhibitors and chemoproteomic probes that are suitable for investigating Lp-PLA(2) function in biological systems.",
+        "triple_list": [
+            [
+                "carbamate",
+                "INHIBITOR",
+                "Lp-PLA(2)"
+            ],
+            [
+                "darapladib",
+                "INHIBITOR",
+                "Lp-PLA(2)"
+            ]
+        ]
+    },
+    {
+        "text": "Modulation of activity and inhibitor sensitivity of rabbit aldose reductase-like protein (AKR1B19) by oxidized glutathione and SH-reagents. Rabbit aldo-keto reductase (AKR) 1B19 is an ortholog of human aldose reductase-like protein (ARLP), AKR1B10, showing 86% amino acid sequence identity. AKR1B19 exhibits the highest catalytic efficiency for 4-oxo-2-nonenal, a major product of lipid peroxidation, compared to known reductases of this aldehyde. In this study, we found that the reductase activity of AKR1B19 was activated to about 5-fold immediately after the addition of 10 \u03bcM SH-reagents (p-chloromercuriphenylsulfonic acid and p-chloromercuribenzoic acid) in the absence or presence of NADPH. In addition, a maximum of 3-fold activation of AKR1B19 was induced by incubation with glutathione disulfide (GSSG) for 1h. The activated enzyme was converted into the native enzyme by further incubation with dithiothreitol and glutathione. The activation was abolished by the C299S mutation of AKR1B19, and the glutathionylated Cys299 was identified by mass spectrometry analysis. The Cys299-modified enzyme displayed different kinetic alterations depending on substrates and inhibitors. In the reduction of 4-oxo-2-nonenal, the catalytic efficiency was increased. Thus, AKR1B10 may be modulated by cellular ratio of GSSG/glutathione and more efficiently act as a detoxifying enzyme for the cytotoxic aldehyde under oxidatively stressed conditions. Furthermore, such an activity alteration by GSSG was not detected in AKR1B10 and rat ARLPs, suggesting the presence of a GSSG-binding site near Cys299 in AKR1B19.",
+        "triple_list": [
+            [
+                "aldehyde",
+                "SUBSTRATE",
+                "AKR1B10"
+            ],
+            [
+                "p-chloromercuriphenylsulfonic acid",
+                "ACTIVATOR",
+                "AKR1B19"
+            ],
+            [
+                "p-chloromercuribenzoic acid",
+                "ACTIVATOR",
+                "AKR1B19"
+            ],
+            [
+                "SH",
+                "ACTIVATOR",
+                "reductase"
+            ],
+            [
+                "SH",
+                "ACTIVATOR",
+                "AKR1B19"
+            ],
+            [
+                "amino acid",
+                "PART-OF",
+                "AKR1B10"
+            ],
+            [
+                "amino acid",
+                "PART-OF",
+                "Rabbit aldo-keto reductase (AKR) 1B19"
+            ],
+            [
+                "amino acid",
+                "PART-OF",
+                "human aldose reductase-like protein"
+            ],
+            [
+                "Cys",
+                "PART-OF",
+                "AKR1B19"
+            ],
+            [
+                "amino acid",
+                "PART-OF",
+                "ARLP"
+            ],
+            [
+                "p-chloromercuribenzoic acid",
+                "ACTIVATOR",
+                "reductase"
+            ],
+            [
+                "GSSG",
+                "ACTIVATOR",
+                "AKR1B19"
+            ],
+            [
+                "p-chloromercuriphenylsulfonic acid",
+                "ACTIVATOR",
+                "reductase"
+            ],
+            [
+                "GSSG",
+                "DIRECT-REGULATOR",
+                "AKR1B19"
+            ],
+            [
+                "Cys",
+                "PART-OF",
+                "C299S"
+            ],
+            [
+                "glutathione disulfide",
+                "ACTIVATOR",
+                "AKR1B19"
+            ]
+        ]
+    },
+    {
+        "text": "Discriminative stimulus effects of the mixed-opioid agonist/antagonist dezocine: cross-substitution by mu and delta opioid agonists. The purpose of this investigation was to evaluate the discriminative stimulus effects of the mixed-opioid agonist/antagonist dezocine. In pigeons trained to discriminate 1.7 mg/kg dezocine from saline, a series of opioids with activity at the mu opioid receptor substituted completely for the dezocine stimulus with a rank order of potency similar to that obtained in other assays sensitive to the effects of mu agonists (i.e., fentanyl >[-]-cyclazocine >buprenorphine = butorphanol >l-methadone >nalbuphine >[-]-metazocine >morphine). (-)-N-allylnormetazocine and (+)-propoxyphene substituted partially for the dezocine stimulus, an effect obtained even when tested up to doses that suppressed responding. Naloxone (0.1 - 10 mg/kg) antagonized the stimulus effects of dezocine, (+)-propoxyphene and fentanyl in a dose-related manner, whereas doses of naloxone that antagonized fentanyl's rate-decreasing effects failed to antagonize the rate-decreasing effects of dezocine and (+)-propoxyphene. A 10-mg/kg dose of the mu-selective, noncompetitive antagonist beta-funaltrexamine was more effective against the stimulus effects of dezocine and nalbuphine than against morphine and fentanyl. As was observed with naloxone, beta-funaltrexamine failed to antagonize dezocine's rate-decreasing effects. The delta agonists BW373U86 and SNC80 substituted partially for the dezocine stimulus, and these effects were reversed by doses of the delta-selective antagonist naltrindole (0.1 and 1.0 mg/kg) that had no effect on the dezocine stimulus. Naltrindole also antagonized the rate-decreasing effects produced by BW373U86 and SNC80, but not those of dezocine. The kappa agonists bremazocine, spiradoline, U50,488 and U69,593 failed to substitute for the dezocine stimulus. The kappa-selective antagonist norbinaltorphimine (1.0 mg/kg) failed to antagonize dezocine's stimulus or rate-decreasing effects. The present findings indicate that dezocine shares similar stimulus effects with both mu and delta agonists, its stimulus effects are reversed by mu-selective antagonists, and its rate-decreasing effects are not mediated by activity at mu, kappa or delta opioid receptors.",
+        "triple_list": [
+            [
+                "morphine",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "[-]-cyclazocine",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "[-]-metazocine",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "fentanyl",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "buprenorphine",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "l-methadone",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "butorphanol",
+                "AGONIST",
+                "mu opioid receptor"
+            ],
+            [
+                "nalbuphine",
+                "AGONIST",
+                "mu opioid receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Phytoestrogen genistein protects against endothelial barrier dysfunction in vascular endothelial cells through PKA-mediated suppression of RhoA signaling. The soy-derived phytoestrogen genistein has received attention for its potential to improve vascular function, but its mechanism remains unclear. Here, we report that genistein at physiologically relevant concentrations (0.1-10 \u03bcM) significantly inhibited thrombin-induced increase in endothelial monolayer permeability. Genistein also reduced the formation of stress fibers by thrombin and suppressed thrombin-induced phosphorylation of myosin light chain (MLC) on Ser(19)/Thr(18) in endothelial cells (ECs). Genistein had no effect on resting intracellular [Ca(2+)] or thrombin-induced increase in Ca(2+) mobilization. Addition of the inhibitors of endothelial nitric oxide synthase or estrogen receptor did not alter the protective effect of genistein. RhoA is a small GTPase that plays an important role in actin-myosin contraction and endothelial barrier dysfunction. RhoA inhibitor blocked the protective effect of genistein on endothelial permeability and also ablated thrombin-induced MLC-phosphorylation in ECs. Inhibition of PKA significantly attenuated the effect of genistein on thrombin-induced EC permeability, MLC phosphorylation, and RhoA membrane translocation in ECs. Furthermore, thrombin diminished cAMP production in ECs, which were prevented by treatment with genistein. These findings demonstrated that genistein improves thrombin-induced endothelial barrier dysfunction in ECs through PKA-mediated suppression of RhoA signaling.",
+        "triple_list": [
+            [
+                "Genistein",
+                "INHIBITOR",
+                "MLC"
+            ],
+            [
+                "Ser",
+                "PART-OF",
+                "MLC"
+            ],
+            [
+                "Ser",
+                "PART-OF",
+                "myosin light chain"
+            ],
+            [
+                "Thr",
+                "PART-OF",
+                "myosin light chain"
+            ],
+            [
+                "Genistein",
+                "INHIBITOR",
+                "thrombin"
+            ],
+            [
+                "Thr",
+                "PART-OF",
+                "MLC"
+            ],
+            [
+                "Genistein",
+                "INHIBITOR",
+                "myosin light chain"
+            ],
+            [
+                "genistein",
+                "INHIBITOR",
+                "thrombin"
+            ]
+        ]
+    },
+    {
+        "text": "Design and synthesis of novel 2-methyl-4,5-substitutedbenzo[f]-3,3a,4,5-tetrahydro-pyrazolo[1,5-d][1,4]oxazepin-8(7H)-one derivatives as telomerase inhibitors. Eight novel 4,5-tetrahydropyrazolo[1,5-d][1,4]oxazepine derivatives have been synthesized and purified to be screened for anticancer activity. By a modified TRAP assay, some titled compounds were tested against telomerase, and compound 4a showed the most potent inhibitory activity with IC(50) value at 0.78 \u00b1 0.22 \u03bcM. Western blot assays showed that compounds 4a and 4b could inhibit expression of Cyclin D1, TERT, phospho-AKT and PI3K/AKT pathway.",
+        "triple_list": [
+            [
+                "2-methyl-4,5-substitutedbenzo[f]-3,3a,4,5-tetrahydro-pyrazolo[1,5-d][1,4]oxazepin-8(7H)-one",
+                "INHIBITOR",
+                "telomerase"
+            ]
+        ]
+    },
+    {
+        "text": "Retinoids control anterior and dorsal properties in the developing forebrain. We have previously shown that retinoic acid (RA) synthesized by the retinaldehyde dehydrogenase 2 (RALDH2) is required in forebrain development. Deficiency in RA due to inactivation of the mouse Raldh2 gene or to complete absence of retinoids in vitamin-A-deficient (VAD) quails, leads to abnormal morphogenesis of various forebrain derivatives. In this study we show that double Raldh2/Raldh3 mouse mutants have a more severe phenotype in the craniofacial region than single null mutants. In particular, the nasal processes are truncated and the eye abnormalities are exacerbated. It has been previously shown that retinoids act mainly on cell proliferation and survival in the ventral forebrain by regulating SHH and FGF8 signaling. Using the VAD quail model, which survives longer than the Raldh-deficient mouse embryos, we found that retinoids act in maintaining the correct position of anterior and dorsal boundaries in the forebrain by modulating FGF8 anteriorly and WNT signaling dorsally. Furthermore, BMP4 and FGF8 signaling are affected in the nasal region and BMP4 is ventrally expanded in the optic vesicle. At the optic cup stage, Pax6, Tbx5 and Bmp4 are ectopically expressed in the presumptive retinal pigmented epithelium (RPE), while Otx2 and Mitf are not induced, leading to a dorsal transdifferentiation of RPE to neural retina. Therefore, besides being required for survival of ventral structures, retinoids are involved in restricting anterior identity in the telencephalon and dorsal identity in the diencephalon and the retina.",
+        "triple_list": [
+            [
+                "retinoic acid",
+                "PRODUCT-OF",
+                "retinaldehyde dehydrogenase 2"
+            ],
+            [
+                "RA",
+                "PRODUCT-OF",
+                "retinaldehyde dehydrogenase 2"
+            ],
+            [
+                "RA",
+                "PRODUCT-OF",
+                "RALDH2"
+            ],
+            [
+                "retinoids",
+                "INDIRECT-UPREGULATOR",
+                "FGF8"
+            ],
+            [
+                "retinoids",
+                "INDIRECT-UPREGULATOR",
+                "SHH"
+            ],
+            [
+                "retinoic acid",
+                "PRODUCT-OF",
+                "RALDH2"
+            ]
+        ]
+    }
+]

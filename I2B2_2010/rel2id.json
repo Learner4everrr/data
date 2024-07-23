@@ -1,0 +1,22 @@
+[
+    {
+        "0": "TrCP",
+        "1": "TrWP",
+        "2": "PIP",
+        "3": "TrIP",
+        "4": "TrAP",
+        "5": "TrNAP",
+        "6": "TeCP",
+        "7": "TeRP"
+    },
+    {
+        "TrCP": 0,
+        "TrWP": 1,
+        "PIP": 2,
+        "TrIP": 3,
+        "TrAP": 4,
+        "TrNAP": 5,
+        "TeCP": 6,
+        "TeRP": 7
+    }
+]
